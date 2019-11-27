@@ -1,0 +1,22 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout source
+      uses: actions/checkout@v1
+    - name: Hugo Actions
+      uses: srt32/hugo-action@v0.0.3
+    - name: Add & Commit
+      uses: EndBug/add-and-commit@v2.1.0
+      with:
+        author_name: GitHub Actions
+        message: Static site regenerated
+        path: ./docs
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
