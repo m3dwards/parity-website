@@ -1,4 +1,4 @@
-baseURL = "https://parity.uk/"
+baseURL = "https://parity.uk"
 languageCode = "en-gb"
 title = "Parity Network"
 publishDir = "docs"
