@@ -8,17 +8,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Wait 2m for Github Pages to finish building
-      run: sleep 120
     - name: Checkout source
       uses: actions/checkout@v1
     - name: Hugo Actions
       uses: srt32/hugo-action@v0.0.3
-    - name: Add & Commit
-      uses: EndBug/add-and-commit@v2.1.0
-      with:
-        author_name: GitHub Actions
-        message: Static site regenerated
-        path: ./docs
+    - name: Build and Deploy
+      uses: grasilife/github-pages-deploy-action@master
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        BASE_BRANCH: master # The branch the action should deploy from.
+        BRANCH: master # The branch the action should deploy to.
+        FOLDER: docs # The folder the action should deploy.
+        
+
