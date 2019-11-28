@@ -8,6 +8,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Wait 2m for Github Pages to finish building
+      run: sleep 120
     - name: Checkout source
       uses: actions/checkout@v1
     - name: Hugo Actions
