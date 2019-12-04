@@ -1,26 +1,25 @@
 {{ define "main" }}
-    <h1>Posts</h1>
+    <h1>Posts 2</h1>
+    {{ .Content }}
+    <script>
+     // Initialize and add the map
+     function initMap() {
+         var parityLocation = {lat: {{ .Params.mapCentreLat }}, lng: {{ .Params.mapCentreLong }}};
+         var map = new google.maps.Map(document.getElementById('map'), {zoom: {{ .Params.mapZoom }}, center: parityLocation});
+         // The marker, positioned at Uluru
+         var marker = new google.maps.Marker({position: uluru, map: map});
+     }
+    </script>
+    <div id="map"></div>
     {{ range .Pages }}
     <article>
         <h2>{{ .Title }}</h2>
         {{ .Content }}
         <h3>Parity Directory</h3>
-        <div id="map"></div>
-        <script>
-        // Initialize and add the map
-        function initMap() {
-            // The location of Uluru
-            var uluru = {lat: 52.489281, lng: -1.912640};
-            // The map, centered at Uluru
-            var map = new google.maps.Map(
-                document.getElementById('map'), {zoom: 4, center: uluru});
-            // The marker, positioned at Uluru
-            var marker = new google.maps.Marker({position: uluru, map: map});
-        }
-        </script>
-        <script async defer
-                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDhyEMXSYyB0XbXtUGdtHXIBXzxAaiPeAg&callback=initMap">
-        </script>
     </article>
     {{ end }}
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key={{ .Params.mapKey }}&callback=initMap">
+    </script>
+
 {{ end }}

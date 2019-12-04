@@ -1,6 +1,8 @@
 +++
 mapZoom = 10
-mapKey = "somekeyfromgoogle"
+mapKey = "AIzaSyDhyEMXSYyB0XbXtUGdtHXIBXzxAaiPeAg"
+mapCentreLat = 52.4902933
+mapCentreLong = -1.9145429
 +++
 
-# Directory
+## Directory of independant companies in Birmingham
