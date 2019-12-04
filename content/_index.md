@@ -2,5 +2,4 @@
 
 +++
 
-
 # Welcome to Parity Network
