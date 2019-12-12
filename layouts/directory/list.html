@@ -1,21 +1,33 @@
 {{ define "main" }}
-    <h1>Posts 2</h1>
     {{ .Content }}
     <script>
      // Initialize and add the map
+
+     var markers = [];
+
      function initMap() {
          var parityLocation = {lat: {{ .Params.mapCentreLat }}, lng: {{ .Params.mapCentreLong }}};
          var map = new google.maps.Map(document.getElementById('map'), {zoom: {{ .Params.mapZoom }}, center: parityLocation});
-         // The marker, positioned at Uluru
-         var marker = new google.maps.Marker({position: uluru, map: map});
+
+         markers.forEach(addMarker);
+
+         function addMarker(marker, index) {
+             new google.maps.Marker({position: marker.location, map: map, title: marker.title, icon: marker.icon});
+         }
      }
     </script>
     <div id="map"></div>
     {{ range .Pages }}
     <article>
-        <h2>{{ .Title }}</h2>
         {{ .Content }}
-        <h3>Parity Directory</h3>
+        {{ .Params.name }}
+        <script>
+         markers.push( {
+             location: {lat: {{ .Params.latitude }}, lng: {{ .Params.longitude }}},
+             title: {{ .Params.name }},
+             icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png'
+         } );
+        </script>
     </article>
     {{ end }}
     <script async defer
