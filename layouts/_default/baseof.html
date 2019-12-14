@@ -5,6 +5,8 @@
         {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
         <link rel="stylesheet" href="{{ $style.RelPermalink }}">
         <link rel="icon" href="/favicon.png" sizes="32x32">
+        {{ block "header" . }}
+        {{ end }}
         <title>
             {{ block "title" . }}
                 {{ .Site.Title }}
@@ -12,11 +14,12 @@
         </title>
     </head>
     <body>
-        {{ block "header" . }}
-        {{ end }}
+        {{ partial "menu.html" . }}
 
         {{ block "main" . }}
         {{ end }}
+
+        {{ partial "footer.html" . }}
 
         {{ block "footer" . }}
         {{ end }}
