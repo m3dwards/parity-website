@@ -4,7 +4,8 @@
     {{ range .Pages }}
     <article>
         <h2>{{ .Title }}</h2>
-        {{ .Content }}
+        {{ .Summary }}
+        <a href="{{ .RelPermalink }}">Read more ></a>
     </article>
     {{ end }}
 {{ end }}
