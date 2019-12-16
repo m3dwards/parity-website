@@ -2,8 +2,15 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
         {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
         <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+
+        {{ $navigation := resources.Get "js/navigation.js" }}
+        {{ $JS := $navigation | resources.Minify | resources.Fingerprint "sha512" }}
+
         <link rel="icon" href="/favicon.png" sizes="32x32">
         {{ block "header" . }}
         {{ end }}
@@ -14,14 +21,17 @@
         </title>
     </head>
     <body>
-        {{ partial "menu.html" . }}
+        <div class="container-fluid">
+            {{ partial "menu.html" . }}
 
-        {{ block "main" . }}
-        {{ end }}
+            {{ block "main" . }}
+            {{ end }}
 
-        {{ partial "footer.html" . }}
+            {{ partial "footer.html" . }}
 
-        {{ block "footer" . }}
-        {{ end }}
+            {{ block "footer" . }}
+            {{ end }}
+        </div>
+        <script type="text/javascript" src="{{ $JS.Permalink }}" integrity="{{ $JS.Data.Integrity }}"></script>
     </body>
 </html>
