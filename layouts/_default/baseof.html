@@ -4,9 +4,6 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-        {{ $bootstrap := resources.Get "sass/bootstrap/bootstrap.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-        <link rel="stylesheet" href="{{ $bootstrap.RelPermalink }}">
-
         {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
         <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
@@ -23,17 +20,16 @@
         </title>
     </head>
     <body>
-        <div class="container-fluid">
+        <div class="container">
             {{ partial "menu.html" . }}
-
-            {{ block "main" . }}
-            {{ end }}
-
-            {{ partial "footer.html" . }}
-
-            {{ block "footer" . }}
-            {{ end }}
         </div>
+        {{ block "main" . }}
+        {{ end }}
+
+        {{ block "footer" . }}
+        {{ end }}
+        {{ partial "footer.html" . }}
+
         <script type="text/javascript" src="{{ $JS.Permalink }}" integrity="{{ $JS.Data.Integrity }}"></script>
     </body>
 </html>

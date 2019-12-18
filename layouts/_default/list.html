@@ -1,11 +1,16 @@
+{{ define "title" }}
+    {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
 {{ define "main" }}
-    <h1>Posts 2</h1>
-    {{ .Content }}
-    {{ range .Pages }}
-    <article>
-        <h2>{{ .Title }}</h2>
-        {{ .Summary }}
-        <a href="{{ .RelPermalink }}">Read more ></a>
-    </article>
-    {{ end }}
+    <div class="container">
+        <h1>Posts 2</h1>
+        {{ .Content }}
+        {{ range .Pages }}
+        <article>
+            <h2>{{ .Title }}</h2>
+            {{ .Summary }}
+            <a href="{{ .RelPermalink }}">Read more ></a>
+        </article>
+        {{ end }}
+    </div>
 {{ end }}
