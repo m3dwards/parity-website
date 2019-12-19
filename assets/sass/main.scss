@@ -5,6 +5,12 @@
 
 // To upgrade Bootstrap, download new scss and modify bootstrap/_variables.scss to point to the top level _variables.scss
 
+/* --breakpoint-xs: 0; */
+/* --breakpoint-sm: 576px; */
+/* --breakpoint-md: 768px; */
+/* --breakpoint-lg: 992px; */
+/* --breakpoint-xl: 1200px; */
+
 body {
     font: 100% $font-stack;
     color: $primary-color;
@@ -20,10 +26,23 @@ a, a:hover {color: $main-pink;}
     background-image: url("/images/landing-birmingham.jpg");
     background-repeat: no-repeat;
     background-size: 100% auto;
-    min-height: 40em;
-    height: 40em;
+    background-position: left bottom;
 };
+
+@media (min-width: 768px) {
+    #homepage-feature {
+        background-position: left top;
+        margin-bottom: 8em;
+    };
+}
+
+@media (min-width: 768px) {
+    #homepage-feature-box {
+        margin-bottom: 9em !important;
+    };
+}
 
 #homepage-feature-box {
     background-color: rgba(255, 255, 255, 0.8);
+    /* margin-bottom: 4em; */
 }
