@@ -1,5 +1,4 @@
 +++
-menu = "main"
 +++
 
 # About Us

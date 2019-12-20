@@ -5,30 +5,31 @@ title = "Parity Network"
   tag = "tags"
 
 [menus]
-  [[main]]
+  [[menus.main]]
   name = "Contact"
   url = "/contact/"
-
-  [[main]]
+  weight = 1
+  [[menus.main]]
   name = "About us"
   url = "/about-us/"
-
-  [[main]]
+  weight = 2
+  [[menus.main]]
   name = "FAQs"
   url = "/faqs/"
-
-  [[main]]
+  weight = 3
+  [[menus.main]]
   name = "Pricing"
   url = "/pricing/"
-
-  [[main]]
+  weight = 4
+  [[menus.main]]
   name = "How it works"
   url = "/how-it-works/"
-
-  [[main]]
+  weight = 5
+  [[menus.main]]
   name = "Blog"
-  url = "/blog/"
-
-  [[main]]
+  url = "/posts/"
+  weight = 6
+  [[menus.main]]
   name = "Directory"
   url = "/directory/"
+  weight = 7

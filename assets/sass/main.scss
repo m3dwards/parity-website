@@ -1,7 +1,9 @@
 @import "variables";
 @import "footer";
 @import "directory";
+@import "menu";
 @import "bootstrap/bootstrap";
+
 
 // To upgrade Bootstrap, download new scss and modify bootstrap/_variables.scss to point to the top level _variables.scss
 
@@ -17,10 +19,6 @@ body {
 }
 
 a, a:hover {color: $main-pink;}
-
-#main-nav a:hover {margin-bottom: 0px; border-bottom: 2px solid $main-pink;}
-#main-nav a {margin-bottom: 2px; color: $main-pink}
-/* #main-nav a { display: block; padding: 0; margin: 0;} */
 
 #homepage-feature {
     background-image: url("/images/landing-birmingham.jpg");
@@ -46,4 +44,3 @@ a, a:hover {color: $main-pink;}
     background-color: rgba(255, 255, 255, 0.8);
     /* margin-bottom: 4em; */
 }
-

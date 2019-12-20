@@ -15,26 +15,19 @@
 
             {{ $currentPage := . }}
             {{ range .Site.Menus.main }}
-                bbc bbc
 
                 {{ $menu_item_url := .URL | relLangURL }}
                 {{ $page_url:= $currentPage.RelPermalink | relLangURL }}
 
                 {{ if eq $menu_item_url $page_url }}
                     {{/* the menu item links to the current page (with relLangURL) */}}
-                    <li class="nav-item"><a class="nav-link active" href="$menu_item_url">{{ .Name }}</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="{{ .URL }}">{{ .Name }}</a></li>
                 {{ else }}
-                    <li class="nav-item"><a class="nav-link" href="$menu_item_url">{{ .Name }}</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
                 {{ end }}
 
             {{ end }}
 
-            <li class="nav-item"><a class="nav-link" href="/about-us">About us</a></li>
-            <li class="nav-item"><a class="nav-link" href="/faqs">FAQs</a></li>
-            <li class="nav-item"><a class="nav-link" href="/pricing">Pricing</a></li>
-            <li class="nav-item"><a class="nav-link" href="/how-it-works">How it works</a></li>
-            <li class="nav-item"><a class="nav-link" href="/posts">Blog</a></li>
-            <li class="nav-item"><a class="nav-link" href="/directory">Directory</a></li>
         </ul>
     </div>
 </nav>
