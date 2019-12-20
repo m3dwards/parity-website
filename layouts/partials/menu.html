@@ -19,7 +19,7 @@
                 {{ $menu_item_url := .URL | relLangURL }}
                 {{ $page_url:= $currentPage.RelPermalink | relLangURL }}
 
-                {{ if eq $menu_item_url $page_url }}
+                {{ if in $page_url $menu_item_url }}
                     {{/* the menu item links to the current page (with relLangURL) */}}
                     <li class="nav-item"><a class="nav-link active" href="{{ .URL }}">{{ .Name }}</a></li>
                 {{ else }}
