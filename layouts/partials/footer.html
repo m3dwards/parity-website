@@ -32,7 +32,7 @@
                 <ul class="m-0 p-0">
                 {{ range first 3 (where site.RegularPages "Section" "posts") }}
                 <li>
-                    <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+                    <a href="{{.RelPermalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
                 </li>
                 {{ end }}
                 </ul>
