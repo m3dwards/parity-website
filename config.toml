@@ -3,3 +3,32 @@ languageCode = "en-gb"
 title = "Parity Network"
 [taxonomies]
   tag = "tags"
+
+[menus]
+  [[main]]
+  name = "Contact"
+  url = "/contact/"
+
+  [[main]]
+  name = "About us"
+  url = "/about-us/"
+
+  [[main]]
+  name = "FAQs"
+  url = "/faqs/"
+
+  [[main]]
+  name = "Pricing"
+  url = "/pricing/"
+
+  [[main]]
+  name = "How it works"
+  url = "/how-it-works/"
+
+  [[main]]
+  name = "Blog"
+  url = "/blog/"
+
+  [[main]]
+  name = "Directory"
+  url = "/directory/"

@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand right">
+<nav class="navbar navbar-expand right small">
     <ul class="navbar-nav ml-auto">
         <li class="nav-item"><a class="nav-link" href="https://apply.parity.uk">Sign Up</a></li>
         <li class="nav-item"><a class="nav-link" href="https://web.parity.uk">Sign In</a></li>
@@ -6,13 +6,29 @@
 </nav>
 
 <nav class="navbar navbar-expand-lg navbar-light">
-    <a class="navbar-brand" href="#"><img src="/images/parity-logo.png" alt="Parity Logo" height="50px" /></a>
+    <a class="navbar-brand" href="/"><img src="/images/parity-logo.png" alt="Parity Logo" height="50px" /></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto" id="main-nav">
-            <li class="nav-item"><a class="nav-link" href="/contact">Contact</a></li>
+
+            {{ $currentPage := . }}
+            {{ range .Site.Menus.main }}
+                bbc bbc
+
+                {{ $menu_item_url := .URL | relLangURL }}
+                {{ $page_url:= $currentPage.RelPermalink | relLangURL }}
+
+                {{ if eq $menu_item_url $page_url }}
+                    {{/* the menu item links to the current page (with relLangURL) */}}
+                    <li class="nav-item"><a class="nav-link active" href="$menu_item_url">{{ .Name }}</a></li>
+                {{ else }}
+                    <li class="nav-item"><a class="nav-link" href="$menu_item_url">{{ .Name }}</a></li>
+                {{ end }}
+
+            {{ end }}
+
             <li class="nav-item"><a class="nav-link" href="/about-us">About us</a></li>
             <li class="nav-item"><a class="nav-link" href="/faqs">FAQs</a></li>
             <li class="nav-item"><a class="nav-link" href="/pricing">Pricing</a></li>
