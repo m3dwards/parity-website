@@ -13,6 +13,7 @@
 /* --breakpoint-lg: 992px; */
 /* --breakpoint-xl: 1200px; */
 
+
 body {
     font: 100% $font-stack;
     color: $primary-color;
@@ -43,4 +44,8 @@ a, a:hover {color: $main-pink;}
 #homepage-feature-box {
     background-color: rgba(255, 255, 255, 0.8);
     /* margin-bottom: 4em; */
+}
+
+#homepage-customers {
+    img { width: 95%; margin: 0 auto; }
 }
