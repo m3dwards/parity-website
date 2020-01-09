@@ -21,35 +21,42 @@ body {
 
 a, a:hover {color: $main-pink;}
 
-#homepage-feature {
-    background-image: url("/images/landing-birmingham.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% auto;
-    background-position: left bottom;
-};
+h1,h2,h3,h4 {color: $main-pink;}
 
-@media (min-width: 768px) {
-    #homepage-feature {
-        background-position: left top;
-        margin-bottom: 8em;
+#homepage {
+    #feature {
+        h1,h2,h3,h4 {color: $primary-color;}
+        background-image: url("/images/landing-birmingham.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        background-position: left bottom;
     };
-}
 
-@media (min-width: 768px) {
-    #homepage-feature-box {
-        margin-bottom: 9em !important;
-    };
-}
+    @media (min-width: 768px) {
+        #feature {
+            background-position: left top;
+            margin-bottom: 8em;
+        };
+    }
 
-#homepage-feature-box {
-    background-color: rgba(255, 255, 255, 0.8);
-    /* margin-bottom: 4em; */
-}
+    @media (min-width: 768px) {
+        #feature-box {
+            margin-bottom: 9em !important;
+        };
+    }
 
-#homepage-customers {
-    img { width: 95%; }
-}
+    #feature-box {
+        background-color: rgba(255, 255, 255, 0.8);
+        /* margin-bottom: 4em; */
+    }
 
-#homepage-features {
-    img { width: 95%; }
+    #customers, #available-on-phone, #proven-concept {
+        img { max-width: 95%; }
+    }
+
+    #buy-sell-connect {
+        h1,h2,h3,h4 {color: $primary-color;}
+
+        img { width: 95%; }
+    }
 }
