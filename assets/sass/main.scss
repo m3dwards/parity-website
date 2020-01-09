@@ -21,7 +21,12 @@ body {
 
 a, a:hover {color: $main-pink;}
 
-h1,h2,h3,h4 {color: $main-pink;}
+h1,h2,h3,h4,h5,h6 {
+    color: $main-pink;
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin-bottom: 2rem;
+}
+h1,h2 {font-weight: 700;}
 
 #homepage {
     #feature {
