@@ -30,6 +30,6 @@
         {{ end }}
         {{ partial "footer.html" . }}
 
-        <script type="text/javascript" src="{{ $JS.Permalink }}" integrity="{{ $JS.Data.Integrity }}"></script>
+        <script type="text/javascript" src="{{ $JS.RelPermalink }}" integrity="{{ $JS.Data.Integrity }}"></script>
     </body>
 </html>
