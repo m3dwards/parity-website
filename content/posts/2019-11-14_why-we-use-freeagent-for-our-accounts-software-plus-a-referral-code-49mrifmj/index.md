@@ -19,4 +19,4 @@ We promptly signed up to FreeAgent and we are pleasantly surprised how well it w
 
 If you fancy giving FreeAgent a try, sign up with the following link to get 10% off: <http://fre.ag/49mrifmj> or just use the code (49mrifmj). They offer a free trial period followed by 6 months at 50%.
 
-<figure class="wp-block-image"><img alt="" class="wp-image-4380" src="https://parity.uk/wp-content/uploads/2019/11/screenshot-2019-11-14-at-12.03.24.png"/></figure>
+![FreeAgent Logo](freeagentlogo.png)
