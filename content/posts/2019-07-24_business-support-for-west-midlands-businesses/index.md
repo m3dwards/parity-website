@@ -11,7 +11,7 @@ author = "Matteo Vanzini"
 ## Business Support for West Midlands Businesses
 
 
-Starting a business can be liberating, however the journey to business growth and increased cashflow can be challenging. From the onset you may not have all the expertise or even the resources necessary for your business to prosper and thrive. [Credex](https://credex.network/) aims to support your growth offering a local network and an innovative cashflow solution.
+Starting a business can be liberating, however the journey to business growth and increased cashflow can be challenging. From the onset you may not have all the expertise or even the resources necessary for your business to prosper and thrive. [Parity](https://parity.network/) aims to support your growth offering a local network and an innovative cashflow solution.
 
 Why is business support important?
 
@@ -19,7 +19,7 @@ Having the resources, youneed such as expertise, advice and access to finances f
 
 Here is a list ofbusiness support service and business growth programme and business growthfunds that are available to business in the West Midlands and the eligiblecriteria for business who require the services.
 
-<figure class="wp-block-image"><img alt="Coventry &amp; Warwick LEP; LEP scheme; business support; local enterprises" class="wp-image-4003" src="https://credex.network/wp-content/uploads/2019/07/logo-cw-lep.gif"/></figure>
+<figure class="wp-block-image"><img alt="Coventry &amp; Warwick LEP; LEP scheme; business support; local enterprises" class="wp-image-4003" src="https://parity.network/wp-content/uploads/2019/07/logo-cw-lep.gif"/></figure>
 
 #### Business SupportProgramme – Coventry &amp; Warwick
 
@@ -56,7 +56,7 @@ You canget support from a variety of experienced local providers, including:
 [contact@cwgrowthhub.co.uk](mailto:contact@cwgrowthhub.co.uk)
 call 0300 060 3747
 
-<figure class="wp-block-image"><img alt="" class="wp-image-4001" src="https://credex.network/wp-content/uploads/2019/07/gb-lep_-_logo.jpg"/></figure>
+<figure class="wp-block-image"><img alt="" class="wp-image-4001" src="https://parity.network/wp-content/uploads/2019/07/gb-lep_-_logo.jpg"/></figure>
 
 #### Business GrowthProgramme 2 – Greater Birmingham &amp; Solihull
 
@@ -93,7 +93,7 @@ Grants can cover:
 
 [Visit Website](https://www.birmingham.gov.uk/bgp2)
 
-<figure class="wp-block-image"><img alt="Crack it; challenges; innovation; business support" class="wp-image-4002" src="https://credex.network/wp-content/uploads/2019/07/2016-crack-it-postcard-open-call4_2.jpg"/></figure>
+<figure class="wp-block-image"><img alt="Crack it; challenges; innovation; business support" class="wp-image-4002" src="https://parity.network/wp-content/uploads/2019/07/2016-crack-it-postcard-open-call4_2.jpg"/></figure>
 
 #### CRACK IT –Challenges
 
@@ -125,7 +125,7 @@ Solving these challenges will deliver:
 
 [Visit website](https://nc3rs.org.uk/crackit/crack-it-challenges)
 
-<figure class="wp-block-image"><img alt="European Businesses; Business network; business support " class="wp-image-4004" src="https://credex.network/wp-content/uploads/2019/07/europe-enterprise-network-een.jpg"/></figure>
+<figure class="wp-block-image"><img alt="European Businesses; Business network; business support " class="wp-image-4004" src="https://parity.network/wp-content/uploads/2019/07/europe-enterprise-network-een.jpg"/></figure>
 
 #### Enterprise EuropeNetwork – Midlands
 
@@ -154,7 +154,7 @@ You’ll get free tailored support andadvice to help your business innovate and 
 
 [Visit website](https://www.enterprise-europe.co.uk/how-can-we-help)
 
-<figure class="wp-block-image"><img alt="WRAP; business support; environmental businesses" class="wp-image-4005" src="https://credex.network/wp-content/uploads/2019/07/wrap.jpg"/></figure>
+<figure class="wp-block-image"><img alt="WRAP; business support; environmental businesses" class="wp-image-4005" src="https://parity.network/wp-content/uploads/2019/07/wrap.jpg"/></figure>
 
 #### WRAP environmentalbusiness advice – UK
 
@@ -185,7 +185,7 @@ Adviceand support on environmental issues to help your business:
 
 [Visit Website](http://www.wrap.org.uk/)
 
-<figure class="wp-block-image"><img alt="Social Enterprise West Midlands; business support" class="wp-image-4006" src="https://credex.network/wp-content/uploads/2019/07/sewm-member-logo.jpg"/></figure>
+<figure class="wp-block-image"><img alt="Social Enterprise West Midlands; business support" class="wp-image-4006" src="https://parity.network/wp-content/uploads/2019/07/sewm-member-logo.jpg"/></figure>
 
 #### Growing the socialenterprise sector – West Midlands
 
@@ -216,7 +216,7 @@ Expertiseand advice
 
 Visitwebsite <http://www.cwcda.co.uk/social-enterprise>
 
-<figure class="wp-block-image"><img alt="business loans; business support" class="wp-image-4007" src="https://credex.network/wp-content/uploads/2019/07/business-loans-2.jpg"/></figure>
+<figure class="wp-block-image"><img alt="business loans; business support" class="wp-image-4007" src="https://parity.network/wp-content/uploads/2019/07/business-loans-2.jpg"/></figure>
 
 #### Business loanscheme – Coventry and Warwickshire
 

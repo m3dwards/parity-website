@@ -1,5 +1,5 @@
 +++
-title = "WIR Bank Switzerland - An inspiration for Credex"
+title = "WIR Bank Switzerland - An inspiration for Parity"
 description = ""
 date = "2018-02-20"
 categories = ["Business Development","Industry News"]
@@ -8,7 +8,7 @@ author = "Stuart Bowles"
 +++
 
 
-## WIR Bank Switzerland - An inspiration for Credex
+## WIR Bank Switzerland - An inspiration for Parity
 
 
 WIR Bank has been addressing local SMEs lack of liquidity since when it was established in 1934 .The solution proposed consists of interest-free credit usable inside a business network. It provides local SMEs of the missing liquidity to incur expenditures and keep working despite financial constraints. ore than a small business loan, it is a way to fund a business through a facility like an business overdraft that doesn’t charge overdraft fees. This complementary funding source for businesses can be recovered by selling goods and services to other participants.
@@ -31,4 +31,4 @@ In respect of WIR researchers have identified  its velocity of circulation and i
 
 
 
-WIR Bank is a huge inspiration for Credex, we think that it should be replicated here in the West Midlands. If we can establish a similar sized business credit network, zero interest credit would boost trade and provide a lifeline to businesses in recessions. We are working to develop our network and aim to launch in January 2019.
+WIR Bank is a huge inspiration for Parity, we think that it should be replicated here in the West Midlands. If we can establish a similar sized business credit network, zero interest credit would boost trade and provide a lifeline to businesses in recessions. We are working to develop our network and aim to launch in January 2019.

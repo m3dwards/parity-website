@@ -11,7 +11,7 @@ author = "Matteo Vanzini"
 ## Business Networking Event. w/c 29 of July 2019
 
 
-Business is made of human relationships and in Credex we believe these are stronger and more trust worthy at local level. Find out [how Credex supports local market](https://credex.network/local-market/) and follow our weekly blog on networking events in Birmingham and West Midlands
+Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out [how Parity supports local market](https://parity.network/local-market/) and follow our weekly blog on networking events in Birmingham and West Midlands
 
 ### Monday 29th of July
 
@@ -49,7 +49,7 @@ Where: The Alchemist, Colmore Row, Birmingham, B3 2DE
 Cost: free
 Reserve a place: <https://www.eventbrite.co.uk/e/the-tate-breakfast-club-tickets-65247262318?aff=ebdssbdestsearch>
 
-<figure class="wp-block-image"><img alt="Green transition. Business event. Business networking. " class="wp-image-4013" src="https://credex.network/wp-content/uploads/2019/07/going-green.jpeg"/></figure>
+<figure class="wp-block-image"><img alt="Green transition. Business event. Business networking. " class="wp-image-4013" src="https://parity.network/wp-content/uploads/2019/07/going-green.jpeg"/></figure>
 
 #### Going green: the benefits for your business
 
@@ -86,7 +86,7 @@ Where: Ramada Hotel &amp; Suites Coventry, Butts, CV1 3GG Coventry
 Cost: £15
 Reserve a place: <https://www.eventbrite.co.uk/e/coventry-lovebiz-coffee-catch-up-networking-event-tickets-59990209331?aff=ebdssbdestsearch>
 
-<figure class="wp-block-image"><img alt="Business Improvement District. Lichfield. Business Networking event." class="wp-image-4014" src="https://credex.network/wp-content/uploads/2019/07/bid-lich.jpeg"/></figure>
+<figure class="wp-block-image"><img alt="Business Improvement District. Lichfield. Business Networking event." class="wp-image-4014" src="https://parity.network/wp-content/uploads/2019/07/bid-lich.jpeg"/></figure>
 
 #### Lichfield BID Business Networking
 
@@ -104,7 +104,7 @@ Where: Aston Business School, 295 Aston Express Way, Birmingham, B4 7ER
 Cost: free
 Reserve a place: <https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/aston-business-school-mba-taster-series-5/details>
 
-<figure class="wp-block-image"><img alt="FSB connect. Business Networking." class="wp-image-4015" src="https://credex.network/wp-content/uploads/2019/07/fsb-connect.jpg"/></figure>
+<figure class="wp-block-image"><img alt="FSB connect. Business Networking." class="wp-image-4015" src="https://parity.network/wp-content/uploads/2019/07/fsb-connect.jpg"/></figure>
 
 #### \#FSBConnect Solihull - last Tuesday
 
@@ -124,7 +124,7 @@ Reserve a place: <https://www.eventbrite.co.uk/e/fsbconnect-dudley-last-tuesday-
 
 ### Wednesday 31st of July
 
-<figure class="wp-block-image"><img alt="Jewellery Quarter. Business Networking event. " class="wp-image-4016" src="https://credex.network/wp-content/uploads/2019/07/saint-paul-.jpg"/></figure>
+<figure class="wp-block-image"><img alt="Jewellery Quarter. Business Networking event. " class="wp-image-4016" src="https://parity.network/wp-content/uploads/2019/07/saint-paul-.jpg"/></figure>
 
 #### Jewellery Quarter Breakfast Meet
 
@@ -160,7 +160,7 @@ Where: Alpha Works (21st Floor, Alpha Tower), Suffolk Street Queensway, Birmingh
 Cost: £34.99 – £44.99
 Reserve a place: <https://www.eventbrite.co.uk/e/whats-your-value-proposition-masterclass-with-speed-networking-tickets-64236485056?aff=ebdssbdestsearch>
 
-<figure class="wp-block-image"><img alt="Birmingham business network" class="wp-image-3881" src="https://credex.network/wp-content/uploads/2019/07/gbcc-logo-1.png"/><figcaption>Birmingham business network</figcaption></figure>
+<figure class="wp-block-image"><img alt="Birmingham business network" class="wp-image-3881" src="https://parity.network/wp-content/uploads/2019/07/gbcc-logo-1.png"/><figcaption>Birmingham business network</figcaption></figure>
 
 #### Greater Birmingham Chamber of Commerce
 Networking Lunch
@@ -181,7 +181,7 @@ Reserve a place: <https://www.eventbrite.co.uk/e/solihull-coffee-natter-free-bus
 
 ### Thursday 1st of August
 
-<figure class="wp-block-image"><img alt="Black Country. Business Network" class="wp-image-4017" src="https://credex.network/wp-content/uploads/2019/07/bccc.jpg"/></figure>
+<figure class="wp-block-image"><img alt="Black Country. Business Network" class="wp-image-4017" src="https://parity.network/wp-content/uploads/2019/07/bccc.jpg"/></figure>
 
 #### Black Country Chamber of Commerce
 START UP - HOW TO BRING YOUR BRAND TO LIFE
@@ -216,7 +216,7 @@ Where: Hollyfields Centre Ltd, Woodacre Road, Birmingham, B24 0JT
 Cost: free
 Reserve a place: <https://www.eventbrite.co.uk/e/iosh-midland-branch-august-2019-meeting-tickets-62837883802?aff=ebdssbdestsearch>
 
-<figure class="wp-block-image"><img alt="Business Networking event. " class="wp-image-4018" src="https://credex.network/wp-content/uploads/2019/07/breslins.jpeg"/></figure>
+<figure class="wp-block-image"><img alt="Business Networking event. " class="wp-image-4018" src="https://parity.network/wp-content/uploads/2019/07/breslins.jpeg"/></figure>
 
 #### Breslins Club. Business Networking
 
@@ -237,7 +237,7 @@ Reserve a place: <https://www.blackcountrychamber.co.uk/events/01082019/future-l
 
 ### Friday 2nd of August
 
-<figure class="wp-block-image"><img alt="Social Media and Business Summit. Networking. " class="wp-image-4019" src="https://credex.network/wp-content/uploads/2019/07/social-media-busines.jpeg"/></figure>
+<figure class="wp-block-image"><img alt="Social Media and Business Summit. Networking. " class="wp-image-4019" src="https://parity.network/wp-content/uploads/2019/07/social-media-busines.jpeg"/></figure>
 
 #### Social Media &amp; Business Summit
 
