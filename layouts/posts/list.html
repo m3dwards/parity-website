@@ -1,3 +1,29 @@
-{{ range site.RegularPages.GroupByDate "2006" -}}
-    {{ partial "posts_by_date.html" . }}
+
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
+{{ define "main" }}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8">
+            <h1>Posts 2</h1>
+            {{ .Content }}
+            {{ range .Pages }}
+            <article>
+                <h2>{{ .Title }}</h2>
+                {{ .Summary }}
+                <a href="{{ .RelPermalink }}">Read more ></a>
+            </article>
+            {{ end }}
+        </div>
+        <div class="col-lg-4">
+            {{ range site.RegularPages.GroupByDate "2006" -}}
+                {{ partial "posts_by_date.html" . }}
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
+
+
+
