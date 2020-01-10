@@ -8,6 +8,8 @@ author = "Stuart Bowles"
 +++
 
 
+![MEIF Logo](MEIF-Logo.jpg)
+
 ## Launch of the Midlands Engine Investment Fund
 
 
