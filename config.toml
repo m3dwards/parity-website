@@ -3,7 +3,7 @@ languageCode = "en-gb"
 title = "Parity Network"
 archive-paginate = 10
 [taxonomies]
-  tag = "tags"
+  category = "categories"
 
 [menus]
   [[menus.main]]
