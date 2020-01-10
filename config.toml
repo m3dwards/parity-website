@@ -1,6 +1,7 @@
 baseURL = "https://parity.uk"
 languageCode = "en-gb"
 title = "Parity Network"
+archive-paginate = 10
 [taxonomies]
   tag = "tags"
 
