@@ -1,5 +1,5 @@
 +++
-title = "A "one per type" business network."
+title = 'A "one per type" business network.'
 description = ""
 date = "2019-09-24"
 categories = ["Company News"]
