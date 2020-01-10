@@ -20,17 +20,19 @@ body {
 }
 
 a, a:hover {color: $main-pink;}
+p {line-height: 1.5rem;}
 
 h1,h2,h3,h4,h5,h6 {
     color: $main-pink;
     font-family: 'PT Sans Narrow', sans-serif;
     margin-bottom: 2rem;
 }
-h1,h2 {font-weight: 700;}
+h1,h2 {font-weight: 700; font-family: 'Lora', sans-serif;}
+h1 {font-family: 'Lora', sans-serif;}
 
 #homepage {
     #feature {
-        h1,h2,h3,h4 {color: $primary-color;}
+        h2,h3,h4 {color: $primary-color;}
         background-image: url("/images/landing-birmingham.jpg");
         background-repeat: no-repeat;
         background-size: 100% auto;
@@ -40,11 +42,11 @@ h1,h2 {font-weight: 700;}
     @media (min-width: 768px) {
         #feature {
             background-position: left top;
-            margin-bottom: 8em;
+            margin-bottom: 4em;
         };
     }
 
-    @media (min-width: 768px) {
+    @media (min-width: 992px) {
         #feature-box {
             margin-bottom: 9em !important;
         };
