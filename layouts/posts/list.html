@@ -1,0 +1,3 @@
+{{ range site.RegularPages.GroupByDate "2006" -}}
+    {{ partial "posts_by_date.html" . }}
+{{ end }}
