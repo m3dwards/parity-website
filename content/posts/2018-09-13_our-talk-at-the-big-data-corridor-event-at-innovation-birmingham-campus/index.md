@@ -7,6 +7,7 @@ tags = []
 author = "Stuart Bowles"
 +++
 
+![Innovation Birmingham Campus](Innovation-Birmingham-Campus.jpg)
 
 ## Our talk at the Big Data Corridor Event at Innovation Birmingham Campus
 
