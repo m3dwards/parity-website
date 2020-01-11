@@ -7,6 +7,7 @@ tags = []
 author = "Staurt Bowles"
 +++
 
+![Hometown Plus Community Development Programme](Hometown-Plus.jpg)
 
 ## HomeTown Plus and Countercoin - Community Development Programme
 
