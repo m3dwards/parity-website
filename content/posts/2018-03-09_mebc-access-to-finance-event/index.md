@@ -7,7 +7,7 @@ tags = []
 author = "Stuart Bowles"
 +++
 
-![mebc Logo](mebc_Logo.jpg)
+![mebc Logo](mebc-Logo.jpg)
 
 ## MEBC Access to Finance Event
 
