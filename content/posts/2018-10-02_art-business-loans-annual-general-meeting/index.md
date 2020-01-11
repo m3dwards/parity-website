@@ -7,6 +7,7 @@ tags = []
 author = "Stuart Bowles"
 +++
 
+![ART Logo](ART-Logo.jpg)
 
 ## ART Business Loans - Annual General Meeting
 
