@@ -7,7 +7,7 @@ tags = []
 author = "Stuart Bowles"
 +++
 
-![West Midlands Combined Authority](WMCA-Logo.jpg)
+![West Midlands Combined Authority](WMCA-Logo.png)
 
 ## West Midlands Combined Authority Social Economy Taskforce
 
