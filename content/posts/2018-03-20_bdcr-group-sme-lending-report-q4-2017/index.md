@@ -7,6 +7,7 @@ tags = ["business loans west midlands","sme business credit","sme finance"]
 author = "Stuart Bowles"
 +++
 
+![BDCR Logo](BDCR-Logo.jpg)
 
 ## BDCR Group SME Lending Report Q4 2017
 
