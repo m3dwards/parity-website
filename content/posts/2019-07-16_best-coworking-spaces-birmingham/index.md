@@ -32,7 +32,7 @@ Location: Alpha Tower, Suffolk Street Queensway, Birmingham B1 1TT
 
 [Visit Website](http://www.alphaworksb1.co.uk/)
 
-
+![Brindleyplace](Brindleyplace.jpg)
 
 ### Landmark, Brindleyplace
 
