@@ -7,6 +7,7 @@ tags = []
 author = "Stuart Bowles"
 +++
 
+![Coworking](Coworking.jpg)
 
 ## Best Coworking Spaces Birmingham
 
@@ -21,7 +22,7 @@ Coworking spaces are filled with like-minded professionals in a creative environ
 
 Here's the best five coworking spaces in Birmingham:
 
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img alt="" class="wp-image-3970" height="570" src="https://parity.network/wp-content/uploads/2019/07/coworking-space-alphaworks-birmingham-300x300.jpg" width="570"/></figure></div>
+![Alphaworks](Alphaworks.jpg)
 
 ### Alpha Works
 
@@ -31,7 +32,7 @@ Location: Alpha Tower, Suffolk Street Queensway, Birmingham B1 1TT
 
 [Visit Website](http://www.alphaworksb1.co.uk/)
 
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img alt="" class="wp-image-3971" height="559" src="https://parity.network/wp-content/uploads/2019/07/landmark-brindleyplace-coworking-space-300x300.jpg" width="559"/></figure></div>
+
 
 ### Landmark, Brindleyplace
 
@@ -41,7 +42,7 @@ Location: 3 Brindley Pl, Birmingham B1 2JB
 
 [Visit Website](https://www.landmarkspace.co.uk/locations/birmingham-brindleyplace/)
 
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img alt="" class="wp-image-3973" height="590" src="https://parity.network/wp-content/uploads/2019/07/regus-coworking-spaces-birmingham-300x300.jpg" width="590"/></figure></div>
+![Regus](Regus.jpg)
 
 ### Regus
 
@@ -51,7 +52,7 @@ Location: 3 Brindley Pl, Birmingham B1 2JB
 
 [Visit Website](https://www.regus.co.uk/offices/united-kingdom/west-midlands/birmingham/coworking-space)
 
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img alt="" class="wp-image-3975" height="586" src="https://parity.network/wp-content/uploads/2019/07/the-transfer-birmingham-coworking-space-300x300.jpg" width="586"/></figure></div>
+![The Transfer](The-Transfer.jpg)
 
 ### The Transfer
 
@@ -61,7 +62,7 @@ Location: The Old Print Works, 498-506 Moseley Road, Balsall Heath, Birmingham  
 
 [Visit Website](https://www.oldprintworks.org/transfer)
 
-<div class="wp-block-image"><figure class="aligncenter is-resized"><img alt="" class="wp-image-3976" height="580" src="https://parity.network/wp-content/uploads/2019/07/impact-hub-birmingham-coworking-space-300x300.jpg" width="580"/></figure></div>
+![Impact Hub](Impact-Hub.jpg)
 
 ### Impact Hub Birmingham
 
@@ -73,6 +74,6 @@ The Impact Hub Birmingham is just one of the global networks of co-working space
 
 ### Final thoughts
 
-The benefits of coworking space in Birmingham are endless, and ultimately offer a new and productive way to work. So, if you are a budding entrepreneur or a professional team who need a environment that will help inspire creativity without the pressure of expensive financial ties, co-working spaces may be your final stop to success. If your business is looking for new and creative ways to connect with clients, [Parity](https://parity.network/how-it-works/) offers a digital platform to connect to local sales opportunities.
+The benefits of coworking space in Birmingham are endless, and ultimately offer a new and productive way to work. So, if you are a budding entrepreneur or a professional team who need a environment that will help inspire creativity without the pressure of expensive financial ties, co-working spaces may be your final stop to success. If your business is looking for new and creative ways to connect with clients, [Parity](https://new.parity.uk) offers a digital platform to connect to local sales opportunities.
 
 What are your favourite places to work when in Birmingham? Let us know and we can add it to our list of the best co-working spaces in Birmingham.
