@@ -7,19 +7,20 @@ tags = []
 author = "Matteo Vanzini"
 +++
 
+![Birmingham City of 1000 Trades](Birmingham-1000trades.png)
 
 ## Business Networking Events in Birmingham, West Midlands.
 
 
 At Parity we believe in networking, not only as part of our business operations, but also as a way to improve ourselves and learn new things from other people. Luckily, the Birmingham area is rich with opportunities and you have the chance to engage in these business networking events over the course of the coming week.
 
-Below are a list of  events where you can attend to meet local entrepreneurs, and while your there why not meet someone from Parity and find more about this [innovative business network](https://parity.network/).
+Below are a list of  events where you can attend to meet local entrepreneurs, and while your there why not meet someone from Parity and find more about this [innovative business network](https://new.parity.uk).
 
 ## Business events on Tuesday, 9th July 2019
 
 Our networking schedule starts on the 9th of July. As every second Tuesday of the month, in the “Grosvenor Casino Birmingham” at 10am there will be another [Brummies Networking](https://brummies-networking.co.uk/) event and on the same morning Parity will be also elsewhere. Indeed, in the Solihull College &amp; University Centre our team will participate in the workshop [Instagram for Business](https://www.eventbrite.co.uk/e/instagram-for-business-tickets-64167518776). In the 21st century is important to know how to use social media and what’s better than an event merging online and offline networking?
 
-<figure class="wp-block-image"><img alt="Free business event Birmingham area, Solihull" class="wp-image-3880" src="https://parity.network/wp-content/uploads/2019/07/instagram4business.jpeg"/></figure>
+![Instagram for Business](Instagram-For-Business.jpeg)
 
 In the evening Birmingham offers two different opportunities for different kind of entrepreneurs and businesses. On one hand the [Birmingham Entrepreneurs Meetup](https://www.meetup.com/Birmingham-Entrepreneurs-Meetup-Group/events/qmtsgqyzkbmb/) that, in the city of “the thousand trades”, could have not found a better location. Yes! At the [1000 Trades](http://1000trades.org.uk/) in the Jewellery quarter. On the other hand instead, if you feel to be more a tech entrepreneur you cannot miss the [Tech Nation Talk](https://technation.io/events/tech-nation-talks-midlands-60865550500/) hosted at [Innovation Birmingham](https://www.innovationbham.com/). Meet the people coming together to support this growing tech ecosystem across the UK.
 
@@ -27,7 +28,7 @@ In the evening Birmingham offers two different opportunities for different kind 
 
 On Wednesday the 10th at 1pm the [Pathway2Grow Coffee &amp; Natter ](https://www.eventbrite.co.uk/e/wolverhampton-coffee-natter-free-business-networking-wed-10th-july-2019-tickets-62137419695?ref=ecal)stops in Wolverhampton at the Ramada Park Hall Hotel. Parity team has appreciated Coffee &amp; Natter events and at those, besides a formative keynote speaker, you can enjoy networking in a relaxed and easy environment.
 
-<figure class="wp-block-image"><a href="https://www.greaterbirminghamchambers.com/" rel="noreferrer noopener" target="_blank"><img alt="Great Birmingham Chamber of Commerce; Birmingham Business Network" class="wp-image-3881" src="https://parity.network/wp-content/uploads/2019/07/gbcc-logo-1.png"/></a></figure>
+![Greater Birmingham Chamber of Commerce](GBCC-Logo.png)
 
 After 6:00pm Parity will be simultaneously at the 1000 Trades to meet the [Rebel Meetups - Young Entrepreneur Networking in Birmingham](https://www.meetup.com/rebel-meetups-young-entrepreneur-networking-birmingham/events/261507873/); and in the Edgbaston Park Hotel for the [Eid Celebration 2019](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/networking-eid-celebration-2019/details) with the [Great Birmingham Chamber of Commerce](https://www.greaterbirminghamchambers.com/). In this occasion Parity will celebrate this important religious holiday besides meeting with the Muslim community who has shown interest for our 0% interest credit system which is shariah compliant.
 
