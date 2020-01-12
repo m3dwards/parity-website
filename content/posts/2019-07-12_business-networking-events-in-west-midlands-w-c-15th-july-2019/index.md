@@ -7,11 +7,12 @@ tags = []
 author = "Matteo Vanzini"
 +++
 
+![Weekly Events](Weekly-Events.jpg)
 
 ## Business Networking Events in West Midlands w/c 15th July 2019.
 
 
-Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out [how Parity supports local market](https://parity.network/local-market/) and follow our weekly blog on business networking events in Birmingham and West Midlands.
+Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out [how Parity supports local market](https://new.parity.uk) and follow our weekly blog on business networking events in Birmingham and West Midlands.
 
 ## Tuesday 16th of July
 
@@ -24,7 +25,7 @@ Where: The Royal Hotel, High Street, Sutton Coldfield, B72 1UD
 Cost: Free
 Reserve a place: <https://www.eventbrite.co.uk/e/4n-sutton-coldfield-business-breakfast-networking-tickets-61003493090?aff=ebdssbdestsearch>
 
-<figure class="wp-block-image"><img alt="Birmingham Enterprise Community. Business Local Community. " class="wp-image-3943" src="https://parity.network/wp-content/uploads/2019/07/bhamentcomm.jpeg"/></figure>
+![Birmingham Enterprise Community](Birmingham-Enterprise-Community.jpeg)
 
 #### Birmingham enterprise community
 
@@ -58,7 +59,7 @@ Where: Best Western Westley Hotel; Westley road, Birmingham, B27 7UJ
 Cost: £ 8.00
 Reserve a place: [https://bms.bforb.co.uk/ext\_member\_reg.php?cGhETjlRMk4=](https://bms.bforb.co.uk/ext_member_reg.php?cGhETjlRMk4=)
 
-<figure class="wp-block-image"><img alt="Small business. Local business. Independent business. Local connections. Small business in Birmingham. " class="wp-image-3944" src="https://parity.network/wp-content/uploads/2019/07/smallbusconn.jpg"/></figure>
+![Small Business Connect Up](Small-Business-Connect-Up.jpg)
 
 #### Small Business Connect Up
 
@@ -115,7 +116,7 @@ Cost: Free
 Reserve a place:
 <https://www.blackcountrychamber.co.uk/events/17072019/third-week-wednesday-networking/>
 
-<figure class="wp-block-image"><img alt="Business Event. BBQ. Tech companies. Innovative enterprises. Innovation Birmingham. " class="wp-image-3946" src="https://parity.network/wp-content/uploads/2019/07/https_cdn.evbuc_.com_images_46845196_223330971654_1_original.jpg"/></figure>
+![Summer Tech BBQ](Summer-Tech-BBQ.jpg)
 
 #### Summer Tech BBQ
 
@@ -146,7 +147,7 @@ Where: The Deli Collective - The Parade, Sutton Coldfield, B72 1PA
 Cost: free
 Reserve a place: <https://www.eventbrite.co.uk/e/free-networking-the-network-collective-in-sutton-coldfield-tickets-64018924326?aff=ebdssbdestsearch>
 
-<figure class="wp-block-image"><img alt="Business Support Organisation. Business Breakfast. " class="wp-image-3956" src="https://parity.network/wp-content/uploads/2019/07/bso2.0.jpg"/></figure>
+![Business Support Organisation](BSO-Logo.jpg)
 
 BSO Business Breakfast (Walsall)
 
@@ -186,7 +187,7 @@ Where: Novotel Birmingham Centre, 70 Broad St, Birmingham, B1 2HT
 Cost: £45
 Reserve a place:<https://www.business-network-birmingham.co.uk/>
 
-<figure class="wp-block-image"><img alt="Festival of enterprise. Local enterprises. Business in Birmingham. " class="wp-image-3948" src="https://parity.network/wp-content/uploads/2019/07/fest.jpeg"/></figure>
+![Festival Of Enterprise](Festival-Of-Enterprise.jpeg)
 
 #### Festival of Enterprise Launch Event
 
@@ -210,7 +211,7 @@ Cost: £18
 Reserve a place:
 [https://www.eventbrite.co.uk/e/the-breakfast-club-july-2019-tickets-63329068950?affebdssbdestsearch](https://www.eventbrite.co.uk/e/the-breakfast-club-july-2019-tickets-63329068950?aff=ebdssbdestsearch)
 
-<figure class="wp-block-image"><img alt="Business BBQ. Start Up networking events. " class="wp-image-3950" src="https://parity.network/wp-content/uploads/2019/07/eventbrite-banner-3.png"/></figure>
+![Start Up Networking Event](Summer-BBQ.png)
 
 #### Start up summer BBQ - Coventry LEP
 
@@ -252,7 +253,7 @@ Reserve a place:
 
 ## Saturday 20th of July
 
-<figure class="wp-block-image"><img alt="Birmingham Post annual awards. Business awards." class="wp-image-3952" src="https://parity.network/wp-content/uploads/2019/07/birmingham_post.jpg"/></figure>
+![Birmingham Post](Birmingham-Post.jpg)
 
 #### Birmingham Post Awards 2019
 
