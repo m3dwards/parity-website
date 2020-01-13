@@ -7,11 +7,12 @@ tags = []
 author = "Matteo Vanzini"
 +++
 
+![Weekly Events](Weekly-Events.jpg)
 
 ## Business Networking Events w/c 22nd July 2019.
 
 
-Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out [how Parity supports local market](https://parity.network/local-market/) and follow our weekly blog on networking events in Birmingham and West Midlands.
+Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out [how Parity supports local market](https://parity.uk) and follow our weekly blog on networking events in Birmingham and West Midlands.
 
 ## Monday 22nd of July
 
@@ -36,7 +37,7 @@ Where: The Cathedral Lodge Hotel, 62 Beacon Street, Lichfield, WS13 7AR
 Cost: £15 (free for GBCC members)
 Reserve a place:<https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/speed-networking-10-2/details>
 
-<figure class="wp-block-image"><img alt="Networking events. Business Breakfast. Business Networking." class="wp-image-3992" src="https://parity.network/wp-content/uploads/2019/07/netwist.jpeg"/></figure>
+![Netwist](Netwist.jpeg)
 
 #### Netwist
 Business Networking with Breakfast &amp; Unlimited Coffee
@@ -69,7 +70,7 @@ Where: The High Field, 22 Highfield Road, Birmingham, B15 3DP
 Cost: £24.50 – £27.50
 Reserve a place: <https://www.eventbrite.com/e/my-business-buddies-lunch-tickets-63067256863?aff=ebdssbdestsearch>
 
-<figure class="wp-block-image"><img alt="#powerup. Business Hub. Business Networking Events. " class="wp-image-3993" src="https://parity.network/wp-content/uploads/2019/07/powerup.png"/></figure>
+![NatWest Hub](NatWest-Entrepreneur-Accelerator.png) 
 
 #### NatWest Entrepreneur Accelerator
 Entrepreneur Network Event - Sales \#PowerUp
@@ -81,8 +82,7 @@ Where: 7-8 Brindley Place, Birmingham, B1 2TZ
 Cost: free
 Reserve a place: <https://www.eventbrite.co.uk/e/entrepreneur-network-event-sales-powerup-tickets-63339247394?aff=ebdssbdestsearch>
 
-<figure class="wp-block-image"><img alt="Business Network. Networking events.
-Business Networking in Birmingham. West Midlands. " class="wp-image-3994" src="https://parity.network/wp-content/uploads/2019/07/networknite.jpg"/></figure>
+![Networknite](Networknite.jpg)
 
 #### Networknite
 Business Networking in Birmingham
@@ -125,7 +125,7 @@ Where: Higham on the Hill Park, The Park, Higham on the Hill, CV13 6AP
 Cost: free
 Reserve a place: <https://www.eventbrite.co.uk/e/now-network-family-summer-picnic-tickets-63500764496?aff=ebdssbdestsearch>
 
-<figure class="wp-block-image"><img alt="Business Network. Woman in Business. Networking Events. " class="wp-image-3995" src="https://parity.network/wp-content/uploads/2019/07/wibn.jpeg"/></figure>
+![Women In Business Network](WIBN-Logo.jpeg)
 
 #### Women in Business Network
 Sutton Coldfield
@@ -146,7 +146,7 @@ Where: 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE
 Cost: free
 Reserve a place: <https://www.eventbrite.co.uk/e/social-circle-july-tickets-64413690081?aff=ebdssbdestsearch>
 
-<figure class="wp-block-image"><img alt="Business Support. Networking Events. Business Network. Birmingham. " class="wp-image-3956" src="https://parity.network/wp-content/uploads/2019/07/bso2.0.jpg"/></figure>
+![Business Support Organisation](BSO-Logo.jpg)
 
 #### Business Support Organisation
 BSO Evening Event - Making Networking Pay
@@ -180,8 +180,6 @@ Cost: free
 Reserve a place: <https://www.eventbrite.co.uk/e/birmingham-coffee-natter-free-business-networking-fri-26th-july-2019-tickets-64663656738?aff=ebdssbdestsearch>
 
 ## Sunday 28th of July
-
-<figure class="wp-block-image"><img alt="Networking Events. Businesses in West Midlands. Independent Business. " class="wp-image-3996" src="https://parity.network/wp-content/uploads/2019/07/sd.jpeg"/></figure>
 
 #### SD Prints
 Business Networking Event
