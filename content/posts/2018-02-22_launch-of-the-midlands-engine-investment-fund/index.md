@@ -7,8 +7,7 @@ tags = []
 author = "Stuart Bowles"
 +++
 
-
-![MEIF Logo](MEIF-Logo.jpg)
+{{< imgproc MEIF-Logo "MEIF Logo" Resize "900x Linear q90" >}}
 
 ## Launch of the Midlands Engine Investment Fund
 
