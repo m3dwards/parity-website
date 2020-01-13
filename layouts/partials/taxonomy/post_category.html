@@ -1,23 +1,19 @@
-<div class="taxo">
-    <section>
-        <span class="title p2">
-            <a href="{{ "/categories/" | relLangURL }}" class="taxo__title">
-                Categories
-            </a>
-        </span>
+<section>
+    <a href="{{ "/categories/" | relLangURL }}" class="">
+        <h2>Categories</h2>
+    </a>
+    <ul>
         {{ range $index, $element := .Site.Taxonomies.categories }}
         {{ if $index }}
-        <span class="tag">
-            <a href="{{ $element.Page.RelPermalink }}" class="is-categories taxo__link">
-                <span class="taxo__text">
-                    {{ $element.Page.Title }}
-                </span>
-                <span class="taxo__num">
-                    {{ printf "%#v" (len $element) }}
-                </span>
+        <li class="d-flex justify-content-between align-items-center mb-2">
+            <a href="{{ $element.Page.RelPermalink }}" class="">
+                {{ $element.Page.Title }}
             </a>
-        </span>
+            <span class="badge badge-secondary ml-5">
+                {{ printf "%#v" (len $element) }} posts
+            </span>
+        </li>
         {{ end }}
         {{ end }}
-    </section>
-</div>
+    </ul>
+</section>
