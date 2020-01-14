@@ -1,7 +1,5 @@
 <section>
-    <a href="{{ "/categories/" | relLangURL }}" class="">
-        <h2>Categories</h2>
-    </a>
+    <h2>Categories</h2>
     <ul>
         {{ range $index, $element := .Site.Taxonomies.categories }}
         {{ if $index }}

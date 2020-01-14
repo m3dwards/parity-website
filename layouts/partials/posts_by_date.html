@@ -1,11 +1,21 @@
+<style>
+    .limit-width {
+        display: inline-block;
+        white-space: nowrap;
+        overflow: hidden !important;
+        text-overflow: ellipsis;
+        flex: 1;
+        margin-left: 10px;
+    }
+</style>
 <div>
-    <h2 class="text-3xl font-bold mb-2">{{ .Key }}</h2>
+    <h2 class="">{{ .Key }}</h2>
 
     <ul>
         {{ range .Pages -}}
-        <li class="mb-6 md:flex md:flex-row">
-            <time class=" block md:flex-l-24" datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">{{ .Date.Format "Jan 02"}}</time>
-            <a class="text-lg md:ml-12" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <li class="d-flex justify-content-between align-items-center mb-2">
+            <time class="" datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">{{ .Date.Format "Jan 02"}}</time>
+            <span class="limit-width"><a class="" href="{{ .RelPermalink }}">{{ .Title }}</a></span>
         </li>
         {{- end }}
     </ul>
