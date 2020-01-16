@@ -7,30 +7,26 @@ archive-paginate = 10
 
 [menus]
   [[menus.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 1
-  [[menus.main]]
     name = "About us"
     url = "/about-us/"
-    weight = 2
-  [[menus.main]]
-    name = "FAQs"
-    url = "/faqs/"
-    weight = 3
-  [[menus.main]]
-    name = "Pricing"
-    url = "/pricing/"
-    weight = 4
+    weight = 1
   [[menus.main]]
     name = "How it works"
     url = "/how-it-works/"
-    weight = 5
+    weight = 2
+  [[menus.main]]
+    name = "Pricing"
+    url = "/pricing/"
+    weight = 3
   [[menus.main]]
     name = "Blog"
     url = "/posts/"
-    weight = 6
+    weight = 4
   [[menus.main]]
-    name = "Directory"
-    url = "/directory/"
-    weight = 7
+    name = "FAQs"
+    url = "/faqs/"
+    weight = 5
+  [[menus.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6
