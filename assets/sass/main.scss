@@ -30,6 +30,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1,h2 {font-weight: 700; font-family: 'Lora', sans-serif;}
 h1 {font-family: 'Lora', sans-serif;}
+img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
 
 #homepage {
     #feature {
@@ -65,9 +66,13 @@ h1 {font-family: 'Lora', sans-serif;}
     }
 
     #buy-sell-connect {
-        /* h1,h2,h3,h4 {color: $primary-color;} */
-
         img { width: 55%; }
+    }
+
+    #here-to-help {
+        img {
+            width: 90%;
+        }
     }
 }
 
