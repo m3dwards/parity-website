@@ -34,11 +34,12 @@ img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
 
 #homepage {
     #feature {
-        h2,h3,h4 {color: $primary-color;}
         background-image: url("/images/landing-birmingham.jpg");
         background-repeat: no-repeat;
         background-size: 100% auto;
-        background-position: left bottom;
+        background-position: left top;
+        /* margin-bottom: 3em; */
+        min-height: 250px;
         -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1) 2.5%);
         mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1) 2.5%);
     };
@@ -46,18 +47,26 @@ img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
     @media (min-width: 768px) {
         #feature {
             background-position: left top;
-            margin-bottom: 4em;
+            /* margin-bottom: 4em; */
+            height: 400px;
         };
+        #feature-box {
+            margin-top: -400px !important;
+            text-align: left;
+        }
     }
 
     @media (min-width: 992px) {
         #feature-box {
-            margin-bottom: 9em !important;
+            /* margin-bottom: 9em !important; */
+            margin-top: -250px !important;
         };
     }
 
     #feature-box {
+        h2,h3,h4 {color: $primary-color;}
         background-color: rgba(255, 255, 255, 0.9);
+        text-align: center;
         /* margin-bottom: 4em; */
     }
 
