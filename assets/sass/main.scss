@@ -51,7 +51,7 @@ img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
             height: 400px;
         };
         #feature-box {
-            margin-top: -400px !important;
+            margin-top: -350px !important;
             text-align: left;
         }
     }
@@ -59,7 +59,7 @@ img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
     @media (min-width: 992px) {
         #feature-box {
             /* margin-bottom: 9em !important; */
-            margin-top: -250px !important;
+            /* margin-top: -250px !important; */
         };
     }
 
