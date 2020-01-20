@@ -1,43 +1,9 @@
 {{ define "title" }}
-{{ .Site.Title }}
+{{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-    <div id="about-us">
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <h2>About Us</h2>
-                <p>We have designed a local currency to unleash the potential of Birmingham’s independent businesses.</p>
-
-                <p>Our team are experts on how currency innovation supports business communities around the world.</p>
-
-                <p>We combine best practices with cutting-edge technology to serve our members and the local economy.</p>
-            </div>
-        </div>
-        <hr>
-        <div class="row">
-            <div class="col">
-                <h2>What do we believe in?</h2>
-            </div>
-        </div>
-        <div class="row h-100 mb-5" id="buy-sell-connect">
-            <div class="col-md mx-auto text-center d-flex flex-column">
-                <img src="/images/feature.jpg" alt="0% Credit" />
-                <h3 class="my-3">Mutual benefit</h3>
-                <p class="mt-auto">Trade in Parity is a cooperation between buyers and sellers for collective gain.</p>
-            </div>
-            <div class="col-md mx-auto text-center d-flex flex-column">
-                <img src="/images/feature.jpg" alt="Sell Spare Capacity" />
-                <h3 class="my-3">Trusted connections</h3>
-                <p class="mt-auto">Long-lasting and fulfilling partnerships among members, with Parity as a guarantor.</p>
-            </div>
-            <div class="col-md mx-auto text-center d-flex flex-column">
-                <img src="/images/feature.jpg" alt="Connect with independent businesses" />
-                <h3 class="my-3">Regional resilience</h3>
-                <p class="mt-auto">Local trade is efficient, environmentally friendly and strengthens communities with shared values.</p>
-            </div>
-        </div>
-
-    </div>
+<div class="container mt-5">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+</div>
 {{ end }}
