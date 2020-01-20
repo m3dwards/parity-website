@@ -151,6 +151,7 @@ img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
     #feature {
         background-image: url("/images/pricing-header.jpg");
     }
+    #prices h3 { color: $primary-color; }
 }
 
 .three-things, .two-things {
