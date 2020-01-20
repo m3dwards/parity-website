@@ -4,7 +4,6 @@
 {{ end }}
 {{ define "main" }}
 {{- $paginator := .Paginate .Pages  (index .Site.Params "archive-paginate" | default 10) }}
-{{ (where site.RegularPages "Section" "posts") }}
 <div class="container mt-5">
     <div class="row">
         <div class="col-lg-8">
