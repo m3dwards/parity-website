@@ -5,6 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Lora|PT+Sans+Narrow|Roboto&display=swap" rel="stylesheet">
 
+        <script src="//code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+        <script src="/js/jquery-modal-video.min.js"></script>
+        <link rel="stylesheet" href="/css/modal-video.min.css">
+
         {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
         <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
