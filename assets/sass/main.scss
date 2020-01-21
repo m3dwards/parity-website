@@ -34,6 +34,32 @@ img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
 
 .nav-link { display: inline-block; }
 
+.pagination {
+    li {
+        display: inline-block;
+        a {
+            background-color: #fff;
+            margin-left: .1em;
+            margin-right: .1em;
+            border: 1px solid #222;
+            color: #222;
+            float: left;
+            line-height: 1.42857143;
+            padding: 6px 12px;
+            position: relative;
+            text-decoration: none;
+            margin-bottom: .2em;
+        }
+
+    }
+    li.active a {
+        background-color: #222;
+        border-color: #222;
+        color: #fff;
+        cursor: default;
+        z-index: 2;
+    }
+}
 #homepage {
     #feature {
         background-image: url("/images/landing-birmingham.jpg");

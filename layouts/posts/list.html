@@ -11,39 +11,16 @@
             {{ .Content }}
 
             <section id="archive" class="archive">
-                {{- if not $paginator.HasPrev }}
-                <div class="archive-title">
-                    <span class="archive-post-counter">
-                        {{- $length := len .Data.Pages }}
-                        {{ i18n "counter_archives" $length }}
-                    </span>
-                </div>
-                {{- end -}}
 
                 {{- range $index, $element := $paginator.Pages -}}
-                {{- $thisYear := $element.Date.Format "2006" }}
-                {{- $lastElement := $index | add -1 | index $paginator.Pages }}
-                {{ if or (eq $index 0) ( ne ($lastElement.Date.Format "2006") $thisYear ) }}
-                <div class="collection-title">
-                    <h2 class="archive-year">{{ $thisYear }}</h2>
-                </div>
-                {{- end }}
-
-                <div class="archive-post">
-                    <time datetime="{{ .Date.Format "2006-01-02" }}" class="archive-post-time">
-                        {{ .Date.Format (.Site.Params.dateFormatToUse | default "2006-01-02") }}
-                    </time>
-                    <span class="archive-post-title">
-                        <a href="{{ $element.RelPermalink }}" class="archive-post-link">
-                            <h2>{{ .Title }}</h2>
-                        </a>
-                    </span>
-                    {{ .Summary }}
-                </div>
+                    <div class="archive-post mt-5">
+                        {{ .Render "summary"}}
+                    </div>
                 {{- end -}}
             </section>
-
-            {{ partial "pagination.html" . }}
+            <div class="row mt-5">
+                {{ partial "pagination.html" . }}
+            </div>
         </div>
         <div class="col-lg-4">
             <div class="row">
