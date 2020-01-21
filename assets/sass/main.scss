@@ -32,6 +32,8 @@ h1,h2 {font-weight: 700; font-family: 'Lora', sans-serif;}
 h1 {font-family: 'Lora', sans-serif;}
 img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
 
+.nav-link { display: inline-block; }
+
 #homepage {
     #feature {
         background-image: url("/images/landing-birmingham.jpg");
