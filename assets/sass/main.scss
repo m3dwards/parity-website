@@ -113,32 +113,6 @@ img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
     }
 }
 
-#about-us {
-    #feature {
-        background-image: url("/images/about-us-header.jpg");
-        background-repeat: no-repeat;
-        background-size: 100% auto;
-        background-position: left bottom;
-        margin-bottom: 3em;
-        min-height: 160px;
-        -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1) 2.5%);
-        mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1) 2.5%);
-    };
-
-    @media (min-width: 768px) {
-        #feature {
-            background-position: left top;
-            min-height: 300px;
-        };
-    }
-    @media (min-width: 992px) {
-        #feature {
-            min-height: 350px;
-        };
-    }
-
-}
-
 .main-page {
     #feature {
         background-image: url("/images/how-it-works-header.jpg");
@@ -162,6 +136,11 @@ img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
             min-height: 350px;
         };
     }
+    @media (min-width: 1200px) {
+        #feature {
+            min-height: 400px;
+        };
+    }
 
 }
 
@@ -180,6 +159,7 @@ img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
         background-image: url("/images/pricing-header.jpg");
     }
     #prices h3 { color: $primary-color; }
+    .three-things img { width: 65%; }
 }
 
 .three-things, .two-things {
