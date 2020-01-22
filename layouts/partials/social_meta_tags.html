@@ -1,0 +1,19 @@
+<!--  Essential META Tags -->
+
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Description }}">
+<meta property="og:image" content="{{ .Permalink }}{{ .Params.social_image }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta name="twitter:card" content="summary_large_image">
+
+
+<!--  Non-Essential, But Recommended -->
+
+<meta property="og:site_name" content="Parity Network">
+<meta name="twitter:image:alt" content="{{ .Params.social_image_alt_text }}">
+
+
+<!--  Non-Essential, But Required for Analytics -->
+
+<meta property="fb:app_id" content="your_app_id" />
+<meta name="twitter:site" content="@parity_network">

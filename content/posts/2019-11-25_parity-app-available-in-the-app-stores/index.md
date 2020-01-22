@@ -1,10 +1,13 @@
 +++
 title = "Parity app available in the app stores"
-description = ""
+description = "Download now from the App Store or Play Store"
 date = "2019-11-25"
 categories = ["Business Development"]
 tags = []
 author = " "
+social_image = ""
+social_image_alt_text = ""
+
 +++
 
 

@@ -1,10 +1,15 @@
 +++
+
 title = "Why we use FreeAgent for our accounts software plus a referral code (49mrifmj)"
-description = ""
+description = "Makes accounts and book keeping simple"
 date = "2019-11-14"
 categories = ["Company News"]
 tags = []
 author = " "
+# 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
+social_image = "freeagentlogo.png"
+social_image_alt_text = "FreeAgent Logo"
+
 +++
 
 
