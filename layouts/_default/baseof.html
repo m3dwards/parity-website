@@ -16,6 +16,7 @@
         {{ $JS := $navigation | resources.Minify | resources.Fingerprint "sha512" }}
 
         <link rel="icon" href="/favicon.png" sizes="32x32">
+        <meta name="description" content="{{ .Description }}">
         {{ partial "social_meta_tags.html" . }}
         {{ block "header" . }}
         {{ end }}

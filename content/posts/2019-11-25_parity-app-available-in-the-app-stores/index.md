@@ -1,10 +1,14 @@
 +++
+
+# Maximum 35 characters
 title = "Parity app available in the app stores"
+# Maximum 65 characters
 description = "Download now from the App Store or Play Store"
 date = "2019-11-25"
 categories = ["Business Development"]
 tags = []
 author = " "
+# Image(JPG or PNG) with a size less than 300KB and minimum dimensions of 300 x 200
 social_image = ""
 social_image_alt_text = ""
 
