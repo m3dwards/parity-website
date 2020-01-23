@@ -1,7 +1,7 @@
 +++
 title = "How does Parity compare with Bristol Pound?"
 description = ""
-date = "2018-02-20"
+date = "2020-01-23"
 categories = ["Business Development","Industry News"]
 tags = []
 author = "Stuart Bowles"
@@ -9,7 +9,7 @@ author = "Stuart Bowles"
 
 ## How does Parity compare with Bristol Pound?
 
-We have been on a long journey of development to get to where we are today. I have personally been interested in alternative currencies for a while now. I have studied a wide range of models, from the famous Bitcoin(https://bitcoin.org/en/bitcoin-paper), to Sardex, which is our main inspiration. The largest local currency in the UK is the Bristol Pound. I thought I would share some thoughts on how we differ from the UK’s leading local currency project.
+We have been on a long journey of development to get to where we are today. I have personally been interested in alternative currencies for a while now. I have studied a wide range of models, from the famous [Bitcoin](https://bitcoin.org/en/bitcoin-paper), to Sardex, which is our main inspiration. The largest local currency in the UK is the Bristol Pound. I thought I would share some thoughts on how we differ from the UK’s leading local currency project.
 
 Bristol Pound was formed in 2013 as part of the city’s attempt to win the European Green Capital Award. It wasn’t the first local pound, that title goes to Totnes Pound, which alongside Brixton and Stroud, formed the first hyper-local currencies. Bristol Pound used the momentum from these other local currency projects to set out an ambitious plan to develop a city-wide currency. They engaged local businesses and the city council to raise awareness about the benefits that a local pound could bring to Bristol. They received a huge amount of support, with Bristol City Council agreeing that business rates could be paid in the currency, and then city mayor agreeing to have his wage paid in the currency. Bristol Pound grew a network of over 800 businesses across the city that were willing to accept the currency. There were thousands of residents who started using the currency for daily purchases. They gained a significant amount of national and international attention.
 
