@@ -1,6 +1,6 @@
 +++
 title = "How does Parity compare with Bristol Pound?"
-description = ""
+description = "Comparison between Parity and Bristol Pound"
 date = "2020-01-23"
 categories = ["Business Development","Industry News"]
 tags = []
