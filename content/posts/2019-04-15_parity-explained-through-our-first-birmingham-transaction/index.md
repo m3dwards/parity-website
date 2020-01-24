@@ -5,6 +5,8 @@ date = "2019-04-15"
 categories = ["Company News","Regional News"]
 tags = []
 author = "Stuart Bowles"
+social_image = "Credex-First-Transaction.jpg"
+social_image_alt_text = "Credex First Transaction"
 +++
 
 ![Credex First Transaction](Credex-First-Transaction.jpg)
