@@ -14,6 +14,7 @@ social_image_alt_text = ""
 
 +++
 
+![App Store](App-Store.jpg) 
 
 ## Parity app available in the app stores
 
