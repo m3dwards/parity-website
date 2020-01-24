@@ -6,10 +6,10 @@ categories = ["Regional News"]
 tags = []
 author = "Stuart Bowles"
 social_image = "Chancellor.jpg"
-social_image_alt_text = "Chancellor"
+social_image_alt_text = "Picture of Uk chancellor in May's government"
 +++
 
-![Chancellor](Chancellor.jpg)
+![Picture of Uk chancellor in May's government](Chancellor.jpg)
 
 ## Chancellor announces measures to address late payments for UK SMEs
 
