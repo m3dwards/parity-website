@@ -6,10 +6,10 @@ categories = ["Company News"]
 tags = []
 author = "Stuart Bowles"
 social_image = "Businessman.jpg"
-social_image_alt_text = "Parity User"
+social_image_alt_text = "The image shows a business owner using a tablet"
 +++
 
-![Parity User](Businessman.jpg)
+![The image shows a business owner using a tablet](Businessman.jpg)
 
 ## How can Parity help grow your business?
 
