@@ -11,10 +11,8 @@ social_image_alt_text = "Bristol Pound Notes"
 
 +++
 
-{{% center %}}
-  ![Bristol Pound Notes](Bristol-Pound-notes.jpg#shadow)
+![Bristol Pound Notes](Bristol-Pound-notes.jpg)
 
-{{% /center %}}
 
 ## How does Parity compare with Bristol Pound?
 
