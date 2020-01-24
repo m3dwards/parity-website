@@ -5,9 +5,11 @@ date = "2019-07-26"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
+social_image = "Weekly-Events.jpg"
+social_image_alt_text = "A white poster stating weekly events"
 +++
 
-![Weekly Events](Weekly-Events.jpg)
+![A white poster stating weekly events](Weekly-Events.jpg)
 
 ## Business Networking Event. w/c 29 of July 2019
 
