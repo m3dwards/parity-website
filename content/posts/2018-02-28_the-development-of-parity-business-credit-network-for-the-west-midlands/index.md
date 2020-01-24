@@ -5,6 +5,8 @@ date = "2018-02-28"
 categories = ["Business Development","Company News"]
 tags = []
 author = "Stuart Bowles"
+social_image = "Birmingham-Canal.jpg"
+social_image_alt_text = "Birmingham Canal"
 +++
 
 ![Birmingham Canal](Birmingham-Canal.jpg)
