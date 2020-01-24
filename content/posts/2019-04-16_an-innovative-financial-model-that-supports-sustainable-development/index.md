@@ -5,6 +5,8 @@ date = "2019-04-16"
 categories = ["Industry News"]
 tags = []
 author = "Stuart Bowles"
+social_image = "Sardex-Logo.jpg"
+social_image_alt_text = "Sardex Logo"
 +++
 
 ![Sardex Logo](Sardex-Logo.jpg)
