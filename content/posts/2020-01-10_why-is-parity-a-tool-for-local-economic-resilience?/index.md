@@ -6,6 +6,9 @@ date = "2020-01-10"
 categories = ["Business Development","Company News"]
 tags = []
 author = "Matteo Vanzini"
+# 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
+social_image = "Locality.gif"
+social_image_alt_text = "Logo image shows a square speech bubble with the word locality inside"
 
 +++
 
