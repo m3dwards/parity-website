@@ -6,10 +6,10 @@ categories = ["Regional News"]
 tags = []
 author = "Stuart Bowles"
 social_image = "mebc-Logo.jpg"
-social_image_alt_text = "mebc Logo"
+social_image_alt_text = "Green and blue logo of Birmingham Environmental Business Company"
 +++
 
-![mebc Logo](mebc-Logo.jpg)
+![Green and blue logo of Birmingham Environmental Business Company](mebc-Logo.jpg)
 
 ## MEBC Access to Finance Event
 
