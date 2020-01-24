@@ -5,6 +5,8 @@ date = "2018-09-13"
 categories = ["Company News","Regional News"]
 tags = []
 author = "Stuart Bowles"
+social_image = "Innovation-Birmingham-Campus.jpg"
+social_image_alt_text = "Innovation Birmingham Campus"
 +++
 
 ![Innovation Birmingham Campus](Innovation-Birmingham-Campus.jpg)
