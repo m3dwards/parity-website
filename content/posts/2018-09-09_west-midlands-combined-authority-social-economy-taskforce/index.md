@@ -5,6 +5,8 @@ date = "2018-09-09"
 categories = ["Business Development"]
 tags = []
 author = "Stuart Bowles"
+social_image = "WMCA-Logo.png"
+social_image_alt_text = "West Midlands Combined Authority Logo"
 +++
 
 ![West Midlands Combined Authority](WMCA-Logo.png)
