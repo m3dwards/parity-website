@@ -213,7 +213,7 @@ Type of support
 
 Expertiseand advice
 
-Visitwebsite <http://www.cwcda.co.uk/social-enterprise>
+[Visitwebsite](http://www.cwcda.co.uk/social-enterprise)
 
 ![Business Loans](Business-Loans.jpg)
 
