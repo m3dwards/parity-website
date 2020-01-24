@@ -5,6 +5,8 @@ date = "2018-03-15"
 categories = ["Regional News"]
 tags = []
 author = "Stuart Bowles"
+social_image = "Chancellor.jpg"
+social_image_alt_text = "Chancellor"
 +++
 
 ![Chancellor](Chancellor.jpg)
