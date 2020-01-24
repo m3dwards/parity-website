@@ -74,6 +74,6 @@ The Impact Hub Birmingham is just one of the global networks of co-working space
 
 ### Final thoughts
 
-The benefits of coworking space in Birmingham are endless, and ultimately offer a new and productive way to work. So, if you are a budding entrepreneur or a professional team who need a environment that will help inspire creativity without the pressure of expensive financial ties, co-working spaces may be your final stop to success. If your business is looking for new and creative ways to connect with clients, [Parity](https://new.parity.uk) offers a digital platform to connect to local sales opportunities.
+The benefits of coworking space in Birmingham are endless, and ultimately offer a new and productive way to work. So, if you are a budding entrepreneur or a professional team who need a environment that will help inspire creativity without the pressure of expensive financial ties, co-working spaces may be your final stop to success. If your business is looking for new and creative ways to connect with clients, [Parity](/how it works) offers a digital platform to connect to local sales opportunities.
 
 What are your favourite places to work when in Birmingham? Let us know and we can add it to our list of the best co-working spaces in Birmingham.
