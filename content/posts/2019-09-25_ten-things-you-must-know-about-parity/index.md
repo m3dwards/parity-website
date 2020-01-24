@@ -7,13 +7,14 @@ tags = []
 author = "Matteo Vanzini"
 +++
 
+![Frequently Asked Questions](FAQs.jpg)
 
 ## Ten things you must know about Parity
 
 
 #### 1. What is Parity?
 
-Parity is a network for independent businesses in the Jewellery Quarter with its own local currency. Our [digital platform](https://parity.uk/about-us/) facilitate networking and allows members to promote their business, connect with new local customers and increase revenue. Members can also benefit from using a local currency, called Parity, and accessing an interest free credit line to support cash flow and purchase expenses.
+Parity is a network for independent businesses in the Jewellery Quarter with its own local currency. Our [digital platform](/about-us) facilitate networking and allows members to promote their business, connect with new local customers and increase revenue. Members can also benefit from using a local currency, called Parity, and accessing an interest free credit line to support cash flow and purchase expenses.
 
 #### 2. How is it possible interest free credit?
 
