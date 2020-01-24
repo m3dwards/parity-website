@@ -12,7 +12,7 @@ author = "Matteo Vanzini"
 ## Business Support for West Midlands Businesses
 
 
-Starting a business can be liberating, however the journey to business growth and increased cashflow can be challenging. From the onset you may not have all the expertise or even the resources necessary for your business to prosper and thrive. [Parity](https://parity.uk) aims to support your growth offering a local network and an innovative cashflow solution.
+Starting a business can be liberating, however the journey to business growth and increased cashflow can be challenging. From the onset you may not have all the expertise or even the resources necessary for your business to prosper and thrive. [Parity](/how-it-works) aims to support your growth offering a local network and an innovative cashflow solution.
 
 Why is business support important?
 
@@ -246,4 +246,4 @@ You can get a loan to help you with:
 *   bridging finance
 *   other business proposals
 
-VisitWebsite <https://www.cwrt.uk.com/business-loans/>
+[VisitWebsite](https://www.cwrt.uk.com/business-loans)
