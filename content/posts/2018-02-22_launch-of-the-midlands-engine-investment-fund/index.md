@@ -6,10 +6,10 @@ categories = ["Regional News"]
 tags = []
 author = "Stuart Bowles"
 social_image = "MEIF-Logo.jpg"
-social_image_alt_text = "MEIF Logo"
+social_image_alt_text = "Midlands Engine Investment Fund with the rounded logo on the left"
 +++
 
-![MEIF Logo](MEIF-Logo.jpg)
+![Midlands Engine Investment Fund with the rounded logo on the left](MEIF-Logo.jpg)
 
 ## Launch of the Midlands Engine Investment Fund
 
