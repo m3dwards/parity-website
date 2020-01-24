@@ -183,3 +183,10 @@ img[src*='#left'] {float: left; padding: 10px;}
     }
 
 }
+
+#bio {
+    img { max-width: 70%!important; }
+    @media (min-width: 576px) {
+        img { max-width: 95%!important; }
+    }
+}
