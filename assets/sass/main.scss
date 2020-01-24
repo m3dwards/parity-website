@@ -30,7 +30,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1,h2 {font-weight: 700; font-family: 'Lora', sans-serif;}
 h1 {font-family: 'Lora', sans-serif;}
-img.shadow, img[src$='#shadow'] { filter: drop-shadow(5px 5px 5px #666666); }
+img.shadow, img[src*='#shadow'] { filter: drop-shadow(5px 5px 5px #666666); }
 
 .nav-link { display: inline-block; }
 
@@ -187,6 +187,6 @@ img[src*='#left'] {float: left; padding: 10px;}
 #bio {
     img { max-width: 70%!important; }
     @media (min-width: 576px) {
-        img { max-width: 95%!important; }
+        img { max-width: 85%!important; }
     }
 }
