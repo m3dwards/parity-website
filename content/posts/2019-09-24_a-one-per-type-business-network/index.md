@@ -5,9 +5,11 @@ date = "2019-09-24"
 categories = ["Company News"]
 tags = []
 author = "Matteo Vanzini"
+social_image = "Limited-Spots-Available.png"
+social_image_alt_text = "Limited spots available, esclamation mark, written in red"
 +++
 
-![One Seat Policy](Limited-Spots-Available.png)
+![Limited spots available, esclamation mark, written in red](Limited-Spots-Available.png)
 
 ## A "one per type" business network.
 
