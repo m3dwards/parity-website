@@ -5,6 +5,8 @@ date = "2019-04-11"
 categories = ["Business Development","Company News","Regional News"]
 tags = []
 author = "Stuart Bowles"
+social_image = "Credex-Launch-Event.jpg"
+social_image_alt_text = "Credex Launch Event"
 +++
 
 ![Credex Launch Event](Credex-Launch-Event.jpg)
