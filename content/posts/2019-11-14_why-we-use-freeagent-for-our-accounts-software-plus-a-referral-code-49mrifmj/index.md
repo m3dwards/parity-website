@@ -12,6 +12,7 @@ social_image_alt_text = "FreeAgent Logo"
 
 +++
 
+![FreeAgent Logo](freeagentlogo.png) 
 
 ## Why we use FreeAgent for our accounts software plus a referral code (49mrifmj)
 
@@ -23,5 +24,3 @@ When starting Parity I knew that I wanted something similar for this business bu
 We promptly signed up to FreeAgent and we are pleasantly surprised how well it works for a business a little larger than an independent contractor.
 
 If you fancy giving FreeAgent a try, sign up with the following link to get 10% off: <http://fre.ag/49mrifmj> or just use the code (49mrifmj). They offer a free trial period followed by 6 months at 50%.
-
-![FreeAgent Logo](freeagentlogo.png)
