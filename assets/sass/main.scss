@@ -30,7 +30,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1,h2 {font-weight: 700; font-family: 'Lora', sans-serif;}
 h1 {font-family: 'Lora', sans-serif;}
-img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
+img.shadow, img[src$='#shadow'] { filter: drop-shadow(5px 5px 5px #666666); }
 
 .nav-link { display: inline-block; }
 
@@ -165,3 +165,5 @@ img.shadow { filter: drop-shadow(5px 5px 5px #666666); }
 .three-things, .two-things {
     img { width: 95%; }
 }
+
+#post img { max-width: 95%; }

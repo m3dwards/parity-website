@@ -12,8 +12,7 @@ social_image_alt_text = "Bristol Pound Notes"
 +++
 
 {{% center %}}
-
-  ![Bristol Pound Notes](Bristol-Pound-notes.jpg)
+  ![Bristol Pound Notes](Bristol-Pound-notes.jpg#shadow)
 
 {{% /center %}}
 
@@ -34,4 +33,3 @@ Thirdly, there are some minor differences around what the currency itself looks 
 Finally, the availability of business credit is different between Bristol Pound and Parity. As mentioned above, Bristol Pound has to be bought, although they are now experimenting with a business lending option, where companies can get loans through Bristol Pound. Parity is entirely based on credit. Every company has access to a 0% credit facility for purchases, providing them with an additional source of liquidity and helping cashflow.
 
 These are the main differences between Bristol Pound and Parity. We do like to follow their development and have attended events they have organised over the past couple of years. We will also keep an eye on developments within our sector, including the city applications built by Colu that have been trialled in Liverpool and East London.
-
