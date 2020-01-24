@@ -5,6 +5,8 @@ date = "2018-10-02"
 categories = ["Regional News"]
 tags = []
 author = "Stuart Bowles"
+social_image = "ART-Logo.jpg"
+social_image_alt_text = "ART Logo"
 +++
 
 ![ART Logo](ART-Logo.jpg)
