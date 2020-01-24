@@ -5,6 +5,8 @@ date = "2018-03-20"
 categories = ["Industry News","Regional News"]
 tags = ["business loans west midlands","sme business credit","sme finance"]
 author = "Stuart Bowles"
+social_image = "BDCR-Logo.jpg"
+social_image_alt_text = "BDCR Logo"
 +++
 
 ![BDCR Logo](BDCR-Logo.jpg)
