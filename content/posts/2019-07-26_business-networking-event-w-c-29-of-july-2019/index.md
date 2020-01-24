@@ -12,7 +12,7 @@ author = "Matteo Vanzini"
 ## Business Networking Event. w/c 29 of July 2019
 
 
-Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out [how Parity supports local market](https://parity.uk) and follow our weekly blog on networking events in Birmingham and West Midlands
+Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out how Parity supports local market and follow our weekly blog on networking events in Birmingham and West Midlands
 
 ### Monday 29th of July
 
@@ -22,7 +22,7 @@ These are informal sessions covering business / entrepreneurship topics, looking
 When: 29/07/2019 - 3pm - 4pm
 Where: University of Birmingham, Metallurgy &amp; Materials Building, Meeting Room, Birmingham, B15 2TT
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/tech-entrepreneurship-101-tickets-66202538575?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/tech-entrepreneurship-101-tickets-66202538575?aff=ebdssbdestsearch)
 
 #### Curry Club Networking
 
@@ -30,7 +30,7 @@ It’s now established as Britain’s favourite meal, and for many of us, you ca
 When: 29/07/2019 - 5.30pm - 7.30pm
 Where: Asha's Solihull, Touchwood Shopping Centre, Homer Rd, Solihull, B91 3QW
 Cost: £25
-Reserve a place: <https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/curry-club-networking-solihull-july/details>
+[Reserve a place](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/curry-club-networking-solihull-july/details)
 
 ### Tuesday 30th of July
 
@@ -40,7 +40,7 @@ This business networking event provides plenty of opportunities to meet other lo
 When: 30/07/2019 - 8.00am - 10.00am
 Where: The Royal Hotel, High Street, Sutton Coldfield, B72 1UD
 Cost: £15
-Reserve a place: <https://www.eventbrite.co.uk/e/4n-sutton-coldfield-business-breakfast-networking-tickets-61003493090?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/4n-sutton-coldfield-business-breakfast-networking-tickets-61003493090?aff=ebdssbdestsearch>
 
 #### The Tate Breakfast Club
 
@@ -48,7 +48,7 @@ Tate Birmingham are not just a recruitment company we deliver tailor-made soluti
 When: 30/07/2019 - 8.15am - 11.30am
 Where: The Alchemist, Colmore Row, Birmingham, B3 2DE
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/the-tate-breakfast-club-tickets-65247262318?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/the-tate-breakfast-club-tickets-65247262318?aff=ebdssbdestsearch)
 
 ![Business Green](Going-Green.jpeg)
 
@@ -58,7 +58,7 @@ Following the Government's announcement that the UK will be zero carbon by 2050,
 When: 30/07/2019 - 8.30am - 10.30am
 Where: Crowne Plaza, Bridgefoot, Stratford-upon-Avon, CV37 6YR
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/going-green-the-benefits-for-your-business-tickets-63973854521?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/going-green-the-benefits-for-your-business-tickets-63973854521?aff=ebdssbdestsearch)
 
 #### Greater Birmingham Chamber of Commerce
 
@@ -67,7 +67,7 @@ Social media has changed the way businesses and their customers interact. In a r
 When: 30/07/2019 - 9.00am - 1.00pm
 Where: Creative Industries Centre, University of Wolverhampton Science Park, Glaisher Drive, West Midlands, WV10 9TG
 Cost: £210 (£180)
-Reserve a place: <https://www.blackcountrychamber.co.uk/events/30072019/social-media-fundamentals/>
+[Reserve a place](https://www.blackcountrychamber.co.uk/events/30072019/social-media-fundamentals/)
 
 #### Business for Breakfast UK
 BforB Two Green Brunch B27
@@ -76,7 +76,7 @@ Business for Breakfast (BforB) is the hardest working Business Networking Group 
 When: 30/07/2019 - 10.00am - 11.30am
 Where: BEST WESTERN WESTLEY, HOTEL, WESTLEY ROAD, ACOCKS GREEN , BIRMINGHAM , B27 7UJ
 Cost: £8
-Reserve a place: <https://www.findnetworkingevents.com/events/index.cfm?action=eventdetail&amp;eventid=127501>
+[Reserve a place](https://www.findnetworkingevents.com/events/index.cfm?action=eventdetail&amp;eventid=127501)
 
 #### Coventry \#LoveBiz
 Coffee Catch Up Networking Event
@@ -85,7 +85,7 @@ The Love Ladies Business Group, established in 2012, brings together and connect
 When: 30/07/2019 - 10.00am - 11.30am
 Where: Ramada Hotel &amp; Suites Coventry, Butts, CV1 3GG Coventry
 Cost: £15
-Reserve a place: <https://www.eventbrite.co.uk/e/coventry-lovebiz-coffee-catch-up-networking-event-tickets-59990209331?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/coventry-lovebiz-coffee-catch-up-networking-event-tickets-59990209331?aff=ebdssbdestsearch)
 
 ![Lichfield Business Improvement District](Lichfield-BID.jpeg)
 
@@ -95,7 +95,7 @@ As part of its Business Support and Lobbying Theme, Lichfield BID is providing a
 When: 30/07/2019 - 5.30pm - 7.30pm
 Where: Ultimate Vegan Cafe (UVC), 12 City Arcade, Lichfield, WS13 6LY
 Cost: £0 - 10
-Reserve a place: <https://www.eventbrite.co.uk/e/lichfield-bid-business-networking-tickets-65452583439?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/lichfield-bid-business-networking-tickets-65452583439?aff=ebdssbdestsearch)
 
 #### Strategy In Action (Aston Business School MBA Taster Series)
 
@@ -103,7 +103,7 @@ This event is the fifth and final event of the Aston Business School MBA Taster 
 When: 30/07/2019 - 5.30pm - 7.30pm
 Where: Aston Business School, 295 Aston Express Way, Birmingham, B4 7ER
 Cost: free
-Reserve a place: <https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/aston-business-school-mba-taster-series-5/details>
+[Reserve a place](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/aston-business-school-mba-taster-series-5/details)
 
 ![FSB Connect](FSB-Connect.jpg)
 
@@ -113,7 +113,7 @@ This business networking event is your chance to join fellow business owners and
 When: 30/07/2019 - 6.00pm
 Where: Revolution Solihull, Roof Terrace Bar - upstairs, 64-66 Station Rd, Solihull, B91 3RX
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/fsbconnect-solihull-last-tuesday-tickets-57418228467?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/fsbconnect-solihull-last-tuesday-tickets-57418228467?aff=ebdssbdestsearch)
 
 #### \#FSBConnect Dudley - last Tuesday
 
@@ -121,7 +121,7 @@ This business networking event is your chance to join fellow business owners and
 When: 30/07/2019 - 6.00pm
 Where: Bar Area, Dudley Town Hall, St James Road, Dudley, DY1 1HP
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/fsbconnect-dudley-last-tuesday-tickets-57486219831?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/fsbconnect-dudley-last-tuesday-tickets-57486219831?aff=ebdssbdestsearch)
 
 ### Wednesday 31st of July
 
@@ -133,7 +133,7 @@ Visitors and members arrive and register between 06:45 and 07:00 before sitting 
 When: 31/07/2019 - 6.30am
 Where: The Conservatory Saint Pauls House, 15-20 St Paul’s Square, Jewellery Quarter, Birmingham, B3 1QU
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/jewellery-quarter-brum-breakfast-meet-st-pauls-networking-group-during-summer-2019-tickets-38778250792?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/jewellery-quarter-brum-breakfast-meet-st-pauls-networking-group-during-summer-2019-tickets-38778250792?aff=ebdssbdestsearch)
 
 #### Business Network International
 BNI Alliance
@@ -142,7 +142,7 @@ The Alliance Group meet every Wednesday at 06:45am at Novotel on Broad Street. A
 When: 31/07/2019 - 6.45am - 9.00am
 Where: Novotel Birmingham Central, Broad Street , Birmingham , B1 2HT
 Cost: £10
-Reserve a place: <https://bnibirmingham.com/en-GB/chapterdetail?chapterId=9FHyDLkIsvccnW%2FfnnSaeQ%3D%3D&amp;name=Alliance%20BNI%20%28Birmingham%29>
+[Reserve a place](https://bnibirmingham.com/enGB/chapterdetailchapterId=9FHyDLkIsvccnW%2FfnnSaeQ%3D%3D&amp;name=Alliance%20BNI%20%28Birmingham%29)
 
 #### Business over Breakfast (BoB) Clubs - Birmingham Edgbaston Business over Breakfast (BoB Club)
 
@@ -150,7 +150,7 @@ BoB Clubs creates a secure and successful networking environment for members to 
 When: 31/07/2019 - 7.00am
 Where: Avery Fields Sports Club, 79, Sandon Road , Edgbaston , Birmingham , B17 8DT
 Cost: £10
-Reserve a place: <https://www.bobclubs.com/Club/Birmingham-Edgbaston>
+[Reserve a place](https://www.bobclubs.com/Club/Birmingham-Edgbaston)
 
 #### What's Your Value-Proposition?
 (Masterclass with speed networking)
@@ -159,7 +159,7 @@ At this interactive workshop for SMEs, delegates undertake a series of sales-foc
 When: 31/07/2019 - 8.30am - 12.30pm
 Where: Alpha Works (21st Floor, Alpha Tower), Suffolk Street Queensway, Birmingham, B1 1TT
 Cost: £34.99 – £44.99
-Reserve a place: <https://www.eventbrite.co.uk/e/whats-your-value-proposition-masterclass-with-speed-networking-tickets-64236485056?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/whats-your-value-proposition-masterclass-with-speed-networking-tickets-64236485056?aff=ebdssbdestsearch]
 
 ![Greater Birmingham Chamber of Commerce](GBCC-Logo.png)
 
@@ -170,7 +170,7 @@ A new event in Birmingham for 2019 - join fellow members &amp; non-members for a
 When: 31/07/2019 - 12.00 - 2.00pm
 Where: Cafe Rouge at the Mailbox, 174-176 Wharfside St, Birmingham, B1 1RN
 Cost: £15
-Reserve a place: <https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/networking-lunch-birmingham-1/details>
+[Reserve a place](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/networking-lunch-birmingham-1/details)
 
 #### Solihull. Coffee and Natter
 
@@ -178,7 +178,7 @@ Pathway2Grow's "Coffee &amp; Natter" business networking event is relaxed networ
 When: 31/07/2019 - 1.00pm - 3.00pm
 Where: Sollihul College and University Centre, The Conference Centre, Blossomfield Campus, Solihull, B91 1SB
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/solihull-coffee-natter-free-business-networking-wed-31st-july-2019-tickets-64228714815?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/solihull-coffee-natter-free-business-networking-wed-31st-july-2019-tickets-64228714815?aff=ebdssbdestsearch)
 
 ### Thursday 1st of August
 
@@ -191,7 +191,7 @@ The Start Up workshops provide support and resources to budding entrepreneurs, p
 When: 01/08/2019 - 9.30am - 12.30pm
 Where: Creative Industries Centre, University of Wolverhampton Science Park, Glaisher Drive, West Midlands , WV10 9TG
 Cost: free
-Reserve a place: <https://www.blackcountrychamber.co.uk/events/01082019/start-up-how-to-bring-your-brand-to-life/>
+[Reserve a place](https://www.blackcountrychamber.co.uk/events/01082019/start-up-how-to-bring-your-brand-to-life/)
 
 #### Business Forward Wolverhampton
 
@@ -199,7 +199,7 @@ Business Forward Wolverhampton is a FREE business networking group, held on the 
 When: 01/08/2019 - 10.00am - 12.00pm
 Where: Wolverhampton Business Solutions Centre, Glaisher Drive, Wolverhampton, WV10 9RT
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/free-business-networking-with-business-forward-thurs-1-aug-2019-tickets-66166721445?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/free-business-networking-with-business-forward-thurs-1-aug-2019-tickets-66166721445?aff=ebdssbdestsearch)
 
 #### Women in Business Network - Birmingham
 
@@ -207,7 +207,7 @@ WIBN is a strong and growing Nation of Business Women that rise by lifting each 
 When: 01/08/2019 - 12.00pm
 Where: Ibis Styles Birmingham Hagley Road, 313 Hagley Road, Birmingham, B16 9LQ
 Cost: £28.01
-Reserve a place: <https://www.eventbrite.co.uk/e/women-in-business-network-birmingham-tickets-53723806351?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/women-in-business-network-birmingham-tickets-53723806351?aff=ebdssbdestsearch)
 
 #### IOSH Midland Branch. August 2019 Meeting.
 
@@ -215,7 +215,7 @@ Your Midland Branch – at the heart of health and safety since 1952. Join the I
 When: 01/08/2019 - 1.30pm - 3.30pm
 Where: Hollyfields Centre Ltd, Woodacre Road, Birmingham, B24 0JT
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/iosh-midland-branch-august-2019-meeting-tickets-62837883802?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/iosh-midland-branch-august-2019-meeting-tickets-62837883802?aff=ebdssbdestsearch)
 
 ![Breslins Club](Breslins-Club.jpeg)
 
@@ -225,7 +225,7 @@ Join us at our informal business networking event at the wonderful 1000 Trades N
 When: 01/08/2019 - 4.30pm - 6.00pm
 Where: 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/breslins-club-business-networking-1000-trades-tickets-64784426965?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/breslins-club-business-networking-1000-trades-tickets-64784426965?aff=ebdssbdestsearch)
 
 #### Black Country Chamber of Commerce
 Future Link - Social
@@ -234,7 +234,7 @@ This edgy venue offers a great place to chat and network with like-minded young 
 When: 01/08/2019 - 5.30pm - 8.00pm
 Where: The Royal London, 4-6 Wulfruna Street, Wolverhampton, West Midlands, WV1 1LX
 Cost: free
-Reserve a place: <https://www.blackcountrychamber.co.uk/events/01082019/future-link-social/>
+[Reserve a place](https://www.blackcountrychamber.co.uk/events/01082019/future-link-social/)
 
 ### Friday 2nd of August
 
@@ -244,7 +244,7 @@ Big Business Events are back on tour with theFREE Social Media &amp; Business Su
 When: 02/08/2019 - 9.00am - 5.00pm
 Where: Novotel Birmingham Centre Hotel, 70 Broad Street, Birmingham, B1 2HT
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/social-media-business-summit-tickets-65524701145?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/social-media-business-summit-tickets-65524701145?aff=ebdssbdestsearch)
 
 #### First Friday West Midlands
 
@@ -252,4 +252,4 @@ The First Friday Club West Midlands is an informal gathering exclusively for Con
 When: 02/08/2019 - 12.30pm
 Where: The Lost &amp; Found Birmingham, 8 Bennetts Hill, Birmingham, B2 5RS
 Cost: £10
-Reserve a place: <https://www.eventbrite.co.uk/e/first-friday-west-midlands-tickets-48387276647?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/first-friday-west-midlands-tickets-48387276647?aff=ebdssbdestsearch)
