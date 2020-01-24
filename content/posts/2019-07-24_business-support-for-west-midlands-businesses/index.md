@@ -5,9 +5,11 @@ date = "2019-07-24"
 categories = ["Regional News"]
 tags = []
 author = "Matteo Vanzini"
+social_image = "Support-Local-Business.jpeg"
+social_image_alt_text = "A poster stating support local business"
 +++
 
-![Support Local Business](Support-Local-Business.jpeg)
+![A poster stating support local business](Support-Local-Business.jpeg)
 
 ## Business Support for West Midlands Businesses
 
