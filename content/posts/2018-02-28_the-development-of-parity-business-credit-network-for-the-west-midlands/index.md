@@ -6,10 +6,10 @@ categories = ["Business Development","Company News"]
 tags = []
 author = "Stuart Bowles"
 social_image = "Birmingham-Canal.jpg"
-social_image_alt_text = "Birmingham Canal"
+social_image_alt_text = "Picture of Birmingham's canal on Broad Street"
 +++
 
-![Birmingham Canal](Birmingham-Canal.jpg)
+![Picture of Birmingham's canal on Broad Street](Birmingham-Canal.jpg)
 
 ## The Development of Parity - Business Credit Network for the West Midlands
 
