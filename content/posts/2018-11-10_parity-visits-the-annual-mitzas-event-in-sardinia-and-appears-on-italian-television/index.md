@@ -5,6 +5,8 @@ date = "2018-11-10"
 categories = ["Industry News"]
 tags = ["Bisoo","Efficio","Mitzas","Sardex"]
 author = "Stuart Bowles"
+social_image = "Mitzas.jpg"
+social_image_alt_text = "Mitzas"
 +++
 
 ![Mitzas](Mitzas.jpg)
