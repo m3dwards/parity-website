@@ -5,9 +5,11 @@ date = "2019-08-02"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
+social_image = "Networking.jpg"
+social_image_alt_text = "Fingers pointing a networking written on a white board"
 +++
 
-![Business Networking](Networking.jpg)
+![Fingers pointing a networking written on a white board](Networking.jpg)
 
 ## Type of Business Network & Parity
 
