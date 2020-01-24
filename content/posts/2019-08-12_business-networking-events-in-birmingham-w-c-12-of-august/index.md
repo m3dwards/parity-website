@@ -5,9 +5,11 @@ date = "2019-08-12"
 categories = []
 tags = []
 author = "Matteo Vanzini"
+social_image = "Weekly-Events.jpg"
+social_image_alt_text = "A white poster stating weekly events"
 +++
 
-![Weekly Events](Weekly-Events.jpg)
+![A white poster stating weekly events](Weekly-Events.jpg)
 
 ## Business Networking Events in Birmingham, w/c 12 of August.
 
