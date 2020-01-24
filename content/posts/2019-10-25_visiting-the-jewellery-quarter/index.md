@@ -7,6 +7,7 @@ tags = []
 author = "Matteo Vanzini"
 +++
 
+![Jewellery Quarter](JQ.jpeg)  
 
 ## Visiting the Jewellery Quarter
 
