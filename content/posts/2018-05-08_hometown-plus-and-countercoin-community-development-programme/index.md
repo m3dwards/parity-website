@@ -5,6 +5,8 @@ date = "2018-05-08"
 categories = ["Industry News"]
 tags = []
 author = "Staurt Bowles"
+social_image = "Hometown-Plus.jpg"
+social_image_alt_text = "Hometown Plus Community Development Programme"
 +++
 
 ![Hometown Plus Community Development Programme](Hometown-Plus.jpg)
