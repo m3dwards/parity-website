@@ -12,7 +12,7 @@ author = "Matteo Vanzini"
 ## Business Networking Events in West Midlands w/c 15th July 2019.
 
 
-Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out [how Parity supports local market](https://new.parity.uk) and follow our weekly blog on business networking events in Birmingham and West Midlands.
+Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out how Parity supports local market and follow our weekly blog on business networking events in Birmingham and West Midlands.
 
 ## Tuesday 16th of July
 
@@ -23,7 +23,7 @@ Friendly networking group that meets every Tuesday. Each meeting provides plenty
 When: 16/07/2019 - 8.00am
 Where: The Royal Hotel, High Street, Sutton Coldfield, B72 1UD
 Cost: Free
-Reserve a place: <https://www.eventbrite.co.uk/e/4n-sutton-coldfield-business-breakfast-networking-tickets-61003493090?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/4n-sutton-coldfield-business-breakfast-networking-tickets-61003493090?aff=ebdssbdestsearch)
 
 ![Birmingham Enterprise Community](Birmingham-Enterprise-Community.jpeg)
 
@@ -37,7 +37,7 @@ When: 16/07/2019 - 09.30am – 11.30am
 Where: Santander, Unit 6, Caxton Gate, Corporation Street, Birmingham,
 B2 4LP
 Cost: free
-Reserve a place:<https://www.eventbrite.co.uk/e/birmingham-enterprise-community-collaboration-not-competition-tickets-64964877698?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/birmingham-enterprise-community-collaboration-not-competition-tickets-64964877698?aff=ebdssbdestsearch)
 
 #### [Love Ladies Business Group](https://www.loveladiesbusinessgroup.co.uk/)
 
@@ -46,7 +46,7 @@ The Love Ladies Business Group, brings together and connects local businesses ow
 When: 16/07/2019 - 9.30am - 11am
 Where: The Ivy, Temple Row , Birmingham , B2 5LS
 Cost: £ 29.50
-Reserve a place: <https://www.loveladiesbusinessgroup.co.uk/birmingham>
+[Reserve a place](https://www.loveladiesbusinessgroup.co.uk/birmingham)
 
 #### [Business for Breakfast](https://www.bforb.co.uk/)
 
@@ -57,7 +57,7 @@ BforB is an internationally recognised networking environment and it helps you g
 When: 16/07/ 2019 - 10.00am-11.30am
 Where: Best Western Westley Hotel; Westley road, Birmingham, B27 7UJ
 Cost: £ 8.00
-Reserve a place: [https://bms.bforb.co.uk/ext\_member\_reg.php?cGhETjlRMk4=](https://bms.bforb.co.uk/ext_member_reg.php?cGhETjlRMk4=)
+[Reserve a place](https://bms.bforb.co.uk/ext\_member\_reg.php?cGhETjlRMk4=)
 
 ![Small Business Connect Up](Small-Business-Connect-Up.jpg)
 
@@ -68,7 +68,7 @@ Reserve a place: [https://bms.bforb.co.uk/ext\_member\_reg.php?cGhETjlRMk4=](htt
 When: 16/07/2019 - 11.00am – 12.3pm
 Where: Chase Meadow Community Centre, Narrow Hall Meadow, Warwick, CV34 6BT
 Cost: £ 5
-Reserve a place: <https://www.eventbrite.co.uk/e/small-business-connect-up-tickets-63325588540?affebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/small-business-connect-up-tickets-63325588540?affebdssbdestsearch)
 
 #### [Black Country Chamber of Commerce](https://www.blackcountrychamber.co.uk/)
 
@@ -79,7 +79,7 @@ Excellent workshop hosted by Dawn Owen from Asentiv, specifically designed to he
 When: 16/07/2019 - 13.00 - 15.00
 Where: Creative Industries Centre, University of Wolverhampton Science Park, Glaisher Drive, West Midlands, WV10 9TG
 Cost: £20
-Reserve a place: <https://www.blackcountrychamber.co.uk/events/16072019/future-link-how-to-network-effectively/>
+[Reserve a place](https://www.blackcountrychamber.co.uk/events/16072019/future-link-how-to-network-effectively/)
 
 ## Wednesday 17th of July
 
@@ -91,7 +91,7 @@ BoB clubs operate all over the world, connecting local businesses and creating c
 When: 17/07/2019 -  7.00am
 Where: Avery Fields Sports Club, 79, Sandon Road, Edgbaston, Birmingham, B17 8DT
 Cost: £10
-Reserve a place: <https://www.bobclubs.com/club/visitor/Birmingham-Edgbaston/25092>
+[Reserve a place](https://www.bobclubs.com/club/visitor/Birmingham-Edgbaston/25092)
 
 #### [Great Birmingham Chamber of Commerce](https://www.greaterbirminghamchambers.com/)
 
@@ -102,7 +102,7 @@ Your brand is one of the most valuable assets any business owner has and it’s 
 When: 17/07/2019 -  08:30am - 10:30am
 Where: Rodbaston Hall, South Staffordshire College, Rodbaston Drive, Penkridge, ST19 5PH
 Cost: £ 25
-Reserve a place:<https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/business-growth-seminar-branding-1/details>
+[Reserve a place](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/business-growth-seminar-branding-1/details)
 
 #### [Black Country Chamber of Commerce](https://www.blackcountrychamber.co.uk/)
 
@@ -113,8 +113,7 @@ Looking for a regular networking meeting in the Black County? Third Week Wednesd
 When: 17/07/2019 - 10:00am - 12:00pm
 Where: Casino 36 Ltd, 56-58 Temple Street, Wolverhampton, WV2 4AQ
 Cost: Free
-Reserve a place:
-<https://www.blackcountrychamber.co.uk/events/17072019/third-week-wednesday-networking/>
+[Reserve a place](https://www.blackcountrychamber.co.uk/events/17072019/third-week-wednesday-networking)
 
 ![Summer Tech BBQ](Summer-Tech-BBQ.jpg)
 
@@ -125,7 +124,7 @@ This event is a great chance to meet the Campus residents as well as some of the
 When: 17/07/2019 - 17:30
 Where: iCentrum, Innovation Birmingham Campus, 6 Holt Street, Birmingham, B7 4BP
 Cost: free
-Reserve a place: <https://collective.bruntwood.co.uk/events/19601>
+[Reserve a place](https://collective.bruntwood.co.uk/events/19601)
 
 ## Thursday 18th of July
 
@@ -136,7 +135,7 @@ BoB clubs operate all over the world, connecting local businesses and creating c
 When: 18/07/2019 - 7:00am
 Where: The Big Peg, Vyse Street, Jewellery Quarter, Birmingham , B18 6LT
 Cost: £ 10
-Reserve a place:<https://www.bobclubs.com/club/visitor/Birmingham-Jewellery-Qtr/25282>
+[Reserve a place](https://www.bobclubs.com/club/visitor/Birmingham-Jewellery-Qtr/25282)
 
 #### Free Networking (Sutton Coldfield)
 
@@ -145,7 +144,7 @@ Calling the local business community of Sutton Coldfield and surrounding areas, 
 When: 18/07/2019 - 8.00am - 10.00am
 Where: The Deli Collective - The Parade, Sutton Coldfield, B72 1PA
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/free-networking-the-network-collective-in-sutton-coldfield-tickets-64018924326?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/free-networking-the-network-collective-in-sutton-coldfield-tickets-64018924326?aff=ebdssbdestsearch)
 
 ![Business Support Organisation](BSO-Logo.jpg)
 
@@ -156,7 +155,7 @@ Hosted by “The Business Support Organisation” our meetings have no hidden ag
 When: 18/07/2019 8.00am - 10.15am
 Where: Walsall Golf Club, Broadway, Walsall, WS1 3EY
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/the-bso-business-breakfast-walsall-thursday-18th-july-tickets-63550355825?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/the-bso-business-breakfast-walsall-thursday-18th-july-tickets-63550355825?aff=ebdssbdestsearch)
 
 #### Connexion Solihull
 
@@ -165,7 +164,7 @@ The Connexion Solihull is a friendly, informal, all female networking group. We 
 When: 18/07/2019 - 9.40am - 12.00pm
 Where: Meeting Room, Fentham Hall, Marsh Lane, Hampton in Arden, Solihull, B92 0AH
 Cost: £10
-Reserve a place: <https://www.eventbrite.co.uk/e/the-connexion-solihull-tickets-61288756320?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/the-connexion-solihull-tickets-61288756320?aff=ebdssbdestsearch)
 
 #### [Great Birmingham Chamber of Commerce ](https://www.greaterbirminghamchambers.com/)
 
@@ -176,7 +175,7 @@ A new event series in Solihull for 2019 - join fellow members &amp; non-members 
 When: 18/07/2019 -   12:00 - 14:00
 Where: Tap &amp; Tandoor, 658 Warwick Rd, Solihull, B91 3DX
 Cost: £ 15
-Reserve a place:<https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/networking-lunch-solihull-1/details>
+[Reserve a place](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/networking-lunch-solihull-1/details)
 
 #### The Business Network
 
@@ -185,7 +184,7 @@ Each event is preceded by an optional business seminar, which starts at 11am. Th
 When: 18/07/2019 - 12.00pm
 Where: Novotel Birmingham Centre, 70 Broad St, Birmingham, B1 2HT
 Cost: £45
-Reserve a place:<https://www.business-network-birmingham.co.uk/>
+[Reserve a place](https://www.business-network-birmingham.co.uk/)
 
 ![Festival Of Enterprise](Festival-Of-Enterprise.jpeg)
 
@@ -197,7 +196,7 @@ We welcome you to the launch event for the Festival Of Enterprise; the essential
 When: 18/07/2019 - 18.30 - 20.30
 Where: Park Regis Birmingham, 160 Broad Street, Birmingham, B15 1DT
 Cost: free
-Reserve a place:<https://www.eventbrite.co.uk/e/festival-of-enterprise-launch-event-tickets-64413016065?ref=ecal>
+[Reserve a place](https://www.eventbrite.co.uk/e/festival-of-enterprise-launch-event-tickets-64413016065?ref=ecal)
 
 ## Friday 19th of July
 
@@ -208,8 +207,7 @@ Our July Breakfast Club focuses on putting Black County businesses on the map wi
 When: 19/07/2019 - 7.45am - 9.45am
 Where: Hagley Hall, Hall Drive, Hagley, DY9 9LG
 Cost: £18
-Reserve a place:
-[https://www.eventbrite.co.uk/e/the-breakfast-club-july-2019-tickets-63329068950?affebdssbdestsearch](https://www.eventbrite.co.uk/e/the-breakfast-club-july-2019-tickets-63329068950?aff=ebdssbdestsearch)
+[Reserve a place](https://www.eventbrite.co.uk/e/the-breakfast-club-july-2019-tickets-63329068950?aff=ebdssbdestsearch)
 
 ![Start Up Networking Event](Summer-BBQ.png)
 
@@ -220,7 +218,7 @@ The CWLEP Growth Hub would like to invite you to attend a summer BBQ for start-u
 When: 19/07/2019 - 11.00am - 3.00pm
 Where: Oakridge Golf Club, Arley Lane, Nuneaton, CV10 9PH
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/business-start-up-summer-bbq-tickets-62973674957?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/business-start-up-summer-bbq-tickets-62973674957?aff=ebdssbdestsearch)
 
 #### Saint Paul’s Club meets the Technology Supply Chain
 
@@ -229,7 +227,7 @@ Saint Paul’s Club In the City is joining forces with the Technology Supply Cha
 When: 19/07/2019 - 12.30pm - 2.00pm
 Where: Hotel du Vin Birmingham, 25 Church Street, Birmingham, B3 2NR
 Cost: £20 - £24.58
-Reserve a place: <https://www.eventbrite.co.uk/e/st-pauls-club-meets-the-technology-supply-chain-tickets-62391494640?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/st-pauls-club-meets-the-technology-supply-chain-tickets-62391494640?aff=ebdssbdestsearch)
 
 #### Afternoon Tea and Networking
 
@@ -238,8 +236,7 @@ Join Mel Riley Coach and Counsellor and Richard Brown from The Hungry Bistro, fo
 When: 19/07/2019 - 13.00 - 15.00
 Where: The Hungry Bistro, 81 Lichfield Street, Wolverhampton, WV1 1EQ
 Cost: £15
-Reserve a place:
-<https://www.eventbrite.co.uk/e/afternoon-tea-and-networking-tickets-63650950707?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/afternoon-tea-and-networking-tickets-63650950707?aff=ebdssbdestsearch)
 
 #### Harborne Lunch Club networking
 
@@ -248,8 +245,7 @@ If you're new to networking and want to get out and meet fellow business owners 
 When: 19/07/2019 - 2.00pm
 Where: The Junction, 212 High Street, Birmingham, B17 9PT
 Cost: free
-Reserve a place:
-<https://www.eventbrite.co.uk/e/harborne-lunch-club-afternoon-networking-tickets-63340431937?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/harborne-lunch-club-afternoon-networking-tickets-63340431937?aff=ebdssbdestsearch)
 
 ## Saturday 20th of July
 
@@ -262,4 +258,4 @@ The Birmingham Post Business Awards are back for 2019 and will be bigger and bet
 When: 20/07/2019 - 5.30pm - 7.30pm
 Where: Park Regis Birmingham, 160 Broad Street, Birmingham, B15 1DT
 Cost: free
-Reserve a place: <https://www.eventbrite.com/e/birmingham-post-awards-2019-finalist-drinks-tickets-62705969242?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.com/e/birmingham-post-awards-2019-finalist-drinks-tickets-62705969242?aff=ebdssbdestsearch)
