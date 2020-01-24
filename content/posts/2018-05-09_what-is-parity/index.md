@@ -5,6 +5,8 @@ date = "2018-05-09"
 categories = ["Business Development","Company News"]
 tags = []
 author = "Stuart Bowles"
+social_image = "Credex-On-Laptop.jpg"
+social_image_alt_text = "Credex"
 +++
 
 ![Credex](Credex-On-Laptop.jpg)
