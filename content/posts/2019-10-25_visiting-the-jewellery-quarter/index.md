@@ -5,9 +5,11 @@ date = "2019-10-25"
 categories = []
 tags = []
 author = "Matteo Vanzini"
+social_image = "JQ.jpeg"
+social_image_alt_text = "Picture of the clock tower in the Jewellery Quarter in Birmingham"
 +++
 
-![Jewellery Quarter](JQ.jpeg)  
+![Picture of the clock tower in the Jewellery Quarter in Birmingham](JQ.jpeg)  
 
 ## Visiting the Jewellery Quarter
 
