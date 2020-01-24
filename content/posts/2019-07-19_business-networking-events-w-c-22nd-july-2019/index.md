@@ -12,7 +12,7 @@ author = "Matteo Vanzini"
 ## Business Networking Events w/c 22nd July 2019.
 
 
-Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out [how Parity supports local market](https://parity.uk) and follow our weekly blog on networking events in Birmingham and West Midlands.
+Business is made of human relationships and in Parity we believe these are stronger and more trust worthy at local level. Find out how Parity supports local market and follow our weekly blog on networking events in Birmingham and West Midlands.
 
 ## Monday 22nd of July
 
@@ -35,7 +35,7 @@ Chamber Speed Networking is a business networking event designed for you. It’s
 When: 23/07/2019 - 8.30am - 10.30am
 Where: The Cathedral Lodge Hotel, 62 Beacon Street, Lichfield, WS13 7AR
 Cost: £15 (free for GBCC members)
-Reserve a place:<https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/speed-networking-10-2/details>
+[Reserve a place](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/speed-networking-10-2/details)
 
 ![Netwist](Netwist.jpeg)
 
@@ -47,7 +47,7 @@ Relaxed networking events. Professional Business Networking Breakfast meeting lo
 When: 23/07/2019 - 9.00am - 10.30am
 Where: The Plough, 21 High Street, Birmingham, B17 9NT
 Cost: £15
-Reserve a place: <https://www.eventbrite.co.uk/e/netwist-business-networking-birmingham-with-breakfast-unlimited-coffee-tickets-63188492482?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/netwist-business-networking-birmingham-with-breakfast-unlimited-coffee-tickets-63188492482?aff=ebdssbdestsearch)
 
 ## Wednesday 24th of July
 
@@ -59,7 +59,7 @@ Old Bank Business is an exclusive, monthly, breakfast networking group specifica
 When: 24/07/2019 - 9.30am
 Where: Old Bank Business Centre, 43-45 Church Street, Wednesbury, WS10 8DU
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/networking-old-bank-business-networking-specially-for-smes-tickets-44609820173?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/networking-old-bank-business-networking-specially-for-smes-tickets-44609820173?aff=ebdssbdestsearch)
 
 #### My Business Buddies Lunch
 
@@ -68,7 +68,7 @@ We believe that business happens when people connect and build great business re
 When: 24/07/2019 - 12.00pm - 2.30pm
 Where: The High Field, 22 Highfield Road, Birmingham, B15 3DP
 Cost: £24.50 – £27.50
-Reserve a place: <https://www.eventbrite.com/e/my-business-buddies-lunch-tickets-63067256863?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.com/e/my-business-buddies-lunch-tickets-63067256863?aff=ebdssbdestsearch)
 
 ![NatWest Hub](NatWest-Entrepreneur-Accelerator.png) 
 
@@ -80,7 +80,7 @@ Everybody knows that increasing your sales is vital to support the long term gro
 When: 24/07/2019 - 4.30pm - 6.30pm
 Where: 7-8 Brindley Place, Birmingham, B1 2TZ
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/entrepreneur-network-event-sales-powerup-tickets-63339247394?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/entrepreneur-network-event-sales-powerup-tickets-63339247394?aff=ebdssbdestsearch)
 
 ![Networknite](Networknite.jpg)
 
@@ -92,7 +92,7 @@ Speed Networking works a lot like 'Speed Dating' without the 'Dating'. A structu
 When: 24/07/2019 - 7.00pm - 9.00pm
 Where: Felson's Cocktail Lounge, Ground Floor, 266 Broad St, Birmingham, B1 2DS
 Cost: £22.50
-Reserve a place: <https://www.eventbrite.com/e/business-networking-in-birmingham-networknite-business-professionals-tickets-59850305876?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.com/e/business-networking-in-birmingham-networknite-business-professionals-tickets-59850305876?aff=ebdssbdestsearch)
 
 ## Thursday 25th of July
 
@@ -104,7 +104,7 @@ Being Present and Productive is very business relevant and work related, however
 When: 25/07/2019 - 9.00am - 4.30pm
 Where: Creative Industries Centre, University of Wolverhampton Science Park, Glaisher Drive, West Midlands, WV10 9TG
 Cost:  £325.00 (£285 for members)
-Reserve a place: <https://www.blackcountrychamber.co.uk/events/25072019/being-present-productive/>
+[Reserve a place](https://www.blackcountrychamber.co.uk/events/25072019/being-present-productive/)
 
 #### Birmingham Morning Latte Networking
 
@@ -113,7 +113,7 @@ Latte Networking events are held bi-monthly in the morning to help those who don
 When: 25/07/2019 - 9.30am - 11.30am
 Where: Headspace Group, Somerset House, 37 Temple Street, Birmingham, B2 5DP
 Cost: £7.50 – £12.50
-Reserve a place: <https://www.eventbrite.co.uk/e/birmingham-morning-latte-networking-tickets-63104122128?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/birmingham-morning-latte-networking-tickets-63104122128?aff=ebdssbdestsearch)
 
 #### NoW Network
 Family Summer Picnic
@@ -123,7 +123,7 @@ This is a social event for everyone to come together during the school holidays,
 When: 25/07/2019 - 10.30am - 2.30pm
 Where: Higham on the Hill Park, The Park, Higham on the Hill, CV13 6AP
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/now-network-family-summer-picnic-tickets-63500764496?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/now-network-family-summer-picnic-tickets-63500764496?aff=ebdssbdestsearch)
 
 ![Women In Business Network](WIBN-Logo.jpeg)
 
@@ -135,7 +135,7 @@ WIBN is a strong and growing Nation of Business Women that rise by lifting each 
 When: 25/07/2019 - 12.00pm - 2.00pm
 Where: Ramada HotelRamada Hotel, Penns Lane, Sutton Coldfield, B76 1LH
 Cost: £28
-Reserve a place: <https://www.eventbrite.co.uk/e/women-in-business-network-sutton-coldfield-tickets-58660933431?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/women-in-business-network-sutton-coldfield-tickets-58660933431?aff=ebdssbdestsearch)
 
 #### Social Circle July
 
@@ -144,7 +144,7 @@ Social Circle was born from monthly get-togethers between friends, where we’d 
 When: 25/07/2019 - 5.30pm - 8.00pm
 Where: 1000 Trades, 16 Frederick Street, Birmingham, B1 3HE
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/social-circle-july-tickets-64413690081?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/social-circle-july-tickets-64413690081?aff=ebdssbdestsearch)
 
 ![Business Support Organisation](BSO-Logo.jpg)
 
@@ -156,7 +156,7 @@ The topic for this business networking event is Networking. With over 11 years i
 When: 25/07/2019 - 6.00pm - 8.30pm
 Where: Walsall Golf Club, Broadway, Walsall, WS1 3EY
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/bso-evening-event-making-networking-pay-tickets-63550690827?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/bso-evening-event-making-networking-pay-tickets-63550690827?aff=ebdssbdestsearch)
 
 ## Friday 26th of July
 
@@ -168,7 +168,7 @@ The Summer Networking BBQ is the perfect opportunity to make some new contacts a
 When: 26/07/2019 - 11.30am - 2.30pm
 Where: thestudio, 7 Cannon Street, Birmingham, B2 5EP
 Cost: £25
-Reserve a place:  <https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/summer-networking-bbq-3/details>
+[Reserve a place](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/summer-networking-bbq-3/details)
 
 #### Coffee &amp; Natter. Birmingham
 
@@ -177,7 +177,7 @@ The Pathway2Grow "Coffee &amp; Natter" business networking event is relaxed netw
 When: 26/07/2019 - 1.00pm - 3.00pm
 Where: Natwest, 2 St Philips Place, Birmingham, B3 2RB
 Cost: free
-Reserve a place: <https://www.eventbrite.co.uk/e/birmingham-coffee-natter-free-business-networking-fri-26th-july-2019-tickets-64663656738?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/birmingham-coffee-natter-free-business-networking-fri-26th-july-2019-tickets-64663656738?aff=ebdssbdestsearch)
 
 ## Sunday 28th of July
 
@@ -189,4 +189,4 @@ A Business Networking Event, with 46 Vendors networking. The Event will Consist 
 When: 28/07/2019 - 12.00pm - 6.00pm
 Where: The Hangar, Pountney Street, Wolverhampton, WV2 4HX
 Cost: £4.85
-Reserve a place: <https://www.eventbrite.co.uk/e/sd-prints-business-networking-event-tickets-57745591619?aff=ebdssbdestsearch>
+[Reserve a place](https://www.eventbrite.co.uk/e/sd-prints-business-networking-event-tickets-57745591619?aff=ebdssbdestsearch)
