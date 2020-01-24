@@ -5,8 +5,11 @@ date = "2018-02-22"
 categories = ["Regional News"]
 tags = []
 author = "Stuart Bowles"
+social_image = "MEIF-Logo.jpg"
+social_image_alt_text = "MEIF Logo"
 +++
 
+![MEIF Logo](MEIF-Logo.jpg)
 
 ## Launch of the Midlands Engine Investment Fund
 
