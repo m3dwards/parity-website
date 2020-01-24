@@ -26,7 +26,7 @@ Located in Vyse Street - less than a minute away from our office -, the museum i
 
 #### Pen Museum
 
-![Pen Museum](Pen-Museum-jpeg)
+![Pen Museum](Pen-Museum.jpeg)
 
 Secondly, tourists should pay a visit to the [Pen Museum](https://penmuseum.org.uk).
 Opened in 2001 thanks to the support of Brian Jones MBE, the Pen Museum is promoting and preserving the important legacy of Birmingham and jewellery Quarter pen industry. Indeed, the industrial revolution facilitated pens mass production and in the 19th century most of the pens used world wide were produced in Birmingham. The museum is based in Frederick Street within a disused pen factory built in 1863. Here visitors of the jewellery Quarter can enjoy a unique collection of pens and tools relevant for the industry distributed within three galleries. The Pen Museum is a registered charity and relies on the work of volunteers who support the community and share the passion and interest on pen of the founders.
