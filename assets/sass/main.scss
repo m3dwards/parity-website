@@ -167,3 +167,17 @@ img.shadow, img[src$='#shadow'] { filter: drop-shadow(5px 5px 5px #666666); }
 }
 
 #post img { max-width: 95%; margin: 1em 0 2em 0;}
+
+#contact {
+    svg {
+        height: 16px;
+        fill: currentColor;
+        position: absolute;
+        left: 0px;
+    }
+    p {
+        padding-left: 30px;
+        position: relative;
+    }
+
+}
