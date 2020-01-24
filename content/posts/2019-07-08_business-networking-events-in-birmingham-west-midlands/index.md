@@ -14,7 +14,7 @@ author = "Matteo Vanzini"
 
 At Parity we believe in networking, not only as part of our business operations, but also as a way to improve ourselves and learn new things from other people. Luckily, the Birmingham area is rich with opportunities and you have the chance to engage in these business networking events over the course of the coming week.
 
-Below are a list of  events where you can attend to meet local entrepreneurs, and while your there why not meet someone from Parity and find more about this [innovative business network](https://new.parity.uk).
+Below are a list of  events where you can attend to meet local entrepreneurs, and while your there why not meet someone from Parity and find more about this [innovative business network](/about-us).
 
 ## Business events on Tuesday, 9th July 2019
 
