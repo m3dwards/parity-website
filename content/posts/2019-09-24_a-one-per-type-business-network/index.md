@@ -7,11 +7,12 @@ tags = []
 author = "Matteo Vanzini"
 +++
 
+![One Seat Policy](Limited-Spots-Available.png)
 
 ## A "one per type" business network.
 
 
-Parity is a network for independent businesses in the [Jewellery Quarter](https://jewelleryquarter.net/) with its own local currency. Our platform provides members with new relationships and additional liquidity.
+Parity is a network for independent businesses in the [Jewellery Quarter](https://jewelleryquarter.net) with its own local currency. Our platform provides members with new relationships and additional liquidity.
 
 Once businesses sign up for Parity, they access an interest free credit line within local currency for purchases within the network. Parity is in fact more than a business network. It creates trusted relationships and sales opportunities, alongside a financial mechanism that supports cash flow.
 
@@ -28,6 +29,6 @@ If in the network there is a demand for three solicitors, allowing ten to join c
 
 #### One sit policy
 
-Parity is a closed network with controlled [onboarding process](https://parity.uk/connect-with-parity/) to avoid these issues and ensure a suitable marketplace for its users. When we recruit members, we go after a specific type of company that the network requests. Once their place has been secured, we stop searching for the same business until the network’s demand for this service increases.
+Parity is a closed network with controlled [onboarding process](/how-it-works) to avoid these issues and ensure a suitable marketplace for its users. When we recruit members, we go after a specific type of company that the network requests. Once their place has been secured, we stop searching for the same business until the network’s demand for this service increases.
 
 This practice has been successful in Italy. Sardex has been able to ensure that everyone within the network would benefit from it. Besides building a good reputation among entrepreneurs; this makes the network more attractive to those who want to grow and are keen to do so locally, through this innovative system. Once your place has been secured, the demand for your goods and services will be directed to you and Parity will support you acting as external sales and marketing force.
