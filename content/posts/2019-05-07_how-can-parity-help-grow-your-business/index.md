@@ -5,6 +5,8 @@ date = "2019-05-07"
 categories = ["Company News"]
 tags = []
 author = "Stuart Bowles"
+social_image = "Businessman.jpg"
+social_image_alt_text = "Parity User"
 +++
 
 ![Parity User](Businessman.jpg)
