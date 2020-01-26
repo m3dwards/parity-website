@@ -1,5 +1,7 @@
 +++
 
+title = "Blog"
+
 +++
 
 # Blog

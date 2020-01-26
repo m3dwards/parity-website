@@ -1,5 +1,6 @@
 +++
 
+title = "Contact Us"
 mapCentreLat = 52.4902933
 mapCentreLong = -1.9145429
 mapKey = "AIzaSyDhyEMXSYyB0XbXtUGdtHXIBXzxAaiPeAg"
