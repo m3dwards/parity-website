@@ -36,6 +36,23 @@ img.shadow, img[src*='#shadow'] { filter: drop-shadow(5px 5px 5px #666666); }
 
 img[src*='#left'] {float: left; padding: 10px;}
 
+.icon { width: 16px; height: 16px; }
+.small-icon { width: 10px; height: 10px; margin-left: 5px;}
+.icontext { margin-left: 30px; }
+.tag {
+    margin-bottom: 2px;
+    font-size: 12px;
+    background-color: rgb(243, 244, 247);
+    padding: 7px;
+    border-radius: 2px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: $main-pink;
+    border-image: initial;
+    text-decoration: none;
+    display: inline-block;
+}
+
 .pagination {
     li {
         display: inline-block;
