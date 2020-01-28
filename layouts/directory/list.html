@@ -24,10 +24,17 @@
     {{ range .Pages }}
     <article class="mt-5">
         <div class="row">
-            <div class="col-5">
-                <img src="{{ .RelPermalink }}{{ .Params.logo }}" alt="{{ .Params.name }} logo" />
+            <div class="col-md-4">
+
+                {{ $original := .Page.Resources.GetMatch "logo.jpg" }}
+                {{ .Scratch.Set "image" ($original.Fill "250x250") }}
+                {{ $image := .Scratch.Get "image" }}
+                <img class="mt-2 mw-95" src="{{ $image.RelPermalink }}" alt="{{ .Params.name }} logo">
+
+
+                <!-- <img src="{{ .RelPermalink }}{{ .Params.logo }}" alt="{{ .Params.name }} logo" /> -->
             </div>
-            <div class="col-7">
+            <div class="col-md-8">
                 <h3>{{ .Params.name }}</h3>
                 <ul class="pl-0">
                     <li class="mb-3">
