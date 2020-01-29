@@ -8,4 +8,4 @@ title = "Directory"
 
 +++
 
-# Directory of independant companies in Birmingham
+# Directory

@@ -1,12 +1,14 @@
+{{ define "menu" }}
+<!-- I wish to have no menu -->
+{{ end }}
+{{ define "footer" }}
+<!-- I wish to have no footer -->
+{{ end }}
 {{ define "title" }}
 {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
 <div class="container mt-5">
-    {{ .RelPermalink }}<br>
-    {{ with  .OutputFormats.Get "app" -}}
-    {{ .RelPermalink }}
-    {{- end }}
     {{ .Content }}
     <script>
      // Initialize and add the map
@@ -24,9 +26,8 @@
          }
      }
     </script>
-    <div id="map" class="mt-5"></div>
     {{ range .Pages }}
-    <article class="mt-5">
+    <article class="mb-5">
         <div class="row">
             <div class="col-md-4">
 
@@ -78,6 +79,7 @@
     </article>
     <hr>
     {{ end }}
+    <div id="map" class="mt-5"></div>
     <script async defer
             src="https://maps.googleapis.com/maps/api/js?key={{ .Params.mapKey }}&callback=initMap">
     </script>

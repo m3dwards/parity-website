@@ -27,15 +27,18 @@
         </title>
     </head>
     <body>
-        <div class="container">
-            {{ partial "menu.html" . }}
-        </div>
+        {{ block "menu" . }}
+            <div class="container">
+                {{ partial "menu.html" . }}
+            </div>
+        {{ end }}
+
         {{ block "main" . }}
         {{ end }}
 
         {{ block "footer" . }}
+            {{ partial "footer.html" . }}
         {{ end }}
-        {{ partial "footer.html" . }}
 
         <script type="text/javascript" src="{{ $JS.RelPermalink }}" integrity="{{ $JS.Data.Integrity }}"></script>
         <!-- Global site tag (gtag.js) - Google Analytics -->

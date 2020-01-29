@@ -30,3 +30,17 @@ archive-paginate = 10
     name = "Contact"
     url = "/contact/"
     weight = 6
+
+
+[outputFormats]
+  [outputFormats.AppFormat]
+    name = "app"
+    isPlainText = false
+    mediaType = "text/html"
+    isHTML = true
+    permalinkable = true
+    path = "app"
+
+[outputs]
+  section = ["HTML", "APP", "AMP"]
+  page = ["HTML", "APP", "AMP"]
