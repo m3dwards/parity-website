@@ -32,7 +32,7 @@
             <div class="col-md-4">
 
                 {{ $original := .Page.Resources.GetMatch "logo.jpg" }}
-                {{ .Scratch.Set "image" ($original.Fill "250x250") }}
+                {{ .Scratch.Set "image" ($original.Fill "250x250 linear q90") }}
                 {{ $image := .Scratch.Get "image" }}
                 <img class="mt-2 mw-95" src="{{ $image.RelPermalink }}" alt="{{ .Params.name }} logo">
 
