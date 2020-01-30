@@ -4,79 +4,10 @@
 {{ define "main" }}
 <div class="container mt-5">
     {{ .Content }}
-    <script>
-     // Initialize and add the map
-
-     var markers = [];
-
-     function initMap() {
-         var parityLocation = {lat: {{ .Params.mapCentreLat }}, lng: {{ .Params.mapCentreLong }}};
-         var map = new google.maps.Map(document.getElementById('map'), {zoom: {{ .Params.mapZoom }}, center: parityLocation});
-
-         markers.forEach(addMarker);
-
-         function addMarker(marker, index) {
-             new google.maps.Marker({position: marker.location, map: map, title: marker.title, icon: marker.icon});
-         }
-     }
-    </script>
-    <div id="map" class="mt-5"></div>
-    {{ range .Pages }}
-    <article class="mt-5">
-        <div class="row">
-            <div class="col-md-4">
-
-                {{ $original := .Page.Resources.GetMatch "logo.jpg" }}
-                {{ .Scratch.Set "image" ($original.Fit "250x250 linear q90") }}
-                {{ $image := .Scratch.Get "image" }}
-                <img class="mt-2 mw-95" src="{{ $image.RelPermalink }}" alt="{{ .Params.name }} logo">
-
-
-                <!-- <img src="{{ .RelPermalink }}{{ .Params.logo }}" alt="{{ .Params.name }} logo" /> -->
-            </div>
-            <div class="col-md-8">
-                <h3>{{ .Params.name }}</h3>
-                <ul class="pl-0">
-                    <li class="mb-3">
-                        <img class="icon" src="/images/icons/map-marker.svg" alt="Map marker icon">
-                        <span class="icontext">84F Vyse Street, Birmgham, B18 6HA</span>
-                    </li>
-
-                    <li class="mb-3">
-                        <img class="icon" src="/images/icons/globe.svg" alt="Globe icon">
-                        <span class="icontext"><a href="https://parity.uk">https://parity.uk</a></span>
-                    </li>
-
-                    <li class="mb-3">
-                        <img class="icon" src="/images/icons/envelope-closed.svg" alt="Envelope icon">
-                        <span class="icontext">myemail@myemailprovider.com</span>
-                    </li>
-                    <li class="mb-3">
-                        <img class="icon" src="/images/icons/phone.svg" alt="Phone icon">
-                        <span class="icontext">0121 514 3321</span>
-                    </li>
-                    <li class="mb-3">
-                        <img class="icon" src="/images/icons/tags.svg" alt="Tags icon">
-                        <span class="icontext">
-                            <span class="tag">Accountancy <img class="small-icon" src="/images/icons/tag.svg" alt="Tag icon"/></span>
-                            <span class="tag">Websites <img class="small-icon" src="/images/icons/tag.svg" alt="Tag icon"/></span>
-                        </span>
-                    </li>
-            </div>
-        </div>
-        <script>
-         markers.push( {
-             location: {lat: {{ .Params.latitude }}, lng: {{ .Params.longitude }}},
-             title: {{ .Params.name }},
-             /* icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png' */
-         } );
-        </script>
-    </article>
-    <hr>
-    {{ end }}
-    <script async defer
-            src="https://maps.googleapis.com/maps/api/js?key={{ .Params.mapKey }}&callback=initMap">
-    </script>
+    {{ .Render "map" }}
+    <br><br>
+    <br><br>
+    {{ .Render "company_list" }}
 </div>
 
 {{ end }}

@@ -1,0 +1,29 @@
+<script>
+    // Initialize and add the map
+
+    var markers = [];
+
+    function initMap() {
+        var parityLocation = {lat: {{ .Params.mapCentreLat }}, lng: {{ .Params.mapCentreLong }}};
+        var map = new google.maps.Map(document.getElementById('map'), {zoom: {{ .Params.mapZoom }}, center: parityLocation});
+
+        markers.forEach(addMarker);
+
+        function addMarker(marker, index) {
+            new google.maps.Marker({position: marker.location, map: map, title: marker.title, icon: marker.icon});
+        }
+    }
+</script>
+{{ range .Pages }}
+    <script>
+        markers.push( {
+            location: {lat: {{ .Params.latitude }}, lng: {{ .Params.longitude }}},
+            title: {{ .Params.name }},
+            /* icon: 'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png' */
+        } );
+    </script>
+{{ end }}
+<div id="map" class="mt-5"></div>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key={{ .Params.mapKey }}&callback=initMap">
+</script>
