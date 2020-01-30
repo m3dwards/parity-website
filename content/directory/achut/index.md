@@ -1,7 +1,7 @@
 +++
 name = "Achut"
-latitude = 52.4851635
-longitude = -1.91378
+latitude = 52.578810
+longitude = -2.103673
 
 address = "Unit 6A, East Park Industrial Estate, Hickman Avenue, Wolverhampton, WV1 2XF"
 telephone = "0190 254 6800"

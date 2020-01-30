@@ -1,7 +1,7 @@
 +++
 name = "Stratum Now"
-latitude = 52.4851635
-longitude = -1.91378
+latitude = 52.486032
+longitude = -1.910021
 
 address = "24-26 Regents Place, Birmingham B1 3NJ"
 telephone = "0121 348 8790"

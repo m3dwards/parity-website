@@ -1,7 +1,7 @@
 +++
 name = "1000 Trades"
-latitude = 52.4851635
-longitude = -1.91378
+latitude = 52.485196
+longitude = -1.911623
 
 address = "16 Frederick St, Birmingham B1 3HE"
 telephone = "0121 233 2693"

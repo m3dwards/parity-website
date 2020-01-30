@@ -1,7 +1,7 @@
 +++
 name = "Telephone Europe"
-latitude = 52.4851635
-longitude = -1.91378
+latitude = 52.440981
+longitude = -1.810723
 
 address = "Virginia House, 56 Warwick Road, Solihull B92 7HX"
 telephone = "0800 652 1900"

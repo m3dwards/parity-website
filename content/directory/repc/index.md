@@ -1,8 +1,8 @@
 +++
 
 name = "REPC"
-latitude = 52.48546
-longitude = -1.90677
+latitude = 52.527442
+longitude =  -2.027199
 
 address = "Unit 4 The Great Bridge Centre, Charles Street, B70 0BF"
 telephone = "0121 557 6439"

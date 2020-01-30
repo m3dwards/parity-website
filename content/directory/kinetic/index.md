@@ -1,7 +1,7 @@
 +++
 name = "Kinetic"
-latitude = 52.4851635
-longitude = -1.91378
+latitude = 52.485196
+longitude =  -1.913536
 
 address = "4 Tenby Street, Birmingham B1 3EL"
 telephone = "0121 212 6250"

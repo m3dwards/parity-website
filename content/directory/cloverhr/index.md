@@ -1,7 +1,7 @@
 +++
 name = "Clover HR"
-latitude = 52.48546
-longitude = -1.90677
+latitude = 52.485463
+longitude = -1.904648
 
 address = "Grosvenor House, 11 St Paul's Square, Birmingham B3 1RB"
 telephone = "0121 516 0299"
