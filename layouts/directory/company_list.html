@@ -1,9 +1,9 @@
     {{ range .Pages }}
-    <article class="mb-5">
+    <article class="mb-5 directory-company">
         <div class="row">
             <div class="col-md-4 m-auto">
 
-                {{ $original := .Page.Resources.GetMatch "logo.jpg" }}
+                {{ $original := .Page.Resources.GetMatch ( or .Params.logo "logo.jpg" ) }}
                 {{ .Scratch.Set "image" ($original.Fit "250x250 linear q90") }}
                 {{ $image := .Scratch.Get "image" }}
                 <img class="mt-2 mw-95" src="{{ $image.RelPermalink }}" alt="{{ .Params.name }} logo">
@@ -11,32 +11,33 @@
 
                 <!-- <img src="{{ .RelPermalink }}{{ .Params.logo }}" alt="{{ .Params.name }} logo" /> -->
             </div>
-            <div class="col-md-8">
+            <div class="col-md-8 mt-3 mt-md-0">
                 <h3>{{ .Params.name }}</h3>
                 <ul class="pl-0">
                     <li class="mb-3">
                         <img class="icon" src="/images/icons/map-marker.svg" alt="Map marker icon">
-                        <span class="icontext">84F Vyse Street, Birmgham, B18 6HA</span>
+                        <p class="icontext">{{ .Params.address }}</p>
                     </li>
 
                     <li class="mb-3">
                         <img class="icon" src="/images/icons/globe.svg" alt="Globe icon">
-                        <span class="icontext"><a href="https://parity.uk">https://parity.uk</a></span>
+                        <span class="icontext"><a href="{{ .Params.website }}">{{ .Params.website }}</a></span>
                     </li>
 
                     <li class="mb-3">
                         <img class="icon" src="/images/icons/envelope-closed.svg" alt="Envelope icon">
-                        <span class="icontext">myemail@myemailprovider.com</span>
+                        <span class="icontext">{{ .Params.email }}</span>
                     </li>
                     <li class="mb-3">
                         <img class="icon" src="/images/icons/phone.svg" alt="Phone icon">
-                        <span class="icontext">0121 514 3321</span>
+                        <span class="icontext">{{ .Params.telephone }}</span>
                     </li>
                     <li class="mb-3">
                         <img class="icon" src="/images/icons/tags.svg" alt="Tags icon">
                         <span class="icontext">
-                            <span class="tag">Accountancy <img class="small-icon" src="/images/icons/tag.svg" alt="Tag icon"/></span>
-                            <span class="tag">Websites <img class="small-icon" src="/images/icons/tag.svg" alt="Tag icon"/></span>
+                            {{ range .Params.tags }}
+                                <span class="tag">{{ . }} <img class="small-icon" src="/images/icons/tag.svg" alt="Tag icon"/></span>
+                            {{ end }}
                         </span>
                     </li>
             </div>

@@ -1,13 +1,15 @@
 +++
-name = "1000 Trades"
+name = "Achut"
 latitude = 52.4851635
 longitude = -1.91378
 
-address = "16 Frederick St, Birmingham B1 3HE"
-telephone = "0121 233 2693"
-website = "https://1000trades.org.uk"
+address = "Unit 6A, East Park Industrial Estate, Hickman Avenue, Wolverhampton, WV1 2XF"
+telephone = "0190 254 6800"
+website = "https://www.achut.co.uk/"
+email = "office@achut.co.uk"
+tags = ["Office Clearance", "Waste Recycling"]
 
-acceptsCurrency = true
+logo = "logo.jpg"
 +++
 
-## 1000 Trades
+## Achut

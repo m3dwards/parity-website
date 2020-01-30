@@ -1,13 +1,15 @@
 +++
-name = "1000 Trades"
+name = "Rock & Roll Brewhouse"
 latitude = 52.4851635
 longitude = -1.91378
 
-address = "16 Frederick St, Birmingham B1 3HE"
-telephone = "0121 233 2693"
-website = "https://1000trades.org.uk"
+address = "Unit 2, United Kingdom, 60 Regent Place, Birmingham B1 3NJ"
+telephone = "07969 759649"
+website = "https://www.facebook.com/RocknRollBrewBar/"
+email = ""
+tags = ["Brewery"]
 
-acceptsCurrency = true
+logo = "logo.jpg"
 +++
 
-## 1000 Trades
+## Rock & Roll Brewhouse

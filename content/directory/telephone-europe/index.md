@@ -1,13 +1,16 @@
 +++
-name = "1000 Trades"
+name = "Telephone Europe"
 latitude = 52.4851635
 longitude = -1.91378
 
-address = "16 Frederick St, Birmingham B1 3HE"
-telephone = "0121 233 2693"
-website = "https://1000trades.org.uk"
+address = "Virginia House, 56 Warwick Road, Solihull B92 7HX"
+telephone = "0800 652 1900"
+website = "https://telephone-europe.com/"
+email = "info@telephone-europe.com"
+tags = ["Telephone Systems", "Mobiles", "Broadband"]
 
-acceptsCurrency = true
+logo = "logo.jpg"
+
 +++
 
-## 1000 Trades
+## Telephone Europe

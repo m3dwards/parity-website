@@ -1,13 +1,14 @@
 +++
-name = "1000 Trades"
+name = "Stratum Now"
 latitude = 52.4851635
 longitude = -1.91378
 
-address = "16 Frederick St, Birmingham B1 3HE"
-telephone = "0121 233 2693"
-website = "https://1000trades.org.uk"
-
-acceptsCurrency = true
+address = "24-26 Regents Place, Birmingham B1 3NJ"
+telephone = "0121 348 8790"
+website = "https://stratumnow.com/"
+email = "go@stratumnow.com"
+tags = ["IT Support", "Managed Infrastructure", "Office 365", "Security", "Website Hosting"]
+logo = "logo.jpg"
 +++
 
-## 1000 Trades
+## Stratum Now
