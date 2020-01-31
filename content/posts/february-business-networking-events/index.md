@@ -5,7 +5,7 @@ date = "2020-01-31"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
-draft = true
+draft = false
 social_image = ""
 social_image_alt_text = ""
 
