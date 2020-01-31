@@ -16,7 +16,7 @@ social_image_alt_text = ""
 
 ## Monday 3rd February
 
-**MaD Midlands** - Make a Difference Networking Drinks 
+**MaD Midlands** - Make a Difference Networking Drinks  
 The Good Intent 32-33 Great Western Arcade Birmingham B2 5HU
 5.30pm 
 Free
@@ -24,13 +24,13 @@ Free
 
 ## Tuesday 4th February
 
-**Cereal Network** - Breakfast Networking 
+**Cereal Network** - Breakfast Networking\
 Alpha works, Alpha Tower, Suffolk Street Queensway, Birmingham, B1 1TT
 7.30am - 9.30am
 Free
 [Book](https://www.eventbrite.co.uk/e/cereal-network-free-breakfast-networking-tues-4th-feb-2020-tickets-89595487515?aff=ebdssbdestsearch)
 
-**Speed Networking** - Greater Birmingham Chamber of Commerce (GBCC) 
+**Speed Networking** - Greater Birmingham Chamber of Commerce (GBCC)/
 Chamber House, 75 Harborne Road, Birmingham, B15 3DH 
 8.30am - 10.30am 
 GBCC members: Free / Public: £15 
