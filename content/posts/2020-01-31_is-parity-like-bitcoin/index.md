@@ -12,4 +12,6 @@ social_image_alt_text = "Picture of gold coin with bitcoin logo on it"
 
 +++
 
+![Picture of golf coin with large letter B on it represting the Bitcoin logo](bitcoin.jpg)
+
 ## Is Parity like Bitcoin?
