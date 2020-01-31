@@ -30,9 +30,8 @@ The following two lists highlight some prominent features and differences of eac
  - Extremely hard to change - last change to consensus rules was in 2017
  - Completely decentralised - there is no controlling authority
  - free floating value - people pay a market determined rate
- - Philosophy of verify don't trust - individuals can verify their own transactions
  - Censorship resistance - no permission is required to use
- - No chargebacks or refunds - every transaction is final even mistakes
+ - No chargebacks or refunds - every transaction is final, even mistakes
 
 ### Parity's properties
 
@@ -44,6 +43,6 @@ The following two lists highlight some prominent features and differences of eac
 
 <br>
 ### Blockchain not Bitcoin?
-Even though Parity is not like Bitcoin, could parity still benefit from using blockchain or some other distributed ledger technology (DLT)?
+Even though Parity is not like Bitcoin, could Parity still benefit from using blockchain or some other distributed ledger technology (DLT)?
 
 We are open to being convinced otherwise but our current position is not. We will write a follow up blog post explaining our position.
