@@ -1,0 +1,12 @@
+{{ define "menu" }}
+<!-- I wish to have no menu -->
+{{ end }}
+{{ define "footer" }}
+<!-- I wish to have no footer -->
+{{ end }}
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+    {{ .Render "main" }}
+{{ end }}
