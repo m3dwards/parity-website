@@ -7,7 +7,7 @@ address = "24-26 Regents Place, Birmingham B1 3NJ"
 telephone = "0121 517 0156"
 website = "https://iron-house.co.uk/"
 email = "jack@iron-house.co.uk"
-tags = ["Event Venue", "Conferences", "Meetings", "Security", "Workshops"]
+tags = ["Event Venue", "Conferences", "Meetings", "Workshops"]
 logo = "logo.jpg"
 +++
 
