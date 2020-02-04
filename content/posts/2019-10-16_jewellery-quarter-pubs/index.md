@@ -5,11 +5,11 @@ date = "2019-10-16"
 categories = []
 tags = []
 author = "Matteo Vanzini"
-social_image = "Beers.jpg"
+social_image = "beer.jpg"
 social_image_alt_text = "Picture of three hands holding pints in a pub"
 +++
 
-![Picture of three hands holding pints in a pub](Beers.jpg)
+![Picture of two hands holding pints in a pub](beer.jpg)
 
 ## Jewellery Quarter Pubs
 
@@ -18,8 +18,6 @@ social_image_alt_text = "Picture of three hands holding pints in a pub"
 
 Being part of the jewellery Quarter community has been great and we have quickly learnt that the Jewellery Quarter in Birmingham is a vibrant neighbourhood. In the morning people come here to work while In the evening - probably even from the afternoon -, people reach the Jewellery Quarter to enjoy nice food, a pint and, why not, some live music.
 Jewellery Quarter pubs offer is wide and here we suggest eight places on the way from our office, in Vyse Street close to the Jewellery Quarter train station, to Saint Paul Square, iconic and important location for this community.
-
-![Jewellery Quarter](JQ.jpeg)
 
 #### Rose Villa Tavern
 
@@ -37,7 +35,7 @@ Just on the other side of the road you can proceed to the next Jewellery Quarter
 
 [Acapella](https://acapellabirmingham.co.uk) is just on Ana Rocha side and it’s a newly opened live music bar in the Jewellery Quarter, Birmingham. With Acoustic, Jazz, Soul &amp; Blues music alongside a nice cocktail, the Acapella is filling a gap in Jewellery Quarter bars. If you love this music you must give it a try! Have a look at their website to see what upcoming events are planned.
 
-![1000 Trades](1000-Trades.jpeg) 
+![1000 Trades](1000trades.jpg)
 
 #### 1000 Trades
 

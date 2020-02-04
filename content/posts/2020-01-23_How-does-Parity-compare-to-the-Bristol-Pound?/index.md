@@ -6,12 +6,12 @@ categories = ["Business Development","Industry News"]
 tags = []
 author = "Stuart Bowles"
 # 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
-social_image = "Bristol-Pound-notes.jpg"
+social_image = "bristol_pounds.jpg"
 social_image_alt_text = "Bristol Pound Notes"
 
 +++
 
-![Bristol Pound Notes](Bristol-Pound-notes.jpg)
+![Bristol Pound Notes](bristol_pounds.jpg)
 
 
 ## How does Parity compare with Bristol Pound?

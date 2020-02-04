@@ -6,12 +6,12 @@ date = "2020-01-10"
 categories = ["Business Development","Company News"]
 tags = []
 author = "Matteo Vanzini"
-social_image = "Locality.gif"
+social_image = "apple.jpg"
 social_image_alt_text = "Logo image shows a square speech bubble with the word locality inside"
 
 +++
 
-![Local Resilience](Locality.gif)
+![A local market stall selling an apple](apple.jpg)
 
 ## Why is Parity a tool for Local Economic Resilience?
 

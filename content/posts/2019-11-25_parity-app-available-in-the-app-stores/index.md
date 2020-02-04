@@ -9,12 +9,12 @@ categories = ["Business Development"]
 tags = []
 author = " "
 # Image(JPG or PNG) with a size less than 300KB and minimum dimensions of 300 x 200
-social_image = "App-Store.jpg"
+social_image = "/images/homepage/tablet.jpg"
 social_image_alt_text = "Logo of google play store and logo of apple store"
 
 +++
 
-![Logo of google play store and logo of apple store](App-Store.jpg) 
+![Logo of google play store and logo of apple store](/images/homepage/tablet.jpg)
 
 ## Parity app available in the app stores
 
