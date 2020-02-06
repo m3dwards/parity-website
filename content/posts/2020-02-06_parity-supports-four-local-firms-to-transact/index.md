@@ -13,7 +13,7 @@ social_image_alt_text = "Picture with Parity brochure, flyer and a mobile phone 
 
 ![Parity Marketing Materials](Parity-Marketing-Materials.jpg)
 
-# Story of 4 transactions happened this week
+## Story of 4 transactions happened this week
 
 This week four businesses have used Parity to conduct transactions within our local currency.
 
