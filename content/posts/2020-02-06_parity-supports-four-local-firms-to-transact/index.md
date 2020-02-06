@@ -1,6 +1,6 @@
 +++
 title = "Parity supports four local firms to transact without cash"
-description = "Story of 4 transactions happened this week"
+description = "Parity supports for local firms to transact without cash"
 date = "2020-02-06"
 categories = ["Business Development"]
 tags = []
@@ -11,7 +11,7 @@ social_image = "parity-four-local-firms.jpg"
 social_image_alt_text = "Picture with Parity brochure, flyer and a mobile phone showing Parity's app"
 +++
 
-![Parity Marketing Materials](Parity-Marketing-Materials.jpg)
+![Parity Four Local Firms](parity-four-local-firms.jpg)
 
 ## Parity supports four local firms to transact without cash
 
