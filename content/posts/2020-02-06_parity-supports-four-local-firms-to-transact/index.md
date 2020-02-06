@@ -7,7 +7,7 @@ tags = []
 author = "Max Edwards"
 draft = false
 # 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
-social_image = "Parity-Marketing-Materials.jpg"
+social_image = "parity-four-local-firms.jpg"
 social_image_alt_text = "Picture with Parity brochure, flyer and a mobile phone showing Parity's app"
 +++
 
