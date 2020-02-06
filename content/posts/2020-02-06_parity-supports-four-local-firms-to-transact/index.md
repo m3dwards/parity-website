@@ -1,5 +1,5 @@
 +++
-title = "Parity supports four local firms to transact"
+title = "Parity supports four local firms to transact without cash"
 description = "Story of 4 transactions happened this week"
 date = "2020-02-06"
 categories = ["Business Development"]
