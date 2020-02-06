@@ -5,11 +5,11 @@ date = "2019-07-19"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
-social_image = "Weekly-Events.jpg"
-social_image_alt_text = "A white poster stating weekly events"
+social_image = "library.jpg"
+social_image_alt_text = "A picture of the Birmingham Library"
 +++
 
-![A white poster stating weekly events](Weekly-Events.jpg)
+![A picture of the Birmingham Library](library.jpg)
 
 ## Business Networking Events w/c 22nd July 2019.
 
@@ -72,7 +72,7 @@ Where: The High Field, 22 Highfield Road, Birmingham, B15 3DP
 Cost: £24.50 – £27.50
 [Reserve a place](https://www.eventbrite.com/e/my-business-buddies-lunch-tickets-63067256863?aff=ebdssbdestsearch)
 
-![NatWest Hub](NatWest-Entrepreneur-Accelerator.png) 
+![NatWest Hub](NatWest-Entrepreneur-Accelerator.png)
 
 #### NatWest Entrepreneur Accelerator
 Entrepreneur Network Event - Sales \#PowerUp

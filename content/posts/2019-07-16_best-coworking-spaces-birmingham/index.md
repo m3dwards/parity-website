@@ -5,11 +5,11 @@ date = "2019-07-16"
 categories = ["Uncategorised"]
 tags = []
 author = "Stuart Bowles"
-social_image = "Coworking.jpg"
+social_image = "coworking.jpg"
 social_image_alt_text = "Picture of people around the table and a woman taking notes"
 +++
 
-![Picture of people around the table and a woman taking notes](Coworking.jpg)
+![Picture of people around the table and a woman taking notes](coworking.jpg)
 
 ## Best Coworking Spaces Birmingham
 

@@ -5,11 +5,11 @@ date = "2019-07-08"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
-social_image = "Birmingham-1000trades.png"
-social_image_alt_text = "The drawing shows buildings that become an hand-shake with above stated Birmingham the city of the thousands trades"
+social_image = "networking.jpg"
+social_image_alt_text = "Image of people attending a networking event"
 +++
 
-![The drawing shows buildings that become an hand-shake with above stated Birmingham the city of the thousands trades](Birmingham-1000trades.png)
+![Image of people attending a networking event](networking.jpg)
 
 ## Business Networking Events in Birmingham, West Midlands.
 

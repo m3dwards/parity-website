@@ -5,11 +5,11 @@ date = "2019-07-12"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
-social_image = "Weekly-Events.jpg"
-social_image_alt_text = "A white poster stating weekly events"
+social_image = "networking.jpg"
+social_image_alt_text = "Picture of people attending networking events"
 +++
 
-![A white poster stating weekly events](Weekly-Events.jpg)
+![Picture of people attending networking events](networking.jpg)
 
 ## Business Networking Events in West Midlands w/c 15th July 2019.
 
