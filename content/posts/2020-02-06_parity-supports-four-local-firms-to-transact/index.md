@@ -21,7 +21,7 @@ Parity is a B2B platform in Birmingham that has its own local currency. This wee
 
 #### “Being a Parity member gives Repc the opportunity to purchase marketing support without using pounds.”
 
-The relationship was brokered through Parity who had identified that they both shared a similar set of values. Kinetic is a pioneering firm that has worked on environmental programmes in the past. Repc is a social enterprise that has over 20 years experience delivering environmental projects in the UK and around the world. Both companies were really excited to use our innovative technology. Our mobile application is very intuitive, but because of the novelty Parity supported the transaction. Stuart was happy to walk them through our app and once the doubts were cleared transaction happened. 
+The relationship was brokered through Parity who had identified that they both shared a similar set of values. Kinetic is a pioneering firm that has worked on environmental programmes in the past. Repc is a social enterprise that has over 20 years experience delivering environmental projects in the UK and around the world. Both companies were really excited to use our innovative technology. Our mobile application is very intuitive, but because of the novelty of the platform, Parity supported the transaction. Stuart was happy to walk them through our app and once the doubts were cleared, the transaction happened. 
 
 #### “Both companies were really excited to use our innovative technology.”
 
