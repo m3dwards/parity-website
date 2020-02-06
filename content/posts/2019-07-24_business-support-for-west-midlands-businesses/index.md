@@ -5,11 +5,11 @@ date = "2019-07-24"
 categories = ["Regional News"]
 tags = []
 author = "Matteo Vanzini"
-social_image = "Support-Local-Business.jpeg"
-social_image_alt_text = "A poster stating support local business"
+social_image = "newhall.jpg"
+social_image_alt_text = "A picture of Newhall Street Birmingham"
 +++
 
-![A poster stating support local business](Support-Local-Business.jpeg)
+![A picture of Newhall Street Birmingham](newhall.jpg)
 
 ## Business Support for West Midlands Businesses
 
@@ -186,8 +186,6 @@ Adviceand support on environmental issues to help your business:
 
 [Visit Website](http://www.wrap.org.uk/)
 
-![Social Enterprise West Midlands](SEWM-Logo.jpg)
-
 #### Growing the socialenterprise sector – West Midlands
 
 Thisscheme offers free coaching and expert business advice for pre-start andexisting social enterprises in the West Midlands.
@@ -217,7 +215,6 @@ Expertiseand advice
 
 [Visitwebsite](http://www.cwcda.co.uk/social-enterprise)
 
-![Business Loans](Business-Loans.jpg)
 
 #### Business loanscheme – Coventry and Warwickshire
 

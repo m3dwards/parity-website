@@ -5,11 +5,11 @@ date = "2019-09-25"
 categories = ["Company News"]
 tags = []
 author = "Matteo Vanzini"
-social_image = "FAQs.jpg"
-social_image_alt_text = "Blue question mark with written on a side, frequently asked questions"
+social_image = "10.jpg"
+social_image_alt_text = "Picture of the number ten"
 +++
 
-![Blue question mark with written on a side, frequently asked questions](FAQs.jpg)
+![Picture of the number ten](10.jpg)
 
 ## Ten things you must know about Parity
 

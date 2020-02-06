@@ -5,11 +5,11 @@ date = "2019-07-26"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
-social_image = "Weekly-Events.jpg"
-social_image_alt_text = "A white poster stating weekly events"
+social_image = "business_networking2.jpg"
+social_image_alt_text = "Picture of attendees to a business networking event"
 +++
 
-![A white poster stating weekly events](Weekly-Events.jpg)
+![Picture of attendees to a business networking event](business_networking2.jpg)
 
 ## Business Networking Event. w/c 29 of July 2019
 
@@ -127,7 +127,7 @@ Cost: free
 
 ### Wednesday 31st of July
 
-![Jewellery Quarter St.Paul](JQ-St-Paul.jpg)
+![Jewellery Quarter](st_pauls_square.jpg)
 
 #### Jewellery Quarter Breakfast Meet
 

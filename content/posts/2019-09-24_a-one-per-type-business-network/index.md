@@ -4,6 +4,7 @@ description = ""
 date = "2019-09-24"
 categories = ["Company News"]
 tags = []
+draft = true
 author = "Matteo Vanzini"
 social_image = "Limited-Spots-Available.png"
 social_image_alt_text = "Limited spots available, esclamation mark, written in red"

@@ -5,11 +5,11 @@ date = "2019-08-02"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
-social_image = "Networking.jpg"
-social_image_alt_text = "Fingers pointing a networking written on a white board"
+social_image = "types_business.jpg"
+social_image_alt_text = "Picture of laptop and office equipment"
 +++
 
-![Fingers pointing a networking written on a white board](Networking.jpg)
+![Picture of laptop and office equipment](types_business.jpg)
 
 ## Type of Business Network & Parity
 
@@ -30,7 +30,7 @@ The [Business Support Organisation](https://www.thebso.co.uk/) promotes local pr
 
 The [Family Business Practice](https://www.familybusinesspractice.com/) is based on trusted relationships and as “brainchild” of Peter Roper, its founder, it focuses on family run businesses in the Midlands. These firms experience different dynamics compared to the corporate world and having an organisation supporting them helps business operations and family’s well being. Peter Roper - the family business man - can provide you with business news, practical information or relevant articles in this industry. He can support your company’s development by contributing to your strategy with his business growth pathway, a digital platform to deliver blueprints for scalable growth. Eventually, as a member of the Family Business Practice you can also benefit from the audit offer to highlight areas of potential support, and from the business briefing to help you with your marketing strategy.
 
-![Parity](Credex-Logo.png)
+![Parity](/images/parity-logo.png)
 
 #### Parity Network
 
