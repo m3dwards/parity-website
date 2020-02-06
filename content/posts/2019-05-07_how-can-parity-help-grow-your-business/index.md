@@ -22,7 +22,7 @@ When a business applies to Parity, we analyse them to see if they are a good fit
 
 Once the company is on the network, they are connected with the other businesses on Parity. We support them to find new trading and sales opportunities. Our team acts like an additional marketing service for your business, and our brokers identify specific trading opportunities. We also work with you to identify ideal companies that aren’t currently in the network, but that you would like to trade with.
 
-![Credex App](Credex-Mobile-App.jpg)
+![Parity App](tablet.jpg)
 
 All of our members get access to a zero interest credit facility. This works like an overdraft, each member has a limit and it can be spent with anyone else of the network. The credit facility provides an additional source of liquidity for the business, supporting its day to day cash flow. It can be accessed through our online or mobile banking applications. It becomes even more effective as the network grows. Over 50% of small businesses that borrow from the bank, do it to meet short term supply requirements. It’s the aim of Parity to support businesses to meet that need, through using our zero interest credit facility.
 
