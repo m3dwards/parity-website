@@ -1,6 +1,6 @@
 +++
 title = "Parity supports four local firms to transact without cash"
-description = "Parity supports for local firms to transact without cash"
+description = "Businesses used Parity local currency to transact"
 date = "2020-02-06"
 categories = ["Business Development"]
 tags = []
