@@ -5,12 +5,12 @@ date = "2019-10-25"
 categories = []
 tags = []
 author = "Matteo Vanzini"
-draft = true
-social_image = "JQ.jpeg"
+draft = false
+social_image = "jewellery_quarter.jpg"
 social_image_alt_text = "Picture of the clock tower in the Jewellery Quarter in Birmingham"
 +++
 
-![Picture of the clock tower in the Jewellery Quarter in Birmingham](JQ.jpeg)  
+![Picture of the clock tower in the Jewellery Quarter in Birmingham](jewellery_quarter.jpg)
 
 ## Visiting the Jewellery Quarter
 
@@ -23,14 +23,14 @@ For multiple reasons therefore, the Jewellery Quarter is now a must for visitors
 
 #### Museum of the jewellery Quarter
 
-![Museum of the jewellery Quarter](JQ-Museum.jpeg)
+![Museum of the jewellery Quarter](jewellery_quarter_museum.jpg)
 
 Firstly is the [Museum of the Jewellery Quarter](https://www.birminghammuseums.org.uk).
 Located in Vyse Street - less than a minute away from our office -, the museum is built within the jewellery workshop of Smith &amp; Pepper jewellery manufacturing firm. When the owners retired in 1981 they decided to just close down their premises and this has left a well preserved example of how this industry looked like in the 20th century. Here tourists can enjoy expositions, watch demonstrations of traditional skills and techniques or enjoy the feeling of being brought back in time.
 
 #### Pen Museum
 
-![Pen Museum](Pen-Museum.jpeg)
+![Pen Museum](pen_museum.jpg)
 
 Secondly, tourists should pay a visit to the [Pen Museum](https://penmuseum.org.uk).
 Opened in 2001 thanks to the support of Brian Jones MBE, the Pen Museum is promoting and preserving the important legacy of Birmingham and jewellery Quarter pen industry. Indeed, the industrial revolution facilitated pens mass production and in the 19th century most of the pens used world wide were produced in Birmingham. The museum is based in Frederick Street within a disused pen factory built in 1863. Here visitors of the jewellery Quarter can enjoy a unique collection of pens and tools relevant for the industry distributed within three galleries. The Pen Museum is a registered charity and relies on the work of volunteers who support the community and share the passion and interest on pen of the founders.
@@ -38,7 +38,7 @@ For this [donations](https://penmuseum.org.uk/support/donate) are crucial and on
 
 #### Coffin Works
 
-![Newman Brothers at Coffin Works](Coffin-Works.jpeg) 
+![Newman Brothers at Coffin Works](newman_brothers.jpg)
 
 Third attraction in the JQ is the [Newman Brothers at Coffin Works](http://www.coffinworks.org).
 Similar to Smith &amp; Pepper, also this coffin-furniture factory was closed and left untouched after the last day of work in 1998. The Newman Brothers opened in 1882 and the museum shows more than 100 years of this manufacturing factory. Tools and machineries are exposed here to fully experience employees daily operations and to feel how to work there looked like. The guided tour lasts for about one hour and it’s worthy to spare this little time while visiting the Jewellery Quarter.
