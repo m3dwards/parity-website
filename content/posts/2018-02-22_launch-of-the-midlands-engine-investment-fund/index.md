@@ -24,8 +24,12 @@ The fund will aim to meet a well recognised gap in the business market; finance 
 
 Parity is developing a innovative lending platform that will hope to provide businesses a complementary solution. It will offer zero interest credit that can be spent with regional businesses and used to support business grow. It is hoped that once we have proven the model, Parity will one day sit along the wider financial offers available to businesses in the West Midlands. We don't believe there is one magic bullet to the lack of finance available business in the West Midlands. But we do believe that all options should be explored. Follow our progress through reading our [Blog](/posts).
 
+<!--
+
 {{% center %}}
 
   {{< imgproc MEIF-Logo "MEIF Logo" Resize "900x Linear q90" >}}
 
 {{% /center %}}
+
+-->
