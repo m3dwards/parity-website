@@ -4,7 +4,7 @@ description = "Businesses used Parity local currency to transact"
 date = "2020-02-06"
 categories = ["Business Development"]
 tags = []
-author = "Max Edwards"
+author = "Stuart Bowles"
 draft = false
 # 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
 social_image = "parity-four-local-firms.jpg"
