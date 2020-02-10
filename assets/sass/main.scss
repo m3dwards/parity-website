@@ -178,6 +178,17 @@ img[src*='#left'] {float: left; padding: 10px;}
     }
     #prices h3 { color: $primary-color; }
     .three-things img { width: 65%; }
+    .price-border {
+        border-bottom: 2px solid $main-pink;
+        border-right: 0px;
+    }
+    @media (min-width: 768px) {
+        .price-border {
+            border-right: 2px solid $main-pink;
+            border-bottom: 0px;
+        }
+    }
+
 }
 
 .three-things, .two-things {
