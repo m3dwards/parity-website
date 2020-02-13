@@ -8,7 +8,7 @@ telephone = "0800 652 1900"
 website = "https://telephone-europe.com/"
 email = "info@telephone-europe.com"
 tags = ["Telephone Systems", "Mobiles", "Broadband"]
-draft = true
+draft = false
 logo = "logo.jpg"
 
 +++
