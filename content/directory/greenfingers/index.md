@@ -10,7 +10,7 @@ website = "https://www.facebook.com/pg/greenfingerswm"
 email = "info@greenfingers.co.uk"
 tags = ["Gardening", "Hedge Cutting", "Weed Control", "Landscaping"]
 
-logo = "greenfingers.jpg"
+logo = "logo.jpg"
 
 +++
 
