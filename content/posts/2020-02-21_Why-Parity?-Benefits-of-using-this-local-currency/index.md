@@ -7,11 +7,11 @@ tags = []
 author = "Matteo Vanzini"
 draft = false
 # 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
-social_image = ""
-social_image_alt_text = ""
+social_image = "JQ-Office-View.jpg"
+social_image_alt_text = "View on the Jewellery Quarter from Parity office"
 +++
 
-![
+![Jewellery Quarter view from Parity Office](JQ-Office-View.jpg)
 
 ## Why Parity? Benfits of using this local currency
 
