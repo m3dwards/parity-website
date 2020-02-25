@@ -6,8 +6,8 @@ longitude = -1.966426
 
 address = "34 Beacon Street, Walsall, WS1 2DL"
 telephone = "07951 434954"
-website = "https://www.facebook.com/pg/greenfingerswm"
-email = "info@greenfingers.co.uk"
+website = "https://greenfingerswm.com"
+email = "jonwhitegardens@gmail.com"
 tags = ["Gardening", "Hedge Cutting", "Weed Control", "Landscaping"]
 
 logo = "logo.jpg"
