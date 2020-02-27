@@ -4,7 +4,11 @@
         <a href="{{ .RelPermalink }}">{{ .Title }}</a> <small class="">Posted on {{ .Date.Format "Jan 2, 2006" }}</small><br>
         <small>{{ .Description }}</small>
     </h4>
-    <hr>
+
+    {{ $original := .Page.Resources.GetMatch (printf "*%s*" .Params.social_image) }}
+    <img src="{{ ($original.Resize "x250 Linear q90").RelPermalink }}" />
+    <br><br>
     <p>{{ .Summary }}</p>
     <a class="" href="{{ .RelPermalink }}">Read More</a>
+    <hr>
 </div>

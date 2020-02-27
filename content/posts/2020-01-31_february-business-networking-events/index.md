@@ -6,13 +6,14 @@ categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
 draft = false
-social_image = ""
-social_image_alt_text = ""
+social_image = "business_networking2.jpg"
+social_image_alt_text = "Photo of people attending a business networking event"
 
 +++
 
+![Picture of attendees to a business networking event](business_networking2.jpg)
 
-# Business Networking 
+# Business Networking
 
 ## Monday 3rd February
 
@@ -33,7 +34,7 @@ Free<br>
 **Speed Networking** - Greater Birmingham Chamber of Commerce (GBCC)<br>
 Chamber House, 75 Harborne Road, Birmingham, B15 3DH<br>
 8.30am - 10.30am<br>
-GBCC members: Free / Public: £15<br> 
+GBCC members: Free / Public: £15<br>
 [Book](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/birmingham-speed-networking-200204/details)
 
 **Saint Pauls Networking Group**<br>
@@ -48,18 +49,18 @@ Old Joint Stock 4 Temple Row, Birmingham, B2 5NY<br>
 Free<br>
 [Book](https://www.meetup.com/Birmingham-City-Circle-Entrepreneurs-Social/events/pwtnmrybcdbgb/)
 
-## Wednesday 5th February 
+## Wednesday 5th February
 
 **St. Pauls BNI**<br>
 St Pauls House, 14 St Paul's Square, Birmingham, B3 1RB<br>
 6.45 AM<br>
-£15 * as visitor<br> 
+£15 * as visitor<br>
 [Book](https://bnibirmingham.com/birmingham-st--pauls-bni-(birmingham)/en-GB/index)
 
 **Alliance BNI**<br>
-Novotel Birmingham, 70 Broad Street, Birmingham, B1 2HT<br> 
+Novotel Birmingham, 70 Broad Street, Birmingham, B1 2HT<br>
 6.45am<br>
-£15 * as visitor<br> 
+£15 * as visitor<br>
 [Book](https://bnibirmingham.com/birmingham-alliance-bni-(birmingham)/en-GB/index)
 
 **Network with Us**<br>
@@ -81,7 +82,7 @@ Free<br>
 [Book](https://www.eventbrite.co.uk/e/show-me-the-money-funding-innovation-tickets-70894026943?aff=ebdssbdestsearch)
 
 **Chutney & Chat** - Business Networking Event<br>
-Tipu Sultan Majestic Dining, 43 Alcester Road, Birmingham, B13 8AA<br> 
+Tipu Sultan Majestic Dining, 43 Alcester Road, Birmingham, B13 8AA<br>
 6.30pm<br>
 £25<br>
 [Book](https://www.eventbrite.co.uk/e/chutney-chat-business-networking-birmingham-wed-5th-feb-2020-tickets-88371821497?aff=ebdssbdestsearch)
@@ -92,7 +93,7 @@ Cafe Artum, 177 Corporation St, Birmingham, B4 6RG<br>
 Free<br>
 [Book](https://www.meetup.com/rebel-meetups-young-entrepreneur-networking-birmingham/events/267808194/)
 
-## Thursday 6th February 
+## Thursday 6th February
 
 **Apollo BNI**<br>
 Novotel Birmingham, 70 Broad Street, Birmingham, B1 2HT<br>
@@ -119,7 +120,7 @@ The Hagley behind ibis Styles , 313 Hagley Road, Birmingham, B16 9LQ<br>
 [Book](https://bnibirmingham.com/birmingham-mercury-bni-(birmingham)/en-GB/index)
 
 **Networking Lunch - GBCC**<br>
-Amplify, Arena Birmingham, King Edwards Rd, Birmingham, B1 2AA<br> 
+Amplify, Arena Birmingham, King Edwards Rd, Birmingham, B1 2AA<br>
 12.30pm - 2.30pm<br>
 GBCC members: Free / Public: £15<br>
 [Book](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/abcc-networking-lunch-feb-2020-200206/details)
@@ -130,7 +131,7 @@ GBCC members: Free / Public: £15<br>
 Free<br>
 [Book](https://www.breslins.co.uk/breslins-club/)
 
-**Tech Drinks Meetup** - Silicon Canal<br> 
+**Tech Drinks Meetup** - Silicon Canal<br>
 The Button Factory, 25 Frederick Street, Birmingham, B1 3HH<br>
 6.30pm<br>
 Free<br>
@@ -142,7 +143,7 @@ Fumo, 1 Waterloo Street, Birmingham, B2 5PG<br>
 Free<br>
 [Book](https://www.meetup.com/Birmingham-Small-Business-Meetup/events/nrfxvqybcdbjb/)
 
-## Friday 7th February 
+## Friday 7th February
 
 **TGI BNI**<br>
 The Hagley behind ibis Styles , 313 Hagley Road, Birmingham, B16 9LQ<br>
@@ -150,20 +151,20 @@ The Hagley behind ibis Styles , 313 Hagley Road, Birmingham, B16 9LQ<br>
 £15 * as visitor<br>
 [Book](https://bnibirmingham.com/birmingham-tgi-bni-(birmingham)/en-GB/index)
 
-## Saturday 8th February 
+## Saturday 8th February
 
 **Let’s Talk Business!** - Birmingham Networking Event<br>
-Purecraft Bar & Kitchen, 30 Waterloo Street, Birmingham, B2 5TJ<br> 
+Purecraft Bar & Kitchen, 30 Waterloo Street, Birmingham, B2 5TJ<br>
 12.00pm - 2.00pm<br>
 Free<br>
 [Book](https://www.eventbrite.co.uk/e/birmingham-networking-event-lets-talk-business-tickets-56709909867?aff=ebdssbdestsearch)
 
-## Tuesday 11th February 
+## Tuesday 11th February
 
 **Future Faces Development (FFD) Session** - GBCC<br>
 Venue: TBC<br>
-45.30pm - 7.30pm<br> 
-FFD members: Free / Public: £15<br> 
+45.30pm - 7.30pm<br>
+FFD members: Free / Public: £15<br>
 [Book](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/future-faces-development-session-200211/details)
 
 **Birmingham Entrepreneurs Meetup**<br>
@@ -172,9 +173,9 @@ FFD members: Free / Public: £15<br>
 Free<br>
 [Book](https://www.meetup.com/Birmingham-Entrepreneurs-Meetup-Group/events/qmtsgqybcdbpb/)
 
-## Wednesday 12th February 
+## Wednesday 12th February
 
-**St. Pauls BNI**<br> 
+**St. Pauls BNI**<br>
 St Pauls House, 14 St Paul's Square, Birmingham, B3 1RB<br>
 6.45 AM<br>
 £15 * as visitor<br>
@@ -192,7 +193,7 @@ Ibis Styles, 313 Hagley Road, Birmingham, B16 9LQ<br>
 £12<br>
 [Book](https://www.bobclubs.com/Club/Birmingham-Edgbaston)
 
-**Network with Us**<br> 
+**Network with Us**<br>
 The Victoria, Barnt Green, 113 Hewell Road, Birmingham, B45 8NW<br>
 9.15am - 10.30am<br>
 Free<br>
@@ -204,7 +205,7 @@ Chung Ying Central Bar & Restaurant, 126 Colmore Row, Birmingham, B3 3AP<br>
 £25<br>
 [Book](https://www.eventbrite.co.uk/e/birmingham-business-networking-lunch-tickets-91318075823?aff=ebdssbdestsearch)
 
-## Thursday 13th February 
+## Thursday 13th February
 
 **Apollo BNI**<br>
 Novotel Birmingham, 70 Broad Street, Birmingham, B1 2HT<br>
@@ -242,7 +243,7 @@ The Hagley behind ibis Styles , 313 Hagley Road, Birmingham, B16 9LQ<br>
 £15 * as visitor<br>
 [Book](https://bnibirmingham.com/birmingham-mercury-bni-(birmingham)/en-GB/index)
 
-**The Business Network**<br> 
+**The Business Network**<br>
 Novotel Birmingham, 70 Broad Street, Birmingham, B1 2HT<br>
 12.00pm - 2.00pm<br>
 £47.40<br>
@@ -328,7 +329,7 @@ Horton Grange, Edgbaston Park Hotel, 53 Edgbaston Park Road, Birmingham B15 2RS<
 Free<br>
 [Book](https://www.eventbrite.co.uk/e/energy-opportunities-for-west-midlands-industry-tickets-86107715495?aff=ebdssbdestsearch)
 
-## Wednesday 26th February 
+## Wednesday 26th February
 
 **St. Pauls BNI**<br>
 St Pauls House, 14 St Paul's Square, Birmingham, B3 1RB<br>
@@ -381,9 +382,9 @@ The Hagley behind ibis Styles , 313 Hagley Road, Birmingham, B16 9LQ<br>
 [Book](https://bnibirmingham.com/birmingham-mercury-bni-(birmingham)/en-GB/index)
 
 **Future Faces February Social** - GBCC<br>
-The Whisky Club, 75-80 Vyse St, Birmingham, B18 6HA<br> 
+The Whisky Club, 75-80 Vyse St, Birmingham, B18 6HA<br>
 5.30pm - 8.00pm<br>
-GBCC members: Free / Public: £15<br> 
+GBCC members: Free / Public: £15<br>
 [Book](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/future-faces-february-social/details)
 
 **Birmingham Small Business Meetup**<br>

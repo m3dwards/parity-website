@@ -9,7 +9,7 @@ categories = ["Business Development"]
 tags = []
 author = " "
 # Image(JPG or PNG) with a size less than 300KB and minimum dimensions of 300 x 200
-social_image = "/images/homepage/tablet.jpg"
+social_image = "tablet.jpg"
 social_image_alt_text = "Logo of google play store and logo of apple store"
 
 +++
