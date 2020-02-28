@@ -7,7 +7,7 @@ tags = []
 author = "Matteo Vanzini"
 draft = false
 social_image = "jakob-dalbjorn-unsplash.jpg"
-social_image_alt_text = "room full of people chatting and networking"
+social_image_alt_text = "room with people chatting and networking"
 +++
 
 ![Photo by Jakob Dalbjörn on Unsplash](jakob-dalbjorn-unsplash.jpg)
