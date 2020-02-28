@@ -5,11 +5,11 @@ date = "2019-10-16"
 categories = []
 tags = []
 author = "Matteo Vanzini"
-social_image = "beer.jpg"
+social_image = "beer2.jpg"
 social_image_alt_text = "Picture of three hands holding pints in a pub"
 +++
 
-![Picture of two hands holding pints in a pub](beer.jpg)
+![Picture of two hands holding pints in a pub](beer2.jpg)
 
 ## Jewellery Quarter Pubs
 
