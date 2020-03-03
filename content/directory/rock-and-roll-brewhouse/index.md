@@ -8,7 +8,7 @@ address = "19 Hall Street, Birmingham, B18 6BS"
 telephone = "07969 759649"
 website = "https://www.facebook.com/RocknRollBrewBar/"
 email = ""
-tags = ["Brewery""Pub/Bar""Event Space"]
+tags = ["Brewery","Pub/Bar","Event Space"]
 
 logo = "logo.jpg"
 +++
