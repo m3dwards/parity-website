@@ -1,7 +1,7 @@
-+++ draft = false name = "Rock & Roll Brewhouse" latitude = 52.486274 longitude = -1.908802
++++ draft = false name = "Change Kitchen CIC" latitude = 52.4288121 longitude = --1.9229198
 
-address = "Unit 2, United Kingdom, 60 Regent Place, Birmingham B1 3NJ" telephone = "07969 759649" website = "https://www.facebook.com/RocknRollBrewBar/" email = "" tags = ["Brewery"]
+address = "1a Bournville Lane, Stirchley, Birmingham, B30 2JT" telephone = "07828 825850" website = "https://www.changekitchen.co.uk/" email = "birgit.kehrer@changekitchen.co.uk" tags = ["Event Catering""Corporate Away Days""Wedding Catering""Pop Up Restaurant"]
 
 logo = "logo.jpg" +++
 
-Rock & Roll Brewhouse
+Change Kitchen CIC
