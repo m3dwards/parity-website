@@ -1,0 +1,18 @@
+{{ $original := .Page.Resources.GetMatch ( or .Params.logo "logo.jpg" ) }}
+
+{
+    "name": "{{ .Params.name }}",
+    "latitude": {{ .Params.latitude }},
+    "longitude": {{ .Params.longitude }},
+    "address": "{{ .Params.address }}",
+    "telephone": "{{ .Params.telephone }}",
+    "website": "{{ .Params.website }}",
+    "email": "{{ .Params.email }}",
+    "tags": [
+        {{ range $i, $e := .Params.tags }}
+            {{ if $i }}, {{ end }}
+            "{{ . }}"
+        {{ end }}
+    ],
+    "logo": "{{ $original.Permalink }}"
+}

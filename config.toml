@@ -42,5 +42,5 @@ archive-paginate = 10
     path = "app"
 
 [outputs]
-  section = ["HTML", "APP", "AMP"]
-  page = ["HTML", "APP", "AMP"]
+  section = ["HTML", "APP", "JSON"]
+  page = ["HTML", "APP", "JSON"]
