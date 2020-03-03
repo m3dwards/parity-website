@@ -4,11 +4,11 @@ name = "Rock & Roll Brewhouse"
 latitude = 52.486274
 longitude = -1.908802
 
-address = "Unit 2, United Kingdom, 60 Regent Place, Birmingham B1 3NJ"
+address = "19 Hall Street, Birmingham, B18 6BS"
 telephone = "07969 759649"
 website = "https://www.facebook.com/RocknRollBrewBar/"
 email = ""
-tags = ["Brewery"]
+tags = ["Brewery""Pub/Bar""Event Space"]
 
 logo = "logo.jpg"
 +++
