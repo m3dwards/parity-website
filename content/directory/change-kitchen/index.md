@@ -8,7 +8,7 @@ address = "1a Bournville Lane, Stirchley, Birmingham, B30 2JT"
 telephone = "07828 825850" 
 website = "https://www.changekitchen.co.uk/" 
 email = "birgit.kehrer@changekitchen.co.uk" 
-
+tags = ["Event Catering", "Corporate Away Days", "Wedding Catering", "Pop Up Restaurant"]
 logo = "logo.jpg" 
 +++
 
