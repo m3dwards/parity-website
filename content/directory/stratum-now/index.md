@@ -8,6 +8,8 @@ telephone = "0121 348 8790"
 website = "https://stratumnow.com/"
 email = "go@stratumnow.com"
 tags = ["IT Support", "Managed Infrastructure", "Office 365", "Security", "Website Hosting"]
+username = "stratumnow"
+
 logo = "logo.jpg"
 +++
 

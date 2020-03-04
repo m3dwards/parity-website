@@ -9,6 +9,7 @@ telephone = "07951 434954"
 website = "https://greenfingerswm.com"
 email = "jonwhitegardens@gmail.com"
 tags = ["Gardening", "Hedge Cutting", "Weed Control", "Landscaping"]
+username = "greenfingers"
 
 logo = "logo.jpg"
 

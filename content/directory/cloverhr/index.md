@@ -8,6 +8,7 @@ telephone = "0121 516 0299"
 website = "https://www.cloverhr.co.uk/"
 email = "info@cloverhr.co.uk"
 tags = ["Human Resources", "Fire Risk Advice", "Health and Safety Advice", "Management Training", "Employee Engagement", "Recruitment"]
+username = "cloverhr"
 
 logo = "logo.jpg"
 +++

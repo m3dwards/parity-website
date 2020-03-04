@@ -8,6 +8,7 @@ telephone = "0121 212 6250"
 website = "https://kineticpr.co.uk/"
 email = "angela.podmore@kineticpr.co.uk"
 tags = ["Public Relations", "Marketing"]
+username = "kinetic"
 
 logo = "logo.jpg"
 +++

@@ -8,6 +8,8 @@ telephone = "0121 517 0156"
 website = "https://iron-house.co.uk/"
 email = "jack@iron-house.co.uk"
 tags = ["Event Venue", "Conferences", "Meetings", "Workshops"]
+username = "ironhouse"
+
 logo = "logo.jpg"
 +++
 
