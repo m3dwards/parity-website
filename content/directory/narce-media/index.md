@@ -10,7 +10,7 @@ email = "getinvolved@narcemedia.com"
 tags = ["Videography", "Media Production", "Media Distribution"]
 username = "narce_media"
 
-logo = "logo.jpg"
+logo = "logo.png"
 +++
 
 ## Narce Media
