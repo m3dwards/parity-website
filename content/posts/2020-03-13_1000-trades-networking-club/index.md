@@ -5,7 +5,7 @@ date = "2020-03-13"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
-draft = 
+draft = false
 # 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
 social_image = "1000Trades-Networking-Club.jpeg"
 social_image_alt_text = "picture of four persons networking"
