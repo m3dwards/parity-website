@@ -13,7 +13,7 @@ social_image_alt_text = "picture of four persons networking"
 
 ![Parity networking event](1000Trades-Networking-Club.jpeg)
 
-## 1000 trades networking club 
+## 1000 Trades Networking Club 
 
 On Thursday the 5th March we hosted our first ‘1000 Trades Networking Club’; here are some highlights from the event. 
 
