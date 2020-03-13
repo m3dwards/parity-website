@@ -21,7 +21,7 @@ It was a fantastic turnout and we are very thankful to everyone attending. It’
 
 #### _"business that enjoy networking and want to trade more locally"_
 
-We wish to give credit to 1000 Trades pub who made available the venue and tapped some great craft beers. We are proud to have in the network an award winning independent pub. It really showed how it’s easily integrated into everyday transactions when attendees also on the network bought their beers from 1000 Trades using Parity
+We wish to give credit to [1000 Trades](https://1000trades.org.uk) pub who made available the venue and tapped some great craft beers. We are proud to have in the network an award winning independent pub. It really showed how it’s easily integrated into everyday transactions when attendees also on the network bought their beers from 1000 Trades using Parity
 
 For us, this is the clearest way to demonstrate the benefits of Parity. Members used the currency to buy drinks meaning no pounds were used; while for 1000 Trades gained new customers generating extra income to spend later in the network. 
 
