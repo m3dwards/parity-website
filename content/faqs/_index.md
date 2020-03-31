@@ -27,7 +27,7 @@ No, you do not need to buy the local currency. You use the overdraft for purchas
 ### Where does the local currency come from then? 
 Through using the overdraft or by selling to other members. 
 
-### What do you mean by equivalent to pounds?
+### What’s the value of the local currency?
 It’s always equal to pound sterling so prices do not change. 
 
 ### Can I just sell through Parity? 
