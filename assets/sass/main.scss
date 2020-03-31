@@ -34,6 +34,12 @@ h1 {font-family: 'Lora', sans-serif;}
 img.shadow, img[src*='#shadow'] { filter: drop-shadow(5px 5px 5px #666666); }
 
 .nav-link { display: inline-block; }
+blockquote {
+    font-weight: 700;
+    font-family: lora,sans-serif;
+    color: $main-pink;
+    font-size: 22px;
+}
 
 img[src*='#left'] {float: left; padding: 10px;}
 .mw-95 { max-width: 95% }
@@ -120,7 +126,7 @@ img[src*='#left'] {float: left; padding: 10px;}
         img { max-width: 95%; }
     }
 
-    #buy-sell-connect {
+    #buy-sell-connect, #testimonial {
         img { width: 55%; }
     }
 
