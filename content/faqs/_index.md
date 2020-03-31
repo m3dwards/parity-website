@@ -26,30 +26,66 @@ It’s been working in Sardex, Italy since 2008 and WIR, Switzerland since 1934.
 
 Payments are made through our mobile apps or desktop platform. They are free and instant.
 
-## I’ve tried to borrow from other creditors, it’s expensive. Interest free credit sounds too good to be true!?
+### Do I have to buy the local currency before using it?
 
-The banking system in the United Kingdom has lost its way. Decades ago bankers were borrowing, they extended credit at low interest and helped small businesses grow. As seen with the problems around the financial crisis and mis-selling scandals, banking has become a casino, focused on short term profits. Parity makes its money from a flat membership fee. Credit in its network is issued interest free, but it can only be spent with other companies who use the system. Parity is on your side to ensure you have clients and suppliers on the network, otherwise it wouldn’t work and we wouldn’t get our fee. A positive relationship with your creditor, who is trying to help you grow your transaction volume, does sound too good to be true, but honestly it’s the truth.
+No, you do not need to buy the local currency. You use the overdraft for purchases.
 
-## How long is this credit for?
+### Where does the local currency come from then? 
 
-Parity is unlike other creditors, when credit is issued in one company’s account for a purchase, it is debited in the sellers account. We do have an initial 12 month period that we consider a time limit for this credit. However, our focus is less on how quickly you pay back the credit and more on the transactions you are conducting. If you issue credit and then do not sell into the network for the 12 months, it flags up on our system and we will contact you. If you issue credit and are then buying and selling through Parity over the 12 months, then even if you are still negative at the end of it, we are ok with it. See Parity more like an overdraft than a loan and for us, every negative balance is a positive balance somewhere else on the network.
+Through using the overdraft or by selling to other members. 
 
-## What do you mean by equivalent to pounds?
+### What do you mean by equivalent to pounds?
 
-The credit in Parity is equal to the value of GBP Sterling, but it is not actually GBP Sterling. We would be misleading you if we said you were borrowing GBP Sterling. You are accessing credit that all of the companies on the network accept as payment for goods and services. Prices don’t change within the network and all businesses on the network consider the credit to be equal to GBP Sterling.
+It’s always equal to pound sterling so prices do not change. 
 
-## Why would my business convert money into your alternative currency?
+### Can I just sell through Parity? 
 
-If this is your question, you misunderstand what Parity is about. We are not a cryptocurrency or local currency, that requires you to “buy” into their system. The credit in Parity is created when companies make trade, when you spend your credit available. It is additional to the revenue that your company currently has in traditional currencies. The aim of the system is to provide a holistic financing solution, to enable you to purchase in supplies with Parity, allowing you to focus your precious GBP Sterling on more important issues.
+Selling generates additional income to spend with other local businesses.
 
-## I still don’t understand where the money comes from?
+### What’s the advantage of selling?
 
-The traditional banking system requires a lender to have money, before offering credit to a customer. However, there are many other ways that credit can be issued. The Parity Network allows companies to issue one another interest free credit. You don’t need money to begin with, you just need two sides of a trade. The one side goes negative to purchase an item and the other side goes positive to sell the item. The system of credit only works within a closed network. If there is enough diverse businesses accepting the credit as payment, the seller of the item can use the positive balance purchase their own supplies from other companies. The business who went negative in the system, has to sell their own goods and services within the network to settle their negative balance.
+You acquire new customers, increase revenue and the income received is used to pay business expenses. This frees up pounds in your business.
 
-## Can I exchange the credit in Parity for GBP Sterling?
+### Can I withdraw funds from Parity?
 
-No, the credit in Parity is issued within the network and can only be spent in the network. Our system does not allow companies on the network to exchange it for GBP Sterling, as this would be outside of the network. However, if a company leaves the network without settling their negative balance, they will be required to settle to amount with GBP Sterling. The aim of this process is to discourage companies from walking away with liabilities, opposed to profiting from the creation of credit.
+No, there is no way you can withdraw from Parity.
 
-## Is Parity a cryptocurrency like Bitcoin?
+### Can I just buy in Parity? 
 
-No, Parity does not use a cryptocurrency token for its local currency. The currency within Parity is actually credit that is issued and later settled. A cryptocurrency would not work in this network due to its commodity-like value. Cryptocurrency is highly volatile and its price fluctuates. The local currency in Parity will always be fixed at the same price of GBP Sterling.
+Purchases can be made upfront using the overdraft, helping your cashflow. This is repaid through future sales. 
+
+### What’s the advantage of buying? 
+
+You access extra liquidity and free up pounds for other purposes or profit.
+
+### Can I leave Parity without paying off my overdraft?
+
+If you decide to leave Parity overdrawn, the exit fee is equal to your overdraft and payable in pound sterling.
+
+### Can I leave Parity with a positive balance? 
+
+If you decide to leave Parity with a positive balance, you have six months to use the remaining balance.
+
+### Do I always have to pay in Parity?
+
+You can pay 100% in Parity or blend your payments, say 50% in Parity and 50% GBP. Same when you sell. 
+
+### Can I just buy in Parity? 
+
+Purchases can be made upfront using the overdraft, helping your cashflow. This is repaid through future sales. 
+
+### Zero interest credit sounds too good to be true!?
+
+It is only available in the local currency and cannot be withdrawn.
+
+### How do you make money then?
+
+Parity is based on a flat monthly membership fee. See our Pricing page.
+
+### How long can I be in my overdraft?
+
+In Parity there are no deadlines or hidden fees. As long as you are a member you can use your overdraft.
+
+### Is Parity like Bitcoin?
+
+No, Parity is not like Bitcoin, it doesn’t change in value and you don’t need to buy it.
