@@ -6,9 +6,9 @@ title = "FAQs"
 
 # FAQs
 
-## Using the simplest comparison possible, what is Parity?
+### Using a simple explanation, what is Parity?
 
-In the simplest comparison possible, consider Parity a zero interest overdraft in a local currency. The credit in this ‘overdraft’ can only be spent with other companies on the Parity network. To repay this ‘overdraft’ you have to sell goods and services to other companies on the network and be paid with their ‘overdraft’. You pay a flat monthly fee  to access this service. Once you are on the network Parity acts as a broker to connect you with clients and suppliers to help everyone use their interest free ‘overdrafts’.
+Parity is a zero interest overdraft in a local currency. You use this overdraft to buy from other businesses in the network. You sell to repay the overdraft or save for future purchases.
 
 ## I’m a small business, I want to sell through Parity but I don’t buy a huge amount?
 
