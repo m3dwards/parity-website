@@ -54,9 +54,6 @@ If you decide to leave Parity with a positive balance, you have six months to us
 ### Do I always have to pay in Parity?
 You can pay 100% in Parity or blend your payments, say 50% in Parity and 50% GBP. Same when you sell. 
 
-### Can I just buy in Parity? 
-Purchases can be made upfront using the overdraft, helping your cashflow. This is repaid through future sales. 
-
 ### Zero interest credit sounds too good to be true!?
 It is only available in the local currency and cannot be withdrawn.
 
