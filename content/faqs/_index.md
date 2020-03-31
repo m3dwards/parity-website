@@ -10,21 +10,21 @@ title = "FAQs"
 
 Parity is a zero interest overdraft in a local currency. You use this overdraft to buy from other businesses in the network. You sell to repay the overdraft or save for future purchases.
 
-## I’m a small business, I want to sell through Parity but I don’t buy a huge amount?
+### What are the benefits of Parity?
 
-I am glad you see the benefits of a local business network, beyond the advantages of interest free credit. However, often one of the main costs for small businesses is the owner’s and staff’s time. With every company account in Parity comes the ability to set up personal accounts for directors and employees. These cannot go negative and you are only able to move positive company balances across. So if your small business sells through Parity, you could pay yourself into a personal account and use it for personal purchases.
+The overdraft supports your cashflow, allowing you to make purchases without pounds. The network gives you a new local market for your business.
 
-## What if I go negative in my account and then my company walks away?
+### What does local currency mean? 
 
-Firstly, you aren’t able to access large credit levels until you prove there is a demand for goods and services. So the network has a little protection from companies doing this. However, it will still happen. The contract with us is structured so that we are able to pursue you for GBP Sterling for any negative balances you leave behind on the network. If your company goes into liquidation, Parity will just be another creditor that will need to be paid from what’s left. If you want to leave we can stop you from buying and we’ll promote your offer until you will reach the zero being able to exit.
+It can only be used by local, independent businesses in Birmingham.
 
-## What if my business needs something not in the network?
+### Where has this worked before? 
 
-One of the services that companies have access to when they join the network is a broker. brokering connects you with potential clients and suppliers that are already on the network. If the network does not have companies to meet your needs, a broker will aim to fill your supply and demand requirements. There are two ways this can be achieved. It would be either finding completely new companies to join the network, or you engage with the companies you already work with about the advantages of Parity. You all get 20% off on the membership fee, so what is there to loose?
+It’s been working in Sardex, Italy since 2008 and WIR, Switzerland since 1934.
 
-## Do I always have to pay in Parity?
+### How do I use the local currency?
 
-Parity aims to support greater levels of trade among its members. Businesses can choose what level of transactions actually go through the network. You can pay 100% in Parity, or blend your payments, say 50% Parity and 50% GBP Sterling. You may find that you make connections through the network and go on to do 100% of your future trade in GBP Sterling. That’s fine. You are only required to settle the negative balance before you leave. That’s all you have to do.
+Payments are made through our mobile apps or desktop platform. They are free and instant.
 
 ## I’ve tried to borrow from other creditors, it’s expensive. Interest free credit sounds too good to be true!?
 
