@@ -6,7 +6,7 @@ title = "FAQs"
 
 # FAQs
 
-### Using a simple explanation, what is Parity?
+### What is Parity in plain English?
 Parity is a zero interest overdraft in a local currency. 
 
 ### What does local currency mean? 
