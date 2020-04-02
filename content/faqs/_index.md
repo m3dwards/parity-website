@@ -7,13 +7,22 @@ title = "FAQs"
 # FAQs
 
 ### Using a simple explanation, what is Parity?
-Parity is a zero interest overdraft in a local currency. You use this overdraft to buy from other businesses in the network. You sell to repay the overdraft or save for future purchases.
-
-### What are the benefits of Parity?
-The overdraft supports your cashflow, allowing you to make purchases without pounds. The network gives you a new local market for your business.
+Parity is a zero interest overdraft in a local currency. 
 
 ### What does local currency mean? 
 It can only be used by local, independent businesses in Birmingham.
+
+### What do I use this local currency overdraft for?
+To buy from other businesses in the network. 
+
+### How do I repay it?
+You sell to other businesses in the network.
+
+### What’s the benefit of the overdraft?
+It supports your cashflow, you can make purchases without pounds.
+
+### What’s the benefit of the network?
+It gives you a new local market for your business.
 
 ### Where has this worked before? 
 It’s been working in Sardex, Italy since 2008 and WIR, Switzerland since 1934.
