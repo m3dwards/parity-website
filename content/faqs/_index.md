@@ -51,22 +51,17 @@ No, you do not need to buy the local currency. You use the overdraft for purchas
 
 <br>
 
-### Where does the local currency come from then?
-Through using the overdraft or by selling to other members.
-
-<br>
-
 ### What’s the value of the local currency?
-It’s always equal to pound sterling so prices do not change.
+It’s always equal to pound sterling so not a speculative asset.
 
 <br>
 
 ### Can I just sell through Parity?
-Selling generates additional income to spend with other local businesses.
+Selling generates additional income to spend with other local businesses. If you don't then spend you will not realise any benfit.
 
 <br>
 
-### What’s the advantage of selling?
+### What’s the advantage of selling in Parity?
 You acquire new customers, increase revenue.
 
 <br>
@@ -77,17 +72,12 @@ No, there is no way you can withdraw from Parity.
 <br>
 
 ### Can I just buy in Parity?
-Purchases can be made upfront using the overdraft and repaid by future sales.
+Purchases can be made upfront using the overdraft and repaid by future sales. Selling to pay the overdraft back and then buying again ensures you get the most value from the network.
 
 <br>
 
 ### What’s the advantage of buying?
 You access extra liquidity and free up pounds for other purposes or profit.
-
-<br>
-
-### What can I spend the local currency on?
-The income received is used to pay business expenses.
 
 <br>
 
@@ -112,12 +102,12 @@ It is only available in the local currency and cannot be withdrawn.
 <br>
 
 ### How do you make money then?
-Parity is based on a flat monthly membership fee. See our Pricing page.
+Parity is based on a flat monthly membership fee. See our [pricing](/pricing) page.
 
 <br>
 
 ### How long can I be in my overdraft?
-As long as you are a member. There are no deadlines or hidden fees. t.
+As long as you are a member. There are no deadlines or hidden fees.
 
 <br>
 
