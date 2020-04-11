@@ -91,8 +91,8 @@ Yes, you have one year to use the remaining balance.
 
 <br>
 
-### Do I always have to pay in Parity?
-You can pay 100% in Parity or blend your payments, say 50% in Parity and 50% GBP.
+### Do I have to accept 100% of the value of the invoice in Parity?
+You can receive 100% in Parity or ask for a blended payment, say 50% in Parity and 50% GBP.
 
 <br>
 

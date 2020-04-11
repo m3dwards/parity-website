@@ -178,6 +178,14 @@ img[src*='#left'] {float: left; padding: 10px;}
     #feature {
         background-image: url("/images/how-it-works-header.jpg");
     }
+    .balance-table {
+        text-align: left;
+        td {
+            border: solid 2px $main-pink;
+            padding: 5px;
+        }
+    }
+    .arrow { width: 30%; max-width: 200px; }
 }
 #pricing {
     #feature {
