@@ -1,31 +1,57 @@
 {{ define "title" }}
 {{ .Site.Title }}
 {{ end }}
+{{ define "book_demo" }}
+<!-- I wish to have no book demo -->
+{{ end }}
 {{ define "main" }}
     <div id="book-demo" class="main-page">
         <div id="feature">
         </div>
         <div class="container">
             <div class="row">
-                <div class="col text-center">
-                    <h2>Book a demo</h2>
+                <div class="col">
 
-                    <img id="image" class="shadow w-95" src="creepy_stuart.jpg" alt="Image of founder showing the app in a demo" />
+                    <img id="image" class="shadow mx-auto d-block" src="creepy_stuart.jpg" alt="Image of founder showing the app in a demo" />
 
-                    <p>A one-to-one video call between your company and Parity which includes:</p>
+                    <div class="box mx-auto" id="book-box">
+                        <div class="text-center">
+                            <h2 style="float: right;">15 mins</h2>
+                            <h2 class="">Book a demo</h2>
+                        </div>
 
-                    <p> - Q&A on how Parity works</p>
+                        <p>A one-to-one video call between your company and Parity which includes:</p>
 
-                    <p> - Personalised review of your business</p>
+                        <p> - Q&A on how Parity works</p>
 
-                    <p> - Demo of the mobile app; make and receive test transactions</p>
+                        <p> - Personalised review of your business</p>
 
-                    <p> - Demo of the desktop platform; search for suppliers</p>
+                        <p> - Demo of the mobile app; make and receive test transactions</p>
 
-                    <p> - Next steps</p>
+                        <p> - Demo of the desktop platform; search for suppliers</p>
 
-                    <p>No salesspeak, no obligation, no commitments, just see if Parity could work for you</p>
+                        <p> - Next steps</p>
 
+                        <p>No salesspeak, no obligation, no commitments, just see if Parity could work for you</p>
+                    </div>
+
+                    <div class="box mx-auto my-5" id="book-book">
+                        <form id="book-demo-form" class="" name="book-demo" netlify>
+                            <div class="form-group">
+                                <label for="name" class="">Name:</label><br>
+                                <input type="text" class="form-control mb-2" name="name" placeholder="Enter name" id="name">
+                            </div>
+                            <div class="form-group">
+                                <label for="email" class="">Email address:</label><br>
+                                <input type="email" class="form-control mb-2" name="email" placeholder="Enter email" id="email">
+                            </div>
+                            <div class="form-group">
+                                <label for="time" class="" >(optional) Preferred Date/Time:</label><br>
+                                <input type="text" class="form-control mb-2" name="time" placeholder="Enter Preferred Date/Time" id="time">
+                            </div>
+                            <p><button type="submit" class="btn btn-dark">Book Online Demo</button></p>
+                        </form>
+                    </div>
                 </div>
             </div>
 

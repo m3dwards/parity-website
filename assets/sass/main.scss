@@ -58,6 +58,7 @@ img[src*='#left'] {float: left; padding: 10px;}
     text-decoration: none;
     display: inline-block;
 }
+.box {box-shadow: rgba(0, 0, 0, 0.11) 0px 15px 30px 0px, rgba(0, 0, 0, 0.08) 0px 5px 15px 0px;}
 
 .pagination {
     li {
@@ -188,7 +189,8 @@ img[src*='#left'] {float: left; padding: 10px;}
     .arrow { width: 30%; max-width: 200px; }
 }
 #book-demo {
-    #image { max-width: 90%; margin-bottom: 4em; }
+    #image { max-width: 85%; margin-bottom: 4em; }
+    #book-box, #book-book { padding: 15px; max-width: 650px; }
 }
 #pricing {
     #feature {

@@ -1,0 +1,31 @@
+
+<div class="mt-5">
+    <hr>
+
+    <div class="row my-5">
+        <div class="col text-center">
+            <h2>Book a Demo</h2>
+
+            <p>A short online demo to show you how Parity works</p>
+
+            <p>Make a transaction, find a supplier and see the benefits</p>
+
+            <form id="contact-form" class="" name="contact" netlify>
+                <br>
+                <p>
+                    <label for="email" class="mr-sm-2">Email address:</label>
+                    <input type="email" class="mb-2 mr-sm-2" name="email" placeholder="Enter email" id="email">
+                </p>
+                <p><button type="submit" class="btn btn-dark">Book Online Demo</button></p>
+            </form>
+            <p id="form-sent-message" style="display: none;"><br><br>Thanks, we will be in touch shortly to discuss your business</p>
+
+        </div>
+    </div>
+    <script>
+     $("#contact-form").submit(function(){
+         $("#form-sent-message").toggle();
+         $("#contact-form").toggle();
+     });
+    </script>
+</div>
