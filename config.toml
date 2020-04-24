@@ -7,7 +7,7 @@ archive-paginate = 10
 
 [menus]
   [[menus.main]]
-    name = "How it works"
+    name = "How it Works"
     url = "/how-it-works/"
     weight = 1
   [[menus.main]]
@@ -23,7 +23,7 @@ archive-paginate = 10
     url = "/posts/"
     weight = 4
   [[menus.main]]
-    name = "About us"
+    name = "About Us"
     url = "/about-us/"
     weight = 5
   [[menus.main]]

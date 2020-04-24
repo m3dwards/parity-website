@@ -1,8 +1,9 @@
 +++
 
 title = "Contact Us"
-mapCentreLat = 52.4902933
-mapCentreLong = -1.9145429
+
+mapCentreLat = 52.490312
+mapCentreLong = -1.912312
 mapKey = "AIzaSyDhyEMXSYyB0XbXtUGdtHXIBXzxAaiPeAg"
 mapZoom = 14
 
