@@ -1,7 +1,7 @@
 +++ 
 name = "Popcorn" 
-latitude = 52.488553 
-longitude = -1.911623
+latitude = 52.488553
+longitude = -1.887417
 
 address = "iCentrum, Holt St, Birmingham B7 4BB" 
 telephone = "0121 318 8318" 
