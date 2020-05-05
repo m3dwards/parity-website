@@ -10,7 +10,7 @@ email = "support@popcornmail.co.uk"
 tags = ["Customer Conversion Software"] 
 username = "popcorn"
 
-logo = "logo.jpg" 
+logo = "logo.png" 
 +++
 
 ## Popcorn
