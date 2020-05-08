@@ -6,7 +6,7 @@ categories = ["Business Development"]
 tags = []
 author = "Stuart Bowles"
 draft = false
-# 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
+# 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
 social_image = "parity-four-local-firms.jpg"
 social_image_alt_text = "Picture with Parity brochure, flyer and a mobile phone showing Parity's app"
 +++
@@ -17,11 +17,11 @@ social_image_alt_text = "Picture with Parity brochure, flyer and a mobile phone 
 
 ### This week four businesses have used Parity to conduct transactions within our local currency.
 
-Parity is a B2B platform in Birmingham that has its own local currency. This week some of its members have had the first chance to really appreciate what Parity can do. It all started on Tuesday when [Repc](https://repcltd.co.uk) and [Kinetic](https://kineticpr.co.uk) conducted their first transaction. It was supported by our broker and digital platform. Kinetic has helped Repc develop a new communications strategy through their [Kickstarter Programme](https://www.kinetickickstarter.co.uk/). Being a Parity member gives Repc the opportunity to purchase marketing support without using pounds. On the other hand, Kinetic has recently joined the network with the aim of increasing local sales and can use this additional Parity income to offset some of their pounds expenses. 
+Parity is a B2B platform in Birmingham that has its own local currency. This week some of its members have had the first chance to really appreciate what Parity can do. It all started on Tuesday when [Repc](https://repcltd.co.uk) and [Kinetic](https://kineticpr.co.uk) conducted their first transaction. It was supported by our broker and digital platform. Kinetic has helped Repc develop a new communications strategy through their [Kickstarter Programme](https://www.kinetickickstarter.co.uk/). Being a Parity member gives Repc the opportunity to purchase marketing support without using pounds. On the other hand, Kinetic has recently joined the network with the aim of increasing local sales and can use this additional Parity income to offset some of their pounds expenses.
 
 #### _“Being a Parity member gives Repc the opportunity to purchase marketing support without using pounds.”_
 
-The relationship was brokered through Parity who had identified that they both shared a similar set of values. Kinetic is a pioneering firm that has worked on environmental programmes in the past. Repc is a social enterprise that has over 20 years experience delivering environmental projects in the UK and around the world. Both companies were really excited to use our innovative technology. Our mobile application is very intuitive, but because of the novelty of the platform, Parity supported the transaction. Stuart was happy to walk them through our app and once the doubts were cleared, the transaction happened. 
+The relationship was brokered through Parity who had identified that they both shared a similar set of values. Kinetic is a pioneering firm that has worked on environmental programmes in the past. Repc is a social enterprise that has over 20 years experience delivering environmental projects in the UK and around the world. Both companies were really excited to use our innovative technology. Our mobile application is very intuitive, but because of the novelty of the platform, Parity supported the transaction. Stuart was happy to walk them through our app and once the doubts were cleared, the transaction happened.
 
 #### _“Both companies were really excited to use our innovative technology.”_
 

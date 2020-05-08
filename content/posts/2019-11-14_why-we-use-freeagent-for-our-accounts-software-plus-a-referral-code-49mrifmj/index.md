@@ -6,13 +6,13 @@ date = "2019-11-14"
 categories = ["Company News"]
 tags = []
 author = " "
-# 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
+# 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
 social_image = "freeagentlogo.png"
 social_image_alt_text = "FreeAgent Logo"
 
 +++
 
-![FreeAgent Logo](freeagentlogo.png) 
+![FreeAgent Logo](freeagentlogo.png)
 
 ## Why we use FreeAgent for our accounts software plus a referral code (49mrifmj)
 

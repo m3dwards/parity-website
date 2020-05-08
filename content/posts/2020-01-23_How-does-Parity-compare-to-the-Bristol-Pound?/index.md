@@ -5,7 +5,7 @@ date = "2020-01-23"
 categories = ["Business Development","Industry News"]
 tags = []
 author = "Stuart Bowles"
-# 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
+# 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
 social_image = "bristol_pounds.jpg"
 social_image_alt_text = "Bristol Pound Notes"
 

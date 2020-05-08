@@ -6,7 +6,7 @@ categories = ["Uncategorised"]
 tags = []
 author = "Matteo Vanzini"
 draft = false
-# 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
+# 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
 social_image = "Group-of-people2.jpg"
 social_image_alt_text = "Group of people"
 +++
