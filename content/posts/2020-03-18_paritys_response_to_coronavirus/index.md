@@ -6,14 +6,14 @@ categories = ["Company News"]
 tags = []
 author = "Max Edwards"
 draft = false
-# 1200x630 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
+# 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
 social_image = "group_photo.jpg"
 social_image_alt_text = "Picture of Max, Matteo and Stuart stood in front of Parity's offices"
 +++
 
 ![Picture of Max, Matteo and Stuart stood in front of Parity's offices](group_photo.jpg)
 
-## Parity's response to coronavirus 
+## Parity's response to coronavirus
 
 Parity will remain open for business and transactions during this outbreak. There is no service interruption expected. We will be working remotely during this social distancing phase. All of our technology is cloud based including our phone lines which can be answered away from the office.
 
