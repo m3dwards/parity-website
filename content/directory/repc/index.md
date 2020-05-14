@@ -1,6 +1,6 @@
 +++
 
-name = "REPC"
+name = "Repc"
 latitude = 52.527442
 longitude =  -2.027199
 
