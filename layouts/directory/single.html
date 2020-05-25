@@ -1,8 +1,9 @@
 {{ define "title" }}
-    <!-- This will override the default value set in baseof.html; i.e., "{{.Site.Title}}" in the original example-->
-    {{ .Title }} &ndash; {{ .Site.Title }}
+    {{ .Params.name }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
+<div class="container mt-3">
+    <p><a href="/directory">Back to Directory</a></p>
+    {{ .Render "company_item" }}
+</div>
 {{ end }}

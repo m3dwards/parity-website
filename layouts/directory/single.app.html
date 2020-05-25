@@ -1,8 +1,21 @@
+{{ define "menu" }}
+<!-- I wish to have no menu -->
+{{ end }}
+{{ define "footer" }}
+<!-- I wish to have no footer -->
+{{ end }}
+{{ define "book_demo" }}
+<!-- I wish to have no book demo -->
+{{ end }}
+{{ define "chat" }}
+<!-- I wish to have no chat -->
+{{ end }}
 {{ define "title" }}
-    <!-- This will override the default value set in baseof.html; i.e., "{{.Site.Title}}" in the original example-->
-    {{ .Title }} &ndash; {{ .Site.Title }}
+    {{ .Params.name }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
-    {{ .Content }}
+<div class="container mt-3">
+    <p><a href="/directory/app">Back to Directory</a></p>
+    {{ .Render "company_item" }}
+</div>
 {{ end }}

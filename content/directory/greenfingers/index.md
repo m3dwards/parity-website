@@ -13,6 +13,20 @@ username = "greenfingers"
 
 logo = "logo.jpg"
 
+[[products]]
+  description = "Garden Tidy up"
+  price_prx = "60"
+  price_gbp = ""
+[[products]]
+  description = "Hedge Trim"
+  price_prx = "130"
+  price_gbp = ""
+[[products]]
+  description = "Big Slabbing Job"
+  price_prx = "300"
+  price_gbp = "300"
+
+
 +++
 
-## Green Fingers
+Jon White and Green Fingers Garden Services have been trading for a long time with a great history
