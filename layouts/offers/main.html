@@ -1,0 +1,23 @@
+
+{{ range where site.Pages "Type" "in" "directory" }}
+    <div class="row">
+        <div class="col-12">
+            <h2>{{ .Params.Name }}</h2>
+        </div>
+        {{ range .Params.products }}
+        <div class="col-md-4 mb-4">
+            <div class="product">
+                <p>{{ .description }}</p>
+                <p>
+                    <img style="height: 1em; position: relative; top: -1px; padding-right: 5px;" src="/images/icons/parity-icon-grey.svg"><strong>{{ .price_prx }}</strong>
+                    {{ if .price_gbp }}
+                    & <strong>£{{ .price_gbp }}</strong>
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+
+        {{ end}}
+    </div>
+    <hr>
+{{ end }}
