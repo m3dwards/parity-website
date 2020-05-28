@@ -14,3 +14,8 @@ logo = "logo.jpg"
 +++
 
 ## 1000 Trades
+
+[[products]] 
+description = "[Takeway Menu](https://1000trades.org.uk/1kt/wp-content/uploads/2020/05/POSH-takeaway-menu-May-onwards.pdf)"
+price_prx = ""
+price_gbp = ""
