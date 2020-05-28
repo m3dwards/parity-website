@@ -13,11 +13,11 @@ username = "1000trades"
 logo = "logo.jpg"
 
 [[products]] 
-description = "Burrito <br/> Flour tortilla filled with cheese, herby rice, re-fried beans, guacamole, salsa & crema espesa w. Carnitas Spiced Pork & Aubergine"
+description = "Burrito <br/> w. Carnitas Spiced Pork & Aubergine"
 price_prx = "9"
 price_gbp = ""
 [[products]]
-description = "Burrito  Flour tortilla filled with cheese, herby rice, re-fried beans, guacamole, salsa & crema espesa w. Slow-cooked Smokey Chipotle Chicken 
+description = "Burrito <br/> w. Slow-cooked Smokey Chipotle Chicken 
 price_prx = "9"
 price_gbp = ""
 
