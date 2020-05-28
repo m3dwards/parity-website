@@ -17,7 +17,7 @@ description = "Burrito <br/> w. Carnitas Spiced Pork & Aubergine"
 price_prx = "9"
 price_gbp = ""
 [[products]]
-description = "Burrito <br/> w. Slow-cooked Smokey Chipotle Chicken 
+description = "Burrito <br/> w. Slow-cooked Smokey Chipotle Chicken" 
 price_prx = "9"
 price_gbp = ""
 
