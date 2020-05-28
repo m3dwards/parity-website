@@ -13,8 +13,12 @@ username = "1000trades"
 logo = "logo.jpg"
 
 [[products]] 
-description = "[Takeway Menu](https://1000trades.org.uk/1kt/wp-content/uploads/2020/05/POSH-takeaway-menu-May-onwards.pdf)"
-price_prx = ""
+description = "Burrito <br/> Flour tortilla filled with cheese, herby rice, re-fried beans, guacamole, salsa & crema espesa w. Carnitas Spiced Pork & Aubergine"
+price_prx = "9"
+price_gbp = ""
+[[products]]
+description = "Burrito  Flour tortilla filled with cheese, herby rice, re-fried beans, guacamole, salsa & crema espesa w. Slow-cooked Smokey Chipotle Chicken 
+price_prx = "9"
 price_gbp = ""
 
 +++
