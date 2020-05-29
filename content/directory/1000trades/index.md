@@ -12,9 +12,10 @@ username = "1000trades"
 
 logo = "logo.jpg"
 
-[[products]] 
-description = "< href="https://1000trades.org.uk/1kt/wp-content/uploads/2020/05/POSH-takeaway-menu-May-onwards.pdf">Takeaway Menu</a>"
-price_prx = ""
-price_gbp = ""
+[[products]]
+  title = "Takeaway food"
+  description = "<a href='https://1000trades.org.uk/1kt/wp-content/uploads/2020/05/POSH-takeaway-menu-May-onwards.pdf'>Takeaway Menu</a>"
+  price_prx = "various"
+  price_gbp = ""
 
 +++

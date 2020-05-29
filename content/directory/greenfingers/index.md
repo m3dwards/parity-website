@@ -14,14 +14,17 @@ username = "greenfingers"
 logo = "logo.jpg"
 
 [[products]]
+  title = "Gardening"
   description = "Garden Tidy up"
   price_prx = "60"
   price_gbp = ""
 [[products]]
+  title = "Gardening"
   description = "Hedge Trim"
   price_prx = "130"
   price_gbp = ""
 [[products]]
+  title = "Gardening"
   description = "Big Slabbing Job"
   price_prx = "300"
   price_gbp = "300"

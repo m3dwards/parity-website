@@ -13,10 +13,10 @@ username = "achut"
 logo = "logo.jpg"
 
 [[products]]
-description = "Standard Removal"
-price_prx = "300"
-price_gbp = ""
+  title = "Office removal"
+  description = "Standard Removal"
+  price_prx = "300"
+  price_gbp = ""
 
 
 +++
-
