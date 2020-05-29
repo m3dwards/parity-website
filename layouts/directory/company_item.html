@@ -45,21 +45,8 @@
         <!-- {{ .Content }} -->
         <h3 class="mt-4">Product and services offered in Parity</h3>
         <div class="row">
-        {{ range .Params.products }}
-            <div class="col-md-4 mb-4">
-                <div class="product">
-                    <h3>{{ .title }}</h3>
-                    <p>{{ .description | markdownify }}</p>
-                    <p>
-                        <img style="height: 1em; position: relative; top: -1px; padding-right: 5px;" src="/images/icons/parity-icon-grey.svg"><strong>{{ .price_prx }}</strong>
-                        {{ if .price_gbp }}
-                            & <strong>£{{ .price_gbp }}</strong>
-                        {{ end }}
-                    </p>
-                </div>
-            </div>
-            <hr/>
-
-        {{ end}}
+            {{ range .Params.products }}
+                {{ partial "product_box" . }}
+            {{ end}}
         </div>
     </article>
