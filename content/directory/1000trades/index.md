@@ -13,8 +13,8 @@ username = "1000trades"
 logo = "logo.jpg"
 
 [[products]]
-  title = "Takeaway food"
-  description = "<a href='https://1000trades.org.uk/1kt/wp-content/uploads/2020/05/POSH-takeaway-menu-May-onwards.pdf'>Takeaway Menu</a>"
+  title = "<a href='https://1000trades.org.uk/1kt/wp-content/uploads/2020/05/POSH-takeaway-menu-May-onwards.pdf'>Takeaway Menu</a>"
+  description = "Available for collection and via Uber Eats, Tuesday to Saturday from 5 to 9pm.  Please phone your order in on 0121 233 2693."
   price_prx = "various"
   price_gbp = ""
 
