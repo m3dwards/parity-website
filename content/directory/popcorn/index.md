@@ -11,6 +11,14 @@ tags = ["Customer Conversion Software", "CRM", "Sales Pipeline", "Email Marketin
 username = "popcorn"
 
 logo = "logo.png" 
+
+[[products]]
+  title = "Premium"
+  description = "For growth businesses that want all their essential Customer Conversion tools in one simple to use platform."
+  price_prx = "49/mo"
+  price_gbp = "VAT"
+  
+  
 +++
 
-## Popcorn
+
