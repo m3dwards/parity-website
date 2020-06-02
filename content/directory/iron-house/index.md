@@ -11,6 +11,13 @@ tags = ["Event Venue", "Conferences", "Meetings", "Workshops"]
 username = "ironhouse"
 
 logo = "logo.jpg"
+
+[[products]]
+  title = "Event Venue"
+  description = "The Gallery Space / The Breakout Area / The Basement"
+  price_prx = "starting from 400"
+  price_gbp = ""
+  
+  
 +++
 
-## Iron House
