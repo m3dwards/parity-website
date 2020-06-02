@@ -13,6 +13,17 @@ username = "telephone_europe"
 draft = false
 logo = "logo.jpg"
 
+[[products]]
+  title = "Hosted Telephone Systems"
+  description = "Cloud Telephony & Hosted Voice Communications for Businesses. Free unlimited calls to UK landline & mobiles. Handset included."
+  price_prx = "from 15/mo"
+  price_gbp = ""
+[[products]]
+  title = "Virtual Phone System"
+  description = ""
+  price_prx = "from 10/mo"
+  price_gbp = ""
+  
+  
 +++
 
-## Telephone Europe
