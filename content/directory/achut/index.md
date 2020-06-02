@@ -13,10 +13,20 @@ username = "achut"
 logo = "logo.jpg"
 
 [[products]]
-  title = "Office removal"
-  description = "Standard Removal"
-  price_prx = "300"
+  title = "Removal Service"
+  description = "Office / House clearance"
+  price_prx = "based on the labour involved, vehicles required and any disposal or recycling charges"
   price_gbp = ""
-
-
+[[products]]
+  title = "Waste Removal" 
+  description = "Commercial waste collection across Birmingham"
+  price_prx = "based on the labour involved, vehicles required and any disposal or recycling charges"
+  price_gbp = ""
+[[products]]
+  title = "Recycling"
+  description = "Furniture / White goods recycling"
+  price_prx = "based on the labour involved, vehicles required and any disposal or recycling charges"
+  price_gbp = ""
+  
+  
 +++
