@@ -11,6 +11,14 @@ tags = ["Public Relations", "Marketing"]
 username = "kinetic"
 
 logo = "logo.jpg"
+
+[[products]]
+  title = "DNA Session"
+  description = "Brand communication strategy"
+  price_prx = "250"
+  price_gbp = "VAT" 
+  
+  
 +++
 
 ## Kinetic PR
