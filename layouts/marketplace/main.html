@@ -1,0 +1,81 @@
+{{ range $index, $element := .Site.Params.marketplace_categories }}
+    <h2>{{ $element }}</h2>
+    <div class="row">
+    {{ range where site.Pages "Type" "in" "directory" }}
+        {{ $product_path := .RelPermalink }}
+
+        {{ range .Params.products }}
+            {{ if (eq .category $element) }}
+                {{ partial "product_box" (dict "context" . "product_path" $product_path) }}
+            {{ end }}
+        {{ end}}
+    {{ end }}
+    </div>
+    {{ if eq $index 1 }}
+        <hr>
+        <div class="row my-5" id="">
+            <div class="col-md-6 text-center my-auto">
+                <div class="marketplace-cta-text text-center d-inline-block">
+                    <h2>Get 0% credit in our local currency</h2>
+
+                    <p>Make purchases without pounds. Free up cash for more important needs </p>
+                </div>
+
+            </div>
+            <div class="col-md-6 text-center pt-4">
+
+                <p><a href="/signup" class="btn btn-dark">Try Parity for Free</a></p>
+
+                <p><a href="/how-it-works">Learn how it works</a></p>
+
+            </div>
+        </div>
+    {{ end }}
+
+    {{ if eq $index 2 }}
+        <hr>
+        <div class="row my-5" id="">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-4 text-center my-auto">
+                <div class="marketplace-cta-text text-center d-inline-block">
+                    <h2>Post offers on our local marketplace</h2>
+
+                    <p>Introductory offers, spare capacity, loss leaders. Use Parity to connect with new customers.</p>
+                </div>
+
+            </div>
+            <div class="col-md-6 text-center pt-4">
+
+                <p class=""><a href="/signup" class="btn btn-dark">Try Parity for Free</a></p>
+
+                <p><a href="/how-it-works">Learn how it works</a></p>
+
+            </div>
+        </div>
+    {{ end }}
+    {{ if eq $index 3 }}
+        <hr>
+        <div class="row my-5" id="">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-4 text-center my-auto">
+                    <h2>Support local business community</h2>
+
+                    <p>Appear on our marketplace and attend free local events</p>
+            </div>
+            <div class="col-md-4 text-center pt-4">
+
+                <p><a href="/signup" class="btn btn-dark">Try Parity for Free</a></p>
+
+                <p><a href="/how-it-works">Learn how it works</a></p>
+
+            </div>
+            <div class="col-md-2">
+            </div>
+        </div>
+    {{ end }}
+    {{ if not (eq $index 3) }}
+        <hr>
+    {{ end }}
+{{ end }}

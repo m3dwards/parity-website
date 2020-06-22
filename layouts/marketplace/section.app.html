@@ -1,0 +1,20 @@
+{{ define "menu" }}
+<!-- I wish to have no menu -->
+{{ end }}
+{{ define "footer" }}
+<!-- I wish to have no footer -->
+{{ end }}
+{{ define "book_demo" }}
+<!-- I wish to have no book demo -->
+{{ end }}
+{{ define "chat" }}
+<!-- I wish to have no chat -->
+{{ end }}
+{{ define "title" }}
+    {{ .Params.name }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+<div class="container mt-5">
+    {{ .Render "main" }}
+</div>
+{{ end }}

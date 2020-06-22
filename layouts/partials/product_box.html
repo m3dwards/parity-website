@@ -1,12 +1,23 @@
 <div class="col-md-4 mb-4">
-    <div class="product">
-        <h4 class="mb-3">{{ .title }}</h4>
-        <p>{{ .description | markdownify }}</p>
-        <p>
-            <img style="height: 1em; position: relative; top: -1px; padding-right: 5px;" src="/images/icons/parity-icon-grey.svg"><strong>{{ .price_prx }}</strong>
-            {{ if .price_gbp }}
-            & <strong>£{{ .price_gbp }}</strong>
+    <div class="product box" style="">
+        <div class="product-image" style="height: 130px;">
+            {{ $image_path := "/images/product-placeholder.jpg" }}
+            {{ if .context.image }}
+                {{ $image_path = "" }}
+                {{ $image_path = delimit (slice .product_path .context.image) "" }}
             {{ end }}
-        </p>
+            <img class="" style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%;" src="{{ $image_path }}">
+        </div>
+        <div class="" style="padding: 10px;">
+            <h4 class="mb-1">{{ .context.title }}</h4>
+            <p class="mb-3">{{ .context.title }}</p>
+            <p style="height: 4.5rem; overflow: hidden" class="">{{ .context.description | markdownify }}</p>
+            <p>
+                <img style="height: 1em; position: relative; top: -1px; padding-right: 5px;" src="/images/icons/parity-icon-grey.svg"><strong>{{ .context.price_prx }}</strong>
+                {{ if .context.price_gbp }}
+                & <strong>£{{ .context.price_gbp }}</strong>
+                {{ end }}
+            </p>
+        </div>
     </div>
 </div>

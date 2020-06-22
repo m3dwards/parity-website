@@ -1,7 +1,10 @@
 baseURL = "https://parity.uk"
 languageCode = "en-gb"
 title = "Parity Network"
-archive-paginate = 10
+[params]
+  archive-paginate = 10
+  marketplace_categories = ["Business Services", "Business Tools", "Premises & Office", "Food & Beverage"]
+
 [taxonomies]
   category = "categories"
 
@@ -30,7 +33,6 @@ archive-paginate = 10
     name = "Contact"
     url = "/contact/"
     weight = 6
-
 
 [outputFormats]
   [outputFormats.AppFormat]

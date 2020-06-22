@@ -45,8 +45,10 @@
         <!-- {{ .Content }} -->
         <h3 class="mt-4">Product and services offered in Parity</h3>
         <div class="row">
+            {{ $product_path := .RelPermalink }}
+
             {{ range .Params.products }}
-                {{ partial "product_box" . }}
+                {{ partial "product_box" (dict "context" . "product_path" $product_path) }}
             {{ end}}
         </div>
     </article>

@@ -5,8 +5,10 @@
         <div class="col-12">
             <h2>{{ .Params.Name }}</h2>
         </div>
+        {{ $product_path := .RelPermalink }}
+
         {{ range .Params.products }}
-            {{ partial "product_box" . }}
+            {{ partial "product_box" (dict "context" . "product_path" $product_path) }}
         {{ end}}
     </div>
     <hr>

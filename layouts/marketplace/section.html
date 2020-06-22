@@ -1,0 +1,63 @@
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "book_demo" }}
+    <!-- I wish to have no book demo -->
+{{ end }}
+{{ define "main" }}
+<div id="marketplace">
+    <div id="feature">
+    </div>
+    <div class="container">
+
+        <div class="row justify-content-end">
+            <div id="feature-box" class="mt-md-5 p-4 col-md-7 col-lg-5">
+                <h1>It’s easy to do more business with our local marketplace</h1>
+
+                <h3 class="" style="">Make purchases with 0% credit. Sell to repay or receive income for expenses.</h3>
+
+                <p><a href="/how-it-works">Learn how it works</a></p>
+
+                <p><a href="/signup" class="btn btn-dark">Try Parity for Free</a></p>
+
+            </div>
+        </div>
+
+        <div class="row my-5" id="available-on-phone">
+            <div class="col-md-6 text-center my-auto">
+                <h2>Accessible on our mobile application</h2>
+
+                <p>Parity is a local digital currencyBuy everything your business needs without using pounds. Sell introductory offers or spare capacity and meet new customers.
+                </p>
+
+                <img class="app-store-image" src="/images/GooglePlayStore.jpg" alt="Logo of Google app store" />
+                <img class="app-store-image" src="/images/AppleAppStore.jpg" alt="Logo of Apple app stores" />
+
+            </div>
+            <div class="col-md-6 text-center">
+                <img src="/images/devices.jpg" alt="Photo of mobile devices with the Parity app running on them" />
+            </div>
+        </div>
+
+        <hr>
+
+        {{ .Render "main" }}
+
+        <hr>
+
+        <div class="row my-5" id="marketplace-directory">
+            <div class="col-md-6 text-center my-auto">
+                <h2>Do business with local independent businesses like you</h2>
+
+                <p>Join our community and build your local connections. </p>
+
+                <p class=""><a href="/directory" class="btn btn-dark">See our directory</a></p>
+
+            </div>
+            <div class="col-md-6 text-center">
+                <a href="/directory"><img src="/images/directory_map.jpg" alt="Picture of a map with members marked with pins" /></a>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

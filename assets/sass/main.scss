@@ -30,7 +30,9 @@ h1,h2,h3,h4,h5,h6 {
     margin-bottom: 2rem;
 }
 h1,h2 {font-weight: 700; font-family: 'Lora', serif;}
-img.shadow, img[src*='#shadow'] { filter: drop-shadow(5px 5px 5px #666666); }
+img.shadow, img[src*='#shadow'], { filter: drop-shadow(5px 5px 5px #666666); }
+
+.app-store-image{ height: 60px; }
 
 .narrow { font-family: 'PT Sans Narrow',sans-serif; }
 .nav-link { display: inline-block; }
@@ -140,6 +142,55 @@ img[src*='#left'] {float: left; padding: 10px;}
     }
 }
 
+#marketplace {
+    #feature {
+        background-image: url("/images/marketplace-header.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        background-position: left top;
+        /* margin-bottom: 3em; */
+        min-height: 160px;
+        -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1) 2.5%);
+        mask-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 1) 2.5%);
+    };
+
+    @media (min-width: 768px) {
+        #feature {
+            background-position: left top;
+            /* margin-bottom: 4em; */
+            height: 450px;
+        };
+        #feature-box {
+            margin-top: -400px !important;
+            text-align: left;
+        }
+    }
+
+    @media (min-width: 992px) {
+        #feature-box {
+            /* margin-top: -600px !important; */
+            /* margin-bottom: 9em !important; */
+            /* margin-top: -250px !important; */
+        };
+    }
+
+    #feature-box {
+        h2,h3,h4 {color: $primary-color;}
+        background-color: rgba(255, 255, 255, 0.9);
+        text-align: center;
+        /* margin-bottom: 4em; */
+    }
+
+    #available-on-phone, #marketplace-directory {
+        img { max-width: 95%; }
+    }
+
+    .marketplace-cta-text {
+        max-width: 400px;
+    }
+
+}
+
 .main-page {
     #feature {
         background-image: url("/images/how-it-works-header.jpg");
@@ -245,10 +296,10 @@ img[src*='#left'] {float: left; padding: 10px;}
 }
 
 .product {
-    border-radius: 2px;
-    border-width: 2px;
+    /* border-radius: 2px; */
+    border-width: 2px 2px 2px 2p;
     border-style: solid;
     border-color: $main-pink;
-    padding: 10px;
+    /* padding: 10px; */
 
 }
