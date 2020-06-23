@@ -1,0 +1,143 @@
+{{ define "title" }}
+{{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "book_demo" }}
+    <!-- I wish to have no book demo -->
+{{ end }}
+{{ define "main" }}
+<div id="sign-up">
+    <div id="feature">
+    </div>
+    <div class="container">
+
+        <div class="row justify-content-end">
+            <div id="feature-box" class="mt-md-5 p-4 col-md-9 col-lg-7 col-xl-6">
+                <h2 class="pink">More local customers and 0% credit for business expenses</h2>
+
+                <h3 class="" style="">Free forever. Open an account today.</h3>
+
+                <form id="book-demo-form" class="" name="book-demo" netlify>
+                    <div class="form-group">
+                        <!-- <label for="name" class="">Name:</label><br> -->
+                        <input type="text" class="form-control mb-2" name="name" placeholder="name" id="name">
+                    </div>
+                    <div class="form-group">
+                        <!-- <label for="company" class="">Company:</label><br> -->
+                        <input type="text" class="form-control mb-2" name="company" placeholder="Company" id="company">
+                    </div>
+                    <div class="form-group">
+                        <!-- <label for="email" class="">Email address:</label><br> -->
+                        <input type="email" class="form-control mb-2" name="email" placeholder="email" id="email">
+                    </div>
+                    <p><button type="submit" class="btn btn-dark">Join Us</button></p>
+                </form>
+
+                <p><a href="/how-it-works">Learn how it works</a></p>
+
+            </div>
+        </div>
+
+        <div class="row my-5">
+            <div class="col text-center">
+                <h2>Get started in three simple steps</h2>
+            </div>
+        </div>
+
+        <div class="row h-100 mb-5 three-things">
+            <div class="col-md mx-auto text-center d-flex flex-column mb-5 mb-md-0">
+                <!-- <img src="/images/homepage/grow.jpg" class="mx-auto" alt="0% Credit" /> -->
+                <h1>1.</h1>
+                <h3 class="my-3">Create a free profile</h3>
+                <p class="">There’s no fee to join. Post details about your business and receive a 0% credit facility in Parity.</p>
+            </div>
+            <div class="col-md mx-auto text-center d-flex flex-column mb-5 mb-md-0">
+                <!-- <img src="/images/homepage/pay.jpg" class="mx-auto" alt="Sell Spare Capacity" /> -->
+                <h1>2.</h1>
+                <h3 class="my-3">List offers</h3>
+                <p class="">Post offers on the marketplace. Test it out with loss leaders or introductory offers.</p>
+            </div>
+            <div class="col-md mx-auto text-center d-flex flex-column">
+                <!-- <img src="/images/homepage/trusted_relationships.jpg" class="mx-auto" alt="Connect with independent businesses" /> -->
+                <h1>3.</h1>
+                <h3 class="my-3">Purchase expenses</h3>
+                <p class="">Make purchases in the marketplace with the income from sales or your 0% credit facility</p>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row my-5">
+            <div class="col text-center">
+                <h2>How pricing works</h2>
+            </div>
+        </div>
+
+        <div class="row my-5" id="">
+            <div class="col-md-6 text-center my-auto">
+                <h3>Start with Free Account:</h3>
+                <p>✅ Free forever, no hidden fees</p>
+                <p>✅ Up to £500 worth of 0% credit</p>
+                <p>✅ See how it works for you</p>
+
+            </div>
+            <div class="col-md-6 text-center">
+                <h3>Optional upgrade to Basic Account:</h3>
+                <p>✅ £35+VAT per/month</p>
+                <p>✅ Up to £5000 worth of 0% credit</p>
+                <p>✅ Sales and marketing support</p>
+            </div>
+            <div class="col text-center">
+                <p>More information on our <a href="/pricing">Pricing</a></p>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row my-5">
+            <div class="col text-center">
+                <h2>Want to learn more?</h2>
+            </div>
+        </div>
+
+        <div class="row my-5" id="">
+            <div class="col-md-6 text-center my-auto">
+                <p><strong>Why should I accept the local currency?</strong><br>
+                    You sell more without extra costs and generate income for future business expenses.
+                </p>
+                <p><strong>Do I have to buy the currency before using it?</strong><br>
+                    No, it’s not like Bitcoin. You receive a 0% credit facility which increases the liquidity available to your business.
+                </p>
+            </div>
+            <div class="col-md-6 text-center">
+                <p><strong>What if I don’t repay the credit facility?</strong><br>
+                    As long as you are a member, there are not penalties for using credit. If you leave,  you will need to settle the balance.
+                </p>
+                <p><strong>Can I withdraw the credit from the marketplace?</strong><br>
+                    No, the 0% credit is only available in the marketplace. We work with you to find suppliers that your business needs.
+                </p>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row m-5">
+            <div class="col text-center">
+                <h2>Still have questions?</h2>
+                <p>Use our live chat, watch our short webinar or book a no obligation demo for a tailored discussion about your business.</p>
+                <p><button type="submit" class="btn btn-dark">Book Online Demo</button></p>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row m-5">
+            <div class="col text-center">
+                <h4>Sign up online or download the mobile application to begin</h4>
+                <img class="app-store-image" src="/images/GooglePlayStore.jpg" alt="Logo of Google app store" />
+                <img class="app-store-image" src="/images/AppleAppStore.jpg" alt="Logo of Apple app stores" />
+            </div>
+        </div>
+
+    </div>
+</div>
+{{ end }}
