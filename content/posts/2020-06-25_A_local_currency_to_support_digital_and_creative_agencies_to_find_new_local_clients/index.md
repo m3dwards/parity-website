@@ -1,5 +1,5 @@
 +++
-title = "A local currency to support digital and creative agencies to find new local clients"
+title = "A local currency to support digital and creative agencies to find new clients"
 description = "Digital and creative businesses in the Jewellery Quarter are using Parity to connect to new customers and increase their revenue"
 date = "2020-06-25"
 categories = ["Business Development"]
