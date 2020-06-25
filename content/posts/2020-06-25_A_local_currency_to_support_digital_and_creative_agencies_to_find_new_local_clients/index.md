@@ -11,7 +11,7 @@ social_image = "local-currency-digital-agencies.jpg"
 social_image_alt_text = "Meet new clients and increase sales with a local currency"
 +++
 
-![Increase Footfall Local Currency](increase-footfall-local-currency.jpg)
+![Meet new clients with a local currency](local-currency-digital-agencies.jpg)
 
 ## A local currency to support digital and creative agencies to find new local clients
 
