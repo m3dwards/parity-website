@@ -7,8 +7,8 @@ tags = []
 author = "Stuart Bowles"
 draft = false
 # 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
-social_image = "increase-footfall-local-currency.jpg"
-social_image_alt_text = "Increase footfall and increase sales with a local currency"
+social_image = "local-currency-digital-agencies.jpg"
+social_image_alt_text = "Meet new clients and increase sales with a local currency"
 +++
 
 ![Increase Footfall Local Currency](increase-footfall-local-currency.jpg)
