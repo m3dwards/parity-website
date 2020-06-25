@@ -11,7 +11,7 @@ social_image = "increase footfall local currency.jpeg"
 social_image_alt_text = "Increase footfall and increase sales with a local currency"
 +++
 
-![Increase Footfall Local Currency](increase footfall local currency.jpg)
+![Increase Footfall Local Currency](increase-footfall-local-currency.jpg)
 
 ## A local currency to increase footfall for Birmingham restaurants and bars
 
