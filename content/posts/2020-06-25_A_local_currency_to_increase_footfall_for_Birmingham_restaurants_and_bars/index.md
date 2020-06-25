@@ -7,11 +7,11 @@ tags = []
 author = "Stuart Bowles"
 draft = false
 # 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
-social_image = ""
+social_image = "increase footfall local currency.jpeg"
 social_image_alt_text = "Increase footfall and increase sales with a local currency"
 +++
 
-![Parity Four Local Firms](parity-four-local-firms.jpg)
+![Increase Footfall Local Currency](increase footfall local currency.jpg)
 
 ## A local currency to increase footfall for Birmingham restaurants and bars
 
