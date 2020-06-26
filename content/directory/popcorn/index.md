@@ -43,7 +43,7 @@ logo = "logo.png"
   image = "popcorn-services.jpeg"
 [[products]]
   title = "Sales Training"
-  description = "Free sales training course with Andy Bounds (top Uk Sales Trainer)"
+  description = "Free sales training course with Andy Bounds (top UK Sales Trainer)"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Tools"
