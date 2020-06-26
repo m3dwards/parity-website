@@ -14,7 +14,7 @@ logo = "logo.jpg"
 
 [[products]]
   title = "DNA Session"
-  description = "Brand communication strategy"
+  description = "Brand Communication Strategy"
   price_prx = "250"
   price_gbp = "VAT" 
   
