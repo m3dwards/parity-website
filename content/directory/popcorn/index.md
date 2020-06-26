@@ -12,19 +12,28 @@ username = "popcorn"
 
 logo = "logo.png" 
 
+
 [[products]]
-  title = ""
-  description = "For growth businesses that want all their essential Customer Conversion tools in one simple to use platform."
-  price_prx = "49/mo"
-  price_gbp = "VAT"
-[[products]]
-  title = "Essential"
+  title = "Essential Package"
   description = "Really simple to use CRM and sales pipelines that help you win more sales"
   price_prx = "5/mo"
   price_gbp = "VAT"
   category = "Business Tools"
   image = ""
-  
+[[products]]
+  title = "Premium Package"
+  description = "Really simple to use Customer Conversion Software that tells you when you customers are ready to buy - CRM, Email Marketing, Sales Pipelines, Website tracking and much more"
+  price_prx = "24.50"
+  price_gbp = "24.50"
+  category = "Business Tools"
+  image = ""
+[[products]]
+  title = "Set Up Package" 
+  description = "Bespoke email marketing template design to mirror your company branding and marketing needs"
+  price_prx = "250.00"
+  price_gbp = "VAT" 
+  category = "Business Tools"
+  image = "popcorn-services.jpeg"
   
 +++
 
