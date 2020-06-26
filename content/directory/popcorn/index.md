@@ -34,6 +34,20 @@ logo = "logo.png"
   price_gbp = "VAT" 
   category = "Business Tools"
   image = "popcorn-services.jpeg"
+[[products]]
+  title = "Email Marketing Training"
+  description = "Free training course on how to build a Qualified Sales Pipeline using Email marketing and CRM"
+  price_prx = "FREE"
+  price_GBP = ""
+  category = "Business Tools"
+  image = "popcorn-services.jpeg"
+[[products]]
+  title = "Sales Training"
+  description = "Free sales training course with Andy Bounds (top Uk Sales Trainer)"
+  price_prx = "FREE"
+  price_gbp = ""
+  category = "Business Tools"
+  image = "sales-training.jpeg"
   
 +++
 
