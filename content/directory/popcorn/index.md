@@ -13,10 +13,17 @@ username = "popcorn"
 logo = "logo.png" 
 
 [[products]]
-  title = "Premium"
+  title = ""
   description = "For growth businesses that want all their essential Customer Conversion tools in one simple to use platform."
   price_prx = "49/mo"
   price_gbp = "VAT"
+[[products]]
+  title = "Essential"
+  description = "Really simple to use CRM and sales pipelines that help you win more sales"
+  price_prx = "5/mo"
+  price_gbp = "VAT"
+  category = "Business Tools"
+  image = ""
   
   
 +++
