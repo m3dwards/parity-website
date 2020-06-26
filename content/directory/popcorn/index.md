@@ -15,39 +15,39 @@ logo = "logo.png"
 
 [[products]]
   title = "Essential Package"
-  description = "Really simple to use CRM and sales pipelines that help you win more sales"
+  description = "Really simple to use CRM and sales pipelines that help you win more sales."
   price_prx = "5.00 /mo"
   price_gbp = ""
   category = "Business Tools"
   image = "essential-package.jpeg"
 [[products]]
   title = "Premium Package"
-  description = "Really simple to use Customer Conversion Software that tells you when you customers are ready to buy - CRM, Email Marketing, Sales Pipelines, Website tracking and much more"
+  description = "Really simple to use Customer Conversion Software that tells you when you customers are ready to buy. See [details](https://www.popcorn.email/customer-support/resources/price-plans/)."
   price_prx = "24.50 /mo"
   price_gbp = "24.50 /mo"
   category = "Business Tools"
   image = "premium-package.jpeg"
 [[products]]
   title = "Set Up Package" 
-  description = "Bespoke email marketing template design to mirror your company branding and marketing needs"
+  description = "Bespoke email marketing template design to mirror your company branding and marketing needs."
   price_prx = "250.00"
   price_gbp = "" 
   category = "Business Tools"
   image = "popcorn-services.jpeg"
 [[products]]
   title = "Email Marketing Training"
-  description = "Free training course on how to build a qualified sales pipeline using email marketing and CRM. Course [link](https://www.popcorn.email/customer-support/email-marketing-services/training-getting-ready-for-growth/)"
+  description = "Free training course on how to build a qualified sales pipeline using email marketing and CRM. Course [link](https://www.popcorn.email/customer-support/email-marketing-services/training-getting-ready-for-growth/)."
   price_prx = "FREE"
   price_GBP = ""
   category = "Business Tools"
-  image = "popcorn-services.jpeg"
+  image = "marketing-course.jpeg"
 [[products]]
   title = "Sales Training"
-  description = "Free sales training course with Andy Bounds (top UK Sales Trainer) on using email and CRM to drive sales. Course [link](https://www.popcorn.email/andy-bounds-bte-overview/)"
+  description = "Free sales training course with Andy Bounds (top UK Sales Trainer) on using email and CRM to drive sales. Course [link](https://www.popcorn.email/andy-bounds-bte-overview/)."
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Tools"
-  image = "sales-training.jpeg"
+  image = "sales-course.jpeg"
   
 +++
 
