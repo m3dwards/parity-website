@@ -5,7 +5,7 @@ date = "2020-06-25"
 categories = ["Business Development"]
 tags = []
 author = "Stuart Bowles"
-draft = false
+draft = true
 # 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
 social_image = "professional-services-birmingham-meet-clients.jpg"
 social_image_alt_text = "New clients professional services"
