@@ -13,12 +13,35 @@ username = "kinetic"
 logo = "logo.jpg"
 
 [[products]]
-  title = "DNA Session"
-  description = "Brand Communication Strategy"
+  title = "PR Starter Pack"
+  description = "Get guaranteed results from your marketing efforts. Know how you can stand out and have a PR plan. See [packages](https://kineticpr.co.uk/packages/kickstarter/)."
   price_prx = "250"
-  price_gbp = "VAT" 
-  
-  
+  price_gbp = ""
+  category = "Business Services"
+  image = "asset-kinetic.jpeg"
+[[products]]
+  title = "Blogs & Social Media"
+  description = "6 month programme: blogs and social media x 3 (eg Twitter, Facebook, LinkedIn)."
+  price_prx = "250 /mo"
+  price_gbp = ""
+  category = "Business Services"
+  image = "asset-kineticPR.jpeg"
+[[products]]
+  title = "Case Studies"
+  description = "Your best work bringing you business. Series of case studies helping you stand out and pull in prospects."
+  price_prx = "starting 250 - 50%"
+  price_gbp = "starting 250 - 50%"
+  category = "Business Services"
+  image = "logo.jpg"
+[[products]]
+  title = "Is your company worth free editorial?"
+  description = "Free seminar to see if you’re getting your fair share of editorial. Join us for a 30 minute Zoom/Facebook live tour of what editors want."
+  price_prx = "FREE"
+  price_gbp = ""
+  category = "Business Services"
+  image = ""
+
+
 +++
 
 ## Kinetic PR
