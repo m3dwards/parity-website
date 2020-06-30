@@ -29,8 +29,8 @@ logo = "logo.jpg"
 [[products]]
   title = "Case Studies"
   description = "Your best work bringing you business. Series of case studies helping you stand out and pull in prospects."
-  price_prx = "starting 250 - 50%"
-  price_gbp = "starting 250 - 50%"
+  price_prx = "starting 250"
+  price_gbp = "starting 250"
   category = "Business Services"
   image = "logo.jpg"
 [[products]]
