@@ -27,7 +27,7 @@ logo = "logo.jpg"
   category = "Business Services"
   image = "iron-house-2.jpg"
 [[products]]
-  title = "Venue Hire"
+  title = "Venue Hire - The Basement"
   description = "The [Basement](https://iron-house.co.uk/screening-room-hire/) is a 40m2 space that is ideal as a project space and has been previously used for a video installation with amazing effect."
   price_prx = "400 (starting price)"
   price_gbp = ""
