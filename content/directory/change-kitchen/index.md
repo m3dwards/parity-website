@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 name = "Change Kitchen CIC"
 latitude = 52.4288121
 longitude = -1.9229198
@@ -10,6 +10,7 @@ website = "https://www.changekitchen.co.uk/"
 email = "birgit.kehrer@changekitchen.co.uk"
 tags = ["Event Catering", "Corporate Away Days", "Wedding Catering", "Pop Up Restaurant"]
 username = "change_kitchen"
+location "Stirchley"
 
 logo = "logo.jpg"
 
