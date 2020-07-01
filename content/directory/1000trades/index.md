@@ -9,6 +9,7 @@ website = "https://1000trades.org.uk"
 email = "info@1000trades.org.uk"
 tags = ["Event Space", "Pub/Bar", "Restaurant"]
 username = "1000trades"
+location = "Jewellery Quarter"
 
 logo = "logo.jpg"
 
