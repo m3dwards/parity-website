@@ -3,10 +3,11 @@
     <div class="row">
     {{ range where site.Pages "Type" "in" "directory" }}
         {{ $product_path := .RelPermalink }}
+        {{ $company_name := .Params.Name }}
 
         {{ range .Params.products }}
             {{ if (eq .category $element) }}
-                {{ partial "product_box" (dict "context" . "product_path" $product_path) }}
+                {{ partial "product_box" (dict "context" . "product_path" $product_path "company_name" $company_name) }}
             {{ end }}
         {{ end}}
     {{ end }}

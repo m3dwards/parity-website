@@ -6,9 +6,10 @@
             <h2>{{ .Params.Name }}</h2>
         </div>
         {{ $product_path := .RelPermalink }}
+        {{ $company_name := .Params.Name }}
 
         {{ range .Params.products }}
-            {{ partial "product_box" (dict "context" . "product_path" $product_path) }}
+            {{ partial "product_box" (dict "context" . "product_path" $product_path "company_name" $company_name) }}
         {{ end}}
     </div>
     <hr>
