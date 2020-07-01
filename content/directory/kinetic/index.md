@@ -35,7 +35,7 @@ logo = "logo.jpg"
   image = "logo.jpg"
 [[products]]
   title = "Is your company worth free editorial?"
-  description = "Free seminar to see if you’re getting your fair share of editorial. Join us for a 30 minute Zoom/Facebook live tour of what editors want."
+  description = "Free seminar to see if you’re getting your fair share of editorial. Join us for a 30 minute videocall to discuss what editors want."
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
