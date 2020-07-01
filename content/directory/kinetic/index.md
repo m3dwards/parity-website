@@ -20,7 +20,7 @@ logo = "logo.jpg"
   category = "Business Services"
   image = "kineticpr-min.jpg"
 [[products]]
-  title = "Blogs & Social Media"
+  title = "Blogs & Social Media Support"
   description = "Six month programme including blogs and promotion over three social media platforms; e.g. Twitter, Facebook, LinkedIn."
   price_prx = "250 /mo"
   price_gbp = ""
