@@ -32,7 +32,7 @@ logo = "logo.jpg"
   price_prx = "400 (starting price)"
   price_gbp = ""
   category = "Business Services"
-  image = "iron-house-3.jpg"
+  image = "ironhouse-basement-min.jpg"
   
 +++
 
