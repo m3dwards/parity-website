@@ -1,5 +1,6 @@
 {{ range $index, $element := .Site.Params.marketplace_categories }}
     <h2>{{ $element }}</h2>
+    <p><small><em>All prices on our marketplace are exclusive of VAT of which you should expect to pay completely in GBP</em></small></p>
     <div class="row">
     {{ range where site.Pages "Type" "in" "directory" }}
         {{ $product_path := .RelPermalink }}
