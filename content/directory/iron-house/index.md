@@ -28,7 +28,7 @@ logo = "logo.jpg"
   image = "iron-house-3.jpg"
 [[products]]
   title = "Venue Hire"
-  description = "The [Basement](https://iron-house.co.uk/screening-room-hire/) is designed to comfortably accommodate up to 15 people and has everything you need. Along with all the seating, table space, and sofas there is a 50” TV with all cabling and adapters."
+  description = "The [Basement](https://iron-house.co.uk/screening-room-hire/) is a 40m2 space that is ideal as a project space and has been previously used for a video installation with amazing effect."
   price_prx = "400 (starting price)"
   price_gbp = ""
   category = "Business Services"
