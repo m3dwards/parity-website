@@ -21,7 +21,7 @@ logo = "logo.jpg"
   image = "iron-house-1.jpg"
 [[products]]
   title = "Venue Hire - Breakout Area"
-  description = "The [Breakout Space](https://iron-house.co.uk/meeting-space-hire/) is designed to comfortably accommodate up to 15 people as part of your event, or as a separate hire."
+  description = "The [Breakout Space](https://iron-house.co.uk/meeting-space-hire/) is designed to comfortably accommodate up to 15 people as part of your event or as a separate hire."
   price_prx = "400 (starting price)"
   price_gbp = ""
   category = "Business Services"
