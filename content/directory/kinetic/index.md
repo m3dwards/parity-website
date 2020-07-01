@@ -21,7 +21,7 @@ logo = "logo.jpg"
   image = "kineticpr-min.jpg"
 [[products]]
   title = "Blogs & Social Media"
-  description = "6 month programme including blogs and promotion over three social media platforms; e.g. Twitter, Facebook, LinkedIn."
+  description = "Six month programme including blogs and promotion over three social media platforms; e.g. Twitter, Facebook, LinkedIn."
   price_prx = "250 /mo"
   price_gbp = ""
   category = "Business Services"
