@@ -39,7 +39,7 @@ logo = "logo.jpg"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
-  image = "editorial-pr.jpeg"
+  image = "editorial.jpeg"
 
 
 +++
