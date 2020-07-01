@@ -38,8 +38,8 @@ logo = "logo.jpg"
   description = "Free seminar to see if you’re getting your fair share of editorial. Join us for a 30 minute Zoom/Facebook live tour of what editors want."
   price_prx = "FREE"
   price_gbp = ""
-  category = "logo.jpg"
-  image = ""
+  category = "Business Services"
+  image = "logo.jpg"
 
 
 +++
