@@ -14,7 +14,7 @@ logo = "logo.jpg"
 
 [[products]]
   title = "Venue Hire - The Gallery Space"
-  description = "The [Gallery Space](https://iron-house.co.uk/exhibition-gallery-space/) has a ground floor space of 3,600 sq. ft, fully air conditioned with disabled access and parking opposite for 200 cars."
+  description = "The [Gallery Space](https://iron-house.co.uk/exhibition-gallery-space/) has a floor space of 3600 sq. ft, is fully air conditioned with disabled access and parking for 200 cars."
   price_prx = "400 (starting price)"
   price_gbp = ""
   category = "Business Services"
