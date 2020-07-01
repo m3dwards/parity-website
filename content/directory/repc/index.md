@@ -11,13 +11,14 @@ email = "info@repcltd.co.uk"
 tags = ["Computers", "Data Wiping", "IT Equipment", "IT/Phone Repair"]
 username = "repc"
 location = "West Bromwich"
+
 logo = "logo.jpg"
 
 [[products]]
   title = "Computer Diagnostic"
   description = "If your computer is running slow or has a fault we will perform a full computer diagnostic to help you understand why."
   price_prx = "15"
-  price_gbp =
+  price_gbp = ""
   category = "Premises & Office"
   image = "logo.jpg"
 [[products]]
@@ -29,9 +30,9 @@ logo = "logo.jpg"
   image = "logo.jpg"
 [[products]]
   title = "IT Equipment Collection and Disposal"
-  description = "Colelction. Data wiping / destruction. Reporting & Certification. Recycling.
+  description = "Colelction. Data wiping / destruction. Reporting & Certification. Recycling."
   price_prx = "50"
-  price_gbp =
+  price_gbp = ""
   category = "Premises & Office"
   image = "logo.jpg"
 [[products]]
