@@ -10,6 +10,7 @@ website = "https://greenfingerswm.com"
 email = "jonwhitegardens@gmail.com"
 tags = ["Gardening", "Hedge Cutting", "Weed Control", "Landscaping"]
 username = "greenfingers"
+location = "Walsall"
 
 logo = "logo.jpg"
 
@@ -18,16 +19,22 @@ logo = "logo.jpg"
   description = "Garden Tidy up"
   price_prx = "60"
   price_gbp = ""
+  category = "Premises & Office"
+  image = ""
 [[products]]
   title = "Gardening"
   description = "Hedge Trim"
   price_prx = "130"
   price_gbp = ""
+  category = "Premises & Office"
+  image = ""
 [[products]]
   title = "Gardening"
   description = "Big Slabbing Job"
   price_prx = "300"
   price_gbp = "300"
+  category = "Premises & Office"
+  image = ""
 
 
 +++
