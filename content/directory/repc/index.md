@@ -30,7 +30,7 @@ logo = "logo.jpg"
   image = "logo.jpg"
 [[products]]
   title = "IT Equipment Collection and Disposal"
-  description = "Colelction. Data wiping / destruction. Reporting & Certification. Recycling."
+  description = "Collection. Data wiping / destruction. Reporting & Certification. Recycling."
   price_prx = "50"
   price_gbp = ""
   category = "Premises & Office"
