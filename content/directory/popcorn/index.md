@@ -9,6 +9,7 @@ website = "https://www.popcorn.email/"
 email = "support@popcornmail.co.uk" 
 tags = ["Customer Conversion Software", "CRM", "Sales Pipeline", "Email Marketing", "Web Tracking", "Landing Pages", "Sales Prospecting"] 
 username = "popcorn"
+location = "Central Birmingham"
 
 logo = "logo.png" 
 
