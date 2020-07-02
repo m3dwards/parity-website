@@ -2,17 +2,27 @@
     <h2>{{ $element }}</h2>
     <p><small><em>All prices on our marketplace are exclusive of VAT of which you should expect to pay completely in GBP</em></small></p>
     <div class="row">
-    {{ range where site.Pages "Type" "in" "directory" }}
-        {{ $product_path := .RelPermalink }}
-        {{ $company_name := .Params.Name }}
-        {{ $location := .Params.location }}
+        {{ $products := slice }}
 
-        {{ range .Params.products }}
-            {{ if (eq .category $element) }}
-                {{ partial "product_box" (dict "context" . "product_path" $product_path "company_name" $company_name "location" $location) }}
-            {{ end }}
-        {{ end}}
-    {{ end }}
+        {{ range where site.Pages "Type" "in" "directory" }}
+            {{ $product_path := .RelPermalink }}
+            {{ $company_name := .Params.Name }}
+            {{ $location := .Params.location }}
+
+            {{ range .Params.products }}
+                {{ if (eq .category $element) }}
+
+                    {{ $products = $products | append (dict "context" . "product_path" $product_path "company_name" $company_name "location" $location)}}
+                {{ end }}
+            {{ end}}
+        {{ end }}
+
+        {{ $products = shuffle $products }}
+
+        {{ range $p_index, $product := $products }}
+            {{ partial "product_box" $product }}
+        {{ end }}
+
     </div>
     {{ if eq $index 1 }}
         <hr>
