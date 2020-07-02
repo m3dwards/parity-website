@@ -9,6 +9,7 @@ website = "https://iron-house.co.uk/"
 email = "jack@iron-house.co.uk"
 tags = ["Event Venue", "Conferences", "Meetings", "Workshops"]
 username = "ironhouse"
+location = "Jewellery Quarter"
 
 logo = "logo.jpg"
 
