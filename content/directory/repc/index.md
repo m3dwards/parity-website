@@ -34,7 +34,7 @@ logo = "logo.jpg"
   price_prx = "50"
   price_gbp = ""
   category = "Premises & Office"
-  image = "logo.jpg"
+  image = "collection.jpg"
 [[products]]
   title = "IT Equipment Upgrade"
   description = "Increase speed and performance - Upgrade hard drive to a solid state drive. Increase memory. Upgrade Windows 7 to Windows 10. Data maintenance."
