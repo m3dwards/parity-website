@@ -20,7 +20,7 @@
         {{ $products = shuffle $products }}
 
         {{ range $p_index, $product := $products }}
-            {{ partial "product_box" $product }}
+                {{ partial "product_box" $product }}
         {{ end }}
 
     </div>
