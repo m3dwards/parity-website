@@ -9,6 +9,7 @@ website = "https://kineticpr.co.uk/"
 email = "spark@kineticpr.co.uk"
 tags = ["Public Relations", "Marketing"]
 username = "kinetic"
+location = "Jewellery Quarter"
 
 logo = "logo.jpg"
 
