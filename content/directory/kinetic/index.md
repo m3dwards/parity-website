@@ -13,7 +13,7 @@ username = "kinetic"
 logo = "logo.jpg"
 
 [[products]]
-  title = "PR Starter Pack"
+  title = "Public Relations Starter Pack"
   description = "Get guaranteed results from your marketing efforts. Know how you can stand out and have a PR plan. See [packages](https://kineticpr.co.uk/packages/kickstarter/)."
   price_prx = "250"
   price_gbp = ""
