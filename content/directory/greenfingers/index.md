@@ -35,6 +35,13 @@ logo = "logo.jpg"
   price_gbp = "300"
   category = "Premises & Office"
   image = "slabbing.jpg"
+[[products]]
+  title = "Gardening"
+  description = "Grass cutting"
+  price_prx = "10 /ph"
+  price_gbp = "10 /ph"
+  category = "Premises & Office"
+  image = "gardening.jpg"
 
 
 +++
