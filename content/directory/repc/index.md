@@ -41,7 +41,7 @@ logo = "logo.jpg"
   price_prx = "45"
   price_gbp = "parts if required"
   category = "Premises & Office"
-  image = "logo.jpg"
+  image = "upgrade.jpg"
 
   
 +++
