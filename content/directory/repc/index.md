@@ -20,7 +20,7 @@ logo = "logo.jpg"
   price_prx = "15"
   price_gbp = ""
   category = "Premises & Office"
-  image = "logo.jpg"
+  image = "diagnostic.jpg"
 [[products]]
   title = "IT Repair & Maintenance"
   description = "Computer diagnostic. Fault repair. Data maintenance. Internal and external clean."
