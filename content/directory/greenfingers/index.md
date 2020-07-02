@@ -20,21 +20,21 @@ logo = "logo.jpg"
   price_prx = "60"
   price_gbp = ""
   category = "Premises & Office"
-  image = ""
+  image = "garden.jpg"
 [[products]]
   title = "Gardening"
   description = "Hedge Trim"
   price_prx = "130"
   price_gbp = ""
   category = "Premises & Office"
-  image = ""
+  image = "jon-garden.jpg"
 [[products]]
   title = "Gardening"
   description = "Big Slabbing Job"
   price_prx = "300"
   price_gbp = "300"
   category = "Premises & Office"
-  image = ""
+  image = "slabbing.jpg"
 
 
 +++
