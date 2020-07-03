@@ -15,21 +15,21 @@ logo = "logo.jpg"
 
 
 [[products]]
-  title = "Accounting and tax review"
+  title = "Accounting and Tax Review"
   description = "Free 30 minute video call with a senior member of Breslins expert Accountancy Team to discuss your accounting and tax requirements"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
   image = "product-logo.jpg"
 [[products]]
-  title = "Raising finance or refinancing review"
+  title = "Raising Finance or Refinancing Review"
   description = "Free 30 minite video call with Breslins Director of Funding to identify most appropriate and cost-effective ways of funding your business"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
   image = ""
 [[products]]
-  title = "Business development session"
+  title = "Business Development Session"
   description = "Free business planning session over a videocall to kickstart your planning process and deliver a concise professional pitch"
   price_prx = "FREE"
   price_gbp = ""
