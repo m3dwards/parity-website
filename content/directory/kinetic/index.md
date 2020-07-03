@@ -1,5 +1,5 @@
 +++
-name = "Kinetic PR"
+name = "Kinetic Communications"
 latitude = 52.485196
 longitude =  -1.913536
 
@@ -45,4 +45,4 @@ logo = "logo.jpg"
 
 +++
 
-## Kinetic PR
+## Kinetic Communications
