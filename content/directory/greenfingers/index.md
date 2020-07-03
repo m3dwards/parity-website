@@ -27,7 +27,7 @@ logo = "logo.jpg"
   price_prx = "130"
   price_gbp = ""
   category = "Premises & Office"
-  image = "jon-garden.jpg"
+  image = "hedgetrim.jpg"
 [[products]]
   title = "Premises Exterior Slabbing"
   description = "Create an slabbed outdoor working area for staff or visiting clients, perfect for boosting morale in summer months."
