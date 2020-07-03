@@ -15,7 +15,7 @@ logo = "logo.jpg"
 
 
 [[products]]
-  title = "Review of accounting and tax arrangements"
+  title = "Accounting and tax review"
   description = "Free 30 minute video call with a senior member of Breslins expert Accountancy Team to discuss your accounting and tax requirements"
   price_prx = "FREE"
   price_gbp = ""
