@@ -16,7 +16,7 @@ logo = "logo.jpg"
 
 [[products]]
   title = "Premises Exterior Clear Up"
-  description = "Tidy up of exterior of premises to create a professional impression to visiting clients"
+  description = "Tidy up of exterior of premises to create a professional impression of your company to visiting clients."
   price_prx = "10 /ph"
   price_gbp = "10 /ph + materials"
   category = "Premises & Office"
@@ -37,7 +37,7 @@ logo = "logo.jpg"
   image = "premisesslab.jpg"
 [[products]]
   title = "Premises Lawn and Grass Cutting"
-  description = "Keep your exterior lawn and grass healthy and maintained with regular cuttings"
+  description = "Keep your exterior premises lawn healthy and maintained with regular cuttings for an outside work area or great first impression"
   price_prx = "10 /ph"
   price_gbp = "10 /ph + materials"
   category = "Premises & Office"
