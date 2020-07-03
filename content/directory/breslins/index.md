@@ -20,7 +20,7 @@ logo = "logo.jpg"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
-  image = "logo.jpg"
+  image = "product-logo.jpg"
 [[products]]
   title = "Raising finance or refinancing existing debt review"
   description = "Free 30 minite video call with Breslins Director of Funding to identify most appropriate and cost-effective ways of funding your business"
@@ -55,7 +55,7 @@ logo = "logo.jpg"
   price_prx = "100"
   price_gbp = "100"
   category = "Business Services"
-  image = "logo.jpg"
+  image = "product-logo.jpg"
 
 +++
 
