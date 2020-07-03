@@ -34,7 +34,7 @@ logo = "logo.jpg"
   price_prx = "300"
   price_gbp = "300"
   category = "Premises & Office"
-  image = "slabbing.jpg"
+  image = "premisesslab.jpg"
 [[products]]
   title = "Premises Lawn and Grass Cutting"
   description = "Keep your exterior lawn and grass healthy and maintained with regular cuttings"
