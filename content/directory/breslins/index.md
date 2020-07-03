@@ -16,7 +16,7 @@ logo = "logo.jpg"
 
 [[products]]
   title = "Accounting and Tax Review"
-  description = "Free 30 minute videocall with a senior member of the Accountancy Team to discuss your accounting and tax requirements"
+  description = "Free 30 minute videocall with a senior member of the Accountancy Team to discuss your accounting and tax requirements."
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
