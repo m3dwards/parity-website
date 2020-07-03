@@ -20,7 +20,7 @@ logo = "logo.jpg"
   price_prx = "60"
   price_gbp = ""
   category = "Premises & Office"
-  image = "garden.jpg"
+  image = "premisesclear.jpg"
 [[products]]
   title = "Premises Hedge Trimming"
   description = "Maintain your premises hedges to ensure they are healthy and look professional for visiting clients and staff."
