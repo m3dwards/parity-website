@@ -39,7 +39,7 @@ logo = "logo.jpg"
   title = "Premises Lawn and Grass Cutting"
   description = "Keep your exterior lawn and grass healthy and maintained with regular cuttings"
   price_prx = "10 /ph"
-  price_gbp = "10 /ph"
+  price_gbp = "10 /ph + materials"
   category = "Premises & Office"
   image = "gardening.jpg"
 
