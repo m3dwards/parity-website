@@ -51,7 +51,7 @@ logo = "logo.jpg"
   image = ""
 [[products]]
   title = "Accounting and Tax Services"
-  description = "Breslins are a firm of Business Advisors, Chartered Accountants and Tax Advisors that helps business unlock potential to grow sales and profits"
+  description = "Breslins are a firm of Business Advisors, Chartered Accountants and Tax Advisors that helps unlock potential to grow sales and profits."
   price_prx = "100/mo"
   price_gbp = "100/mo"
   category = "Business Services"
