@@ -20,7 +20,7 @@ logo = "logo.png"
   price_prx = "5.00 /mo"
   price_gbp = ""
   category = "Business Tools"
-  image = "logo.jpeg"
+  image = "essential-package.jpeg"
 [[products]]
   title = "Premium Package"
   description = "Really simple to use Customer Conversion Software that tells you when you customers are ready to buy. See [details](https://www.popcorn.email/customer-support/resources/price-plans/)."
