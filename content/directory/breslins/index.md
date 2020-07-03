@@ -9,6 +9,7 @@ website = "https://www.breslins.co.uk/"
 email = "info@breslins.co.uk"
 tags = ["Accountants", "Financial Advice", "Tax Planning"]
 username = "breslins"
+location = "Jewellery Quarter"
 
 logo = "logo.jpg"
 
