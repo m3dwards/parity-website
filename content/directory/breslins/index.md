@@ -29,7 +29,7 @@ logo = "logo.jpg"
   category = "Business Services"
   image = ""
 [[products]]
-  title = "Business planning and pitch development session"
+  title = "Business development session"
   description = "Free business planning session over a videocall to kickstart your planning process and deliver a concise professional pitch"
   price_prx = "FREE"
   price_gbp = ""
