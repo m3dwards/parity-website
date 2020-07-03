@@ -15,8 +15,8 @@ location = "Walsall"
 logo = "logo.jpg"
 
 [[products]]
-  title = "Gardening"
-  description = "Garden Tidy up."
+  title = "Premises Exterior Clear Up"
+  description = "Tidy up of exterior of premises to create a professional impression to visiting clients"
   price_prx = "60"
   price_gbp = ""
   category = "Premises & Office"
