@@ -41,7 +41,7 @@ logo = "logo.jpg"
   price_prx = "30/mo"
   price_gbp = ""
   category = "Business Services"
-  image = ""
+  image = "BC-Logo.jpg"
 [[products]]
   title = "GROWTH Plan Kickstart Package"
   description = "Business planning programme delivered over video call by one of Breslins expert Client Directors, designed to help you reach your business goals."
