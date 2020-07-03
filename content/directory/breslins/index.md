@@ -23,7 +23,7 @@ logo = "logo.jpg"
   image = "product-logo.jpg"
 [[products]]
   title = "Raising Finance or Refinancing Review"
-  description = "Free 30 minite video call with Breslins Director of Funding to identify most appropriate ways of funding your business"
+  description = "Free 30 minite video call with Breslins Director of Funding to identify most appropriate ways of funding your business."
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
