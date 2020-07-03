@@ -48,7 +48,7 @@ logo = "logo.png"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Tools"
-  image = "sales-training.jpeg"
+  image = "sales-course.jpeg"
   
 +++
 
