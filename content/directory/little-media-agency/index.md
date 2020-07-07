@@ -29,7 +29,7 @@ logo = "logo.png"
   image = "training.jpg"
 [[products]]
   title = "Social Media Management"
-  description = "Social Media Management of two social media platforms including content creation, engagement and full reporting to help you raise the awareness of your business and increase sales."
+  description = "Social Media Management of two social media platforms including content creation, engagement and full reporting."
   price_prx = "225/mo"
   price_gbp = "225/mo"
   category = "Business Services"
