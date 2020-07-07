@@ -34,7 +34,7 @@ logo = "logo.jpg"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
-  image = ""
+  image = "businessgrowth.jpg"
 [[products]]
   title = "Breslins Club Connected Membership"
   description = "Membership of the [Breslins Club](https://breslinsclub.co.uk/membership-plans/) at the CONNECTED level - action-focused networking for business owners."
