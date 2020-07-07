@@ -42,6 +42,7 @@ logo = "logo.jpg"
   price_gbp = ""
   category = "Business Services"
   image = "BC-Logo.jpg"
+  homepage = "true"
 [[products]]
   title = "GROWTH Plan Kickstart Package"
   description = "Business planning programme delivered over videocall by expert Client Directors, designed to help you reach your business goals."

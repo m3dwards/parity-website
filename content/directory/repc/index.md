@@ -21,6 +21,7 @@ logo = "logo.jpg"
   price_gbp = ""
   category = "Premises & Office"
   image = "diagnostic.jpg"
+  homepage = "true"
 [[products]]
   title = "IT Repair & Maintenance"
   description = "Computer diagnostic. Fault repair. Data maintenance. Internal and external clean."
@@ -43,7 +44,7 @@ logo = "logo.jpg"
   category = "Premises & Office"
   image = "upgrade.jpg"
 
-  
+
 +++
 
 ## Repc

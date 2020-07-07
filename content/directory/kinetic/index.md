@@ -20,6 +20,7 @@ logo = "logo.jpg"
   price_gbp = ""
   category = "Business Services"
   image = "asset-1.jpeg"
+  homepage = "true"
 [[products]]
   title = "Blogs & Social Media Support"
   description = "Six month programme including blogs and promotion over three social media platforms; e.g. Twitter, Facebook, LinkedIn."

@@ -1,3 +1,6 @@
+{{ define "book_demo" }}
+<!-- I wish to have no book demo -->
+{{ end }}
 {{ define "title" }}
     {{ .Site.Title }}
 {{ end }}
@@ -25,40 +28,47 @@
 
             <div class="row my-5">
                 <div class="col text-center">
-                    <h3>Birmingham businesses accepting Parity:</h3>
+                    <h2>Boost your liquidity and buy without using pounds</h2>
+
+                    <p>Use Parity to pay local suppliers, invest in local tools and services, and treat your teams to local perks. Cash is king. Save it for where you need it most.</p>
                 </div>
             </div>
-            <div class="row h-100 mb-5 pb-5" id="customers">
-                <div class="col m-auto">
-                    <img src="/images/repc-bw.jpg" alt="REPC" />
-                </div>
-                <div class="col m-auto d-none d-md-block">
-                    <img src="/images/cloverhr-bw.jpg" alt="Clover HR" />
-                </div>
-                <div class="col m-auto">
-                    <img src="/images/1000-trades-bw.jpg" alt="1000 Trades" />
-                </div>
-                <div class="col m-auto">
-                    <img src="/images/breslins-bw.jpg" alt="Breslins" />
-                </div>
-                <div class="col m-auto d-none d-md-block">
-                    <img src="/images/kinetic-bw.jpg" alt="Kinetic" />
+
+            <div class="row mb-5 product-container mx-auto">
+                {{ range where site.Pages "Type" "in" "directory" }}
+                    {{ $product_path := .RelPermalink }}
+                    {{ $company_name := .Params.Name }}
+                    {{ $location := .Params.location }}
+
+                    {{ range .Params.products }}
+                        {{ if .homepage }}
+
+                            {{ partial "product_box" (dict "context" . "product_path" $product_path "company_name" $company_name "location" $location) }}
+                        {{ end }}
+                    {{ end}}
+                {{ end }}
+
+                <div class="product-box mb-4">
+                    <div class="dashed-product h-100">
+                        <div class="mx-auto text-center" style="width: 75%; margin-top: 7em;">
+                            <a href="/marketplace"><h3>See what you<br> can buy in our local<br> marketplace<br>
+                                >
+                            </h3></a>
+                        </div>
+                    </div>
                 </div>
             </div>
+
             <hr>
 
-
-            <div class="row my-5" id="testimonial">
-                <div class="col-md-6 order-md-12  text-center my-auto">
-
-                    <p><blockquote><h3>“Parity is a fantastic concept and great for my business clients. As a new local sales channel, they can make purchases without using precious Pounds. This is a great solution to help small businesses smooth their cash flow”</h3></blockquote></p>
-
-                    <p>Paul Breslin, Director<br>
-                        Breslins, Accountants and Consultants</p>
-
+            <div class="row my-5" style="justify-content: center;">
+                <div class="d-inline-block">
+                    <h3 class="pt-2">Increase your local spending power</h3>
                 </div>
-                <div class="col-md-6 text-center">
-                    <img class="shadow" src="/images/homepage/paul_breslin.jpg" alt="Photo of Paul Breslin">
+                <div class="d-inline-block ml-4 text-center" style="">
+                    <a href="/sign-up" class="btn btn-dark d-block">Try Parity for Free</a>
+
+                    <a href="/how-it-works" class="pt-2 d-inline-block">Learn how it works</a>
                 </div>
             </div>
 
@@ -66,42 +76,44 @@
 
             <div class="row my-5">
                 <div class="col text-center">
-                    <h2>Benefits to your business:</h2>
+                    <h2>Sell more locally</h2>
+
+                    <p>Create listings on our local marketplace. Try it out with introductory offers.</p>
                 </div>
             </div>
 
-            <div class="row h-100 mb-5 three-things">
-                <div class="col-md mx-auto text-center d-flex flex-column mb-5 mb-md-0">
-                    <img src="/images/homepage/grow.jpg" class="mx-auto" alt="0% Credit" />
-                    <h3 class="my-3">Get more customers</h3>
-                    <p class="">Sell your spare capacity in our network and increase revenue</p>
+            <div class="row my-5 product-container mx-auto">
+                <div class="product-box mb-4" style="min-height: 355px;">
+                    <div class="dashed-product h-100">
+                        <div class="mx-auto text-center" style="width: 75%; margin-top: 6em;">
+                            <a href="/marketplace">
+                                <h3>Post an offer on our local marketplace for free <br> + </h3>
+                            </a>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-md mx-auto text-center d-flex flex-column mb-5 mb-md-0">
-                    <img src="/images/homepage/pay.jpg" class="mx-auto" alt="Sell Spare Capacity" />
-                    <h3 class="my-3">Buy without pounds</h3>
-                    <p class="">Use an interest free overdraft in our local currency</p>
-                </div>
-                <div class="col-md mx-auto text-center d-flex flex-column">
-                    <img src="/images/homepage/trusted_relationships.jpg" class="mx-auto" alt="Connect with independent businesses" />
-                    <h3 class="my-3">Build trusted relationships</h3>
-                    <p class="">Connect to a community of smart business owners</p>
+                <div class="product-box mb-4" style="min-height: 355px;">
+                    <div class="h-100">
+                        <div class="mx-auto text-center" style="width: 75%; margin-top: 6em;">
+                            <h4>Business Benefits:</h4>
+                            <p>Meet new prospects</p>
+                            <p>Generate additional income</p>
+                            <p>Boost liquidity</p>
+                        </div>
+                    </div>
                 </div>
             </div>
 
             <hr>
 
-            <div class="row my-5" id="here-to-help">
-                <div class="col-md-6 order-md-12  text-center my-auto">
-                    <h2>Parity is here to help you</h2>
-
-                    <p>Our team identifies sales opportunities</p>
-
-                    <p>We connect you to local suppliers</p>
-
-                    <p>We’ll promote your business locally</p>
+            <div class="row my-5" style="justify-content: center;">
+                <div class="d-inline-block">
+                    <h3 class="pt-2">Increase your local spending power</h3>
                 </div>
-                <div class="col-md-6 text-center">
-                    <img class="shadow" src="/images/homepage/front_door.jpg" alt="Our door is open">
+                <div class="d-inline-block ml-4 text-center" style="">
+                    <a href="/sign-up" class="btn btn-dark d-block">Try Parity for Free</a>
+
+                    <a href="/how-it-works" class="pt-2 d-inline-block">Learn how it works</a>
                 </div>
             </div>
 
@@ -109,13 +121,10 @@
 
             <div class="row my-5" id="available-on-phone">
                 <div class="col-md-6 text-center my-auto">
-                    <h2>Available on desktop, tablet and mobile</h2>
+                    <h2>Use your balance in Parity at local vendors to save your cash. Sell in Parity to top back up your balance.</h2>
 
-                    <p>Parity is a local digital currency</p>
+                    <p>Make transactions and find local suppliers through our mobile app. Get started for free today.</p>
 
-                    <p>Payments are instant, free and simple</p>
-
-                    <p>Easily integrated into business accounts</p>
                 </div>
                 <div class="col-md-6 text-center">
                     <img src="/images/homepage/tablet.jpg" alt="Available in app stores" />
@@ -124,18 +133,144 @@
 
             <hr>
 
-            <div class="row my-5" id="proven-concept">
-                <div class="col-md-6 order-md-12  text-center my-auto">
-                    <h2>Proven concept</h2>
-
-                    <p>Parity replicates <a href="https://www.ft.com/content/cf875d9a-5be6-11e5-a28b-50226830d644">successful Italian networks</a></p>
-                    <p>Members have up to 20% more revenue</p>
-                    <p>£100millions of transactions made annually</p>
-                </div>
-                <div class="col-md-6 text-center">
-                    <img src="/images/italy.jpg" alt="Proven in Italy" />
+            <div class="row my-5">
+                <div class="col text-center">
+                    <h3>What our customers are saying:</h3>
                 </div>
             </div>
+
+
+            <div class="row my-5" id="testimonial">
+                <div class="col-md-6 order-md-12  text-center my-auto">
+
+                    <p><blockquote><h3>"I love working locally and Parity gives me an essential tool to boost my local spending and meet new clients. I've used income in the local currency to reward my team with drinks in an independent pub and I have plans for bigger-ticket purchases soon."</h3></blockquote></p>
+
+                    <p>Angela Podmore, Director<br>
+                       Kinetic PR</p>
+
+                </div>
+                <div class="col-md-6 text-center">
+                    <img class="shadow" src="/images/homepage/angela.jpg" alt="Photo of Angela, director of Kinetic PR">
+                </div>
+            </div>
+
+            <hr>
+
+            <div class="row my-5">
+                <div class="col text-center">
+                    <h3>Still have questions?</h3>
+                    <p>Use our live chat, watch our short webinar or book a no obligation demo for a tailored discussion about your business.</p>
+                    <a href="/book-demo" class="btn btn-dark">Book Online Demo</a>
+                </div>
+            </div>
+            <!-- <div class="row h-100 mb-5 pb-5" id="customers">
+                 <div class="col m-auto">
+                 <img src="/images/repc-bw.jpg" alt="REPC" />
+                 </div>
+                 <div class="col m-auto d-none d-md-block">
+                 <img src="/images/cloverhr-bw.jpg" alt="Clover HR" />
+                 </div>
+                 <div class="col m-auto">
+                 <img src="/images/1000-trades-bw.jpg" alt="1000 Trades" />
+                 </div>
+                 <div class="col m-auto">
+                 <img src="/images/breslins-bw.jpg" alt="Breslins" />
+                 </div>
+                 <div class="col m-auto d-none d-md-block">
+                 <img src="/images/kinetic-bw.jpg" alt="Kinetic" />
+                 </div>
+                 </div>
+                 <hr>
+
+
+                 <div class="row my-5" id="testimonial">
+                 <div class="col-md-6 order-md-12  text-center my-auto">
+
+                 <p><blockquote><h3>“Parity is a fantastic concept and great for my business clients. As a new local sales channel, they can make purchases without using precious Pounds. This is a great solution to help small businesses smooth their cash flow”</h3></blockquote></p>
+
+                 <p>Paul Breslin, Director<br>
+                 Breslins, Accountants and Consultants</p>
+
+                 </div>
+                 <div class="col-md-6 text-center">
+                 <img class="shadow" src="/images/homepage/paul_breslin.jpg" alt="Photo of Paul Breslin">
+                 </div>
+                 </div>
+
+                 <hr>
+
+                 <div class="row my-5">
+                 <div class="col text-center">
+                 <h2>Benefits to your business:</h2>
+                 </div>
+                 </div>
+
+                 <div class="row h-100 mb-5 three-things">
+                 <div class="col-md mx-auto text-center d-flex flex-column mb-5 mb-md-0">
+                 <img src="/images/homepage/grow.jpg" class="mx-auto" alt="0% Credit" />
+                 <h3 class="my-3">Get more customers</h3>
+                 <p class="">Sell your spare capacity in our network and increase revenue</p>
+                 </div>
+                 <div class="col-md mx-auto text-center d-flex flex-column mb-5 mb-md-0">
+                 <img src="/images/homepage/pay.jpg" class="mx-auto" alt="Sell Spare Capacity" />
+                 <h3 class="my-3">Buy without pounds</h3>
+                 <p class="">Use an interest free overdraft in our local currency</p>
+                 </div>
+                 <div class="col-md mx-auto text-center d-flex flex-column">
+                 <img src="/images/homepage/trusted_relationships.jpg" class="mx-auto" alt="Connect with independent businesses" />
+                 <h3 class="my-3">Build trusted relationships</h3>
+                 <p class="">Connect to a community of smart business owners</p>
+                 </div>
+                 </div>
+
+                 <hr>
+
+                 <div class="row my-5" id="here-to-help">
+                 <div class="col-md-6 order-md-12  text-center my-auto">
+                 <h2>Parity is here to help you</h2>
+
+                 <p>Our team identifies sales opportunities</p>
+
+                 <p>We connect you to local suppliers</p>
+
+                 <p>We’ll promote your business locally</p>
+                 </div>
+                 <div class="col-md-6 text-center">
+                 <img class="shadow" src="/images/homepage/front_door.jpg" alt="Our door is open">
+                 </div>
+                 </div>
+
+                 <hr>
+
+                 <div class="row my-5" id="available-on-phone">
+                 <div class="col-md-6 text-center my-auto">
+                 <h2>Available on desktop, tablet and mobile</h2>
+
+                 <p>Parity is a local digital currency</p>
+
+                 <p>Payments are instant, free and simple</p>
+
+                 <p>Easily integrated into business accounts</p>
+                 </div>
+                 <div class="col-md-6 text-center">
+                 <img src="/images/homepage/tablet.jpg" alt="Available in app stores" />
+                 </div>
+                 </div>
+
+                 <hr>
+
+                 <div class="row my-5" id="proven-concept">
+                 <div class="col-md-6 order-md-12  text-center my-auto">
+                 <h2>Proven concept</h2>
+
+                 <p>Parity replicates <a href="https://www.ft.com/content/cf875d9a-5be6-11e5-a28b-50226830d644">successful Italian networks</a></p>
+                 <p>Members have up to 20% more revenue</p>
+                 <p>£100millions of transactions made annually</p>
+                 </div>
+                 <div class="col-md-6 text-center">
+                 <img src="/images/italy.jpg" alt="Proven in Italy" />
+                 </div>
+                 </div> -->
 
         </div>
     </div>

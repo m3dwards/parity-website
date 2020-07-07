@@ -140,6 +140,11 @@ img[src*='#left'] {float: left; padding: 10px;}
             width: 90%;
         }
     }
+
+    .product-container {
+        max-width: 800px;
+        justify-content: center;
+    }
 }
 
 #sign-up {
@@ -340,11 +345,24 @@ img[src*='#left'] {float: left; padding: 10px;}
     li { padding-left: 30px; position: relative; }
 }
 
-.product {
+.product, .dashed-product {
     /* border-radius: 2px; */
     border-width: 2px 2px 2px 2p;
     border-style: solid;
     border-color: $main-pink;
     /* padding: 10px; */
 
+}
+
+.product-box {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 380px;
+}
+
+.dashed-product {
+    border-style: dashed;
 }
