@@ -26,14 +26,14 @@ logo = "logo.png"
   price_prx = "200"
   price_gbp = ""
   category = "Business Services"
-  image = "iron-house-2.jpg"
+  image = "training.jpg"
 [[products]]
   title = "Social Media Management"
   description = "Social Media Management of two social media platforms including content creation, engagement and full reporting to help you raise the awareness of your business and increase sales."
   price_prx = "225 p/mo"
   price_gbp = "225 p/mo"
   category = "Business Services"
-  image = "ironhouse-basement-min.jpg"
+  image = "manage.jpg"
 
 +++
 
