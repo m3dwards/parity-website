@@ -30,8 +30,8 @@ logo = "logo.png"
 [[products]]
   title = "Social Media Management"
   description = "Social Media Management of two social media platforms including content creation, engagement and full reporting to help you raise the awareness of your business and increase sales."
-  price_prx = "225 p/mo"
-  price_gbp = "225 p/mo"
+  price_prx = "225/mo"
+  price_gbp = "225/mo"
   category = "Business Services"
   image = "manage.jpg"
 
