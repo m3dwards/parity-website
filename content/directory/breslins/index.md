@@ -48,7 +48,7 @@ logo = "logo.jpg"
   price_prx = "50/mo"
   price_gbp = "50/mo"
   category = "Business Services"
-  image = ""
+  image = "growthpackage.jpg"
 [[products]]
   title = "Accounting and Tax Services"
   description = "Business Advisors, Chartered Accountants and Tax Advisors that help businesses unlock potential to grow sales and profits."
