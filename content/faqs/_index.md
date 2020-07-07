@@ -10,110 +10,30 @@ description = "Frequently asked questions about being a parity member"
 
 # FAQs
 
-### What is Parity in plain English?
-Parity is a zero interest overdraft in a local currency.
+### What is a ‘local currency’? 
+Parity is a zero-interest overdraft facility in an alternative currency called PRX. The currency is always equal in value to GBP, but you can only spend it with local vendors in the network. PRX boosts liquidity of its users and facilitates new trade opportunities in your local business community. 
 
 <br>
 
-### What does local currency mean?
-It can only be used by local, independent businesses in Birmingham.
+### Zero-interest credit facility? How does it work? 
+With our free account you start off with a 500PRX credit facility that you can immediately spend in the network. You later sell in PRX to top it up. As long as you are a Parity member there is no interest, hidden costs or deadlines for repayment. Parity credit facility boosts your local spending power and supports cash flow. 
 
 <br>
 
 ### What do I use this local currency overdraft for?
-To buy from other businesses in the network.
+Want to…minimise cash out to local suppliers? Purchase new tools or services without spending cash? Treat your team to local perks without footing the bill in GBP? Parity does all of that and more. If a business you currently work with or want to work with is on the network, you can keep your cash in the bank while still purchasing from them using Parity. Save your cash for when you really need it.
 
 <br>
 
-### How do I repay it?
-You sell to other businesses in the network.
+### What about taxes? How do I use PRX in my business accounts? 
+Parity is easily integrated in your business accounts as another method of payment or line in your balance sheet. It’s like cash, but it’s not - so you can’t use PRX for everything. Taxes have to be paid in GBP and that’s why we allow blended transactions, PRX and GBP, so that your business can benefit from this extra liquidity without missing cash when needed. 
 
 <br>
 
-### What’s the benefit of the overdraft?
-It supports your cashflow, you can make purchases without pounds.
+### Can I leave without paying off my overdraft?
+If you leave overdrawn, the exit fee is equal to your overdraft and is paid in pound sterling. However, as long as you are a member there is no deadline for repayment. You are only committed for the goods and services other business owners can find in the marketplace and buy from you in PRX.
 
 <br>
 
-### What’s the benefit of the network?
-It gives you a new local market for your business.
-
-<br>
-
-### Where has this worked before?
-It’s been working in Sardex, Italy since 2008 and WIR, Switzerland since 1934.
-
-<br>
-
-### How do I make payments in Parity?
-Payments are made through our mobile apps or desktop platform. They are free and instant.
-
-<br>
-
-### Do I have to buy the local currency before using it?
-No, you do not need to buy the local currency. You use the overdraft for purchases.
-
-<br>
-
-### What’s the value of the local currency?
-It’s always equal to pound sterling so not a speculative asset.
-
-<br>
-
-### Can I just sell through Parity?
-Selling generates additional income to spend with other local businesses. If you don't then spend you will not realise any benfit.
-
-<br>
-
-### What’s the advantage of selling in Parity?
-You acquire new customers, increase revenue.
-
-<br>
-
-### Can I withdraw funds from Parity?
-No, there is no way you can withdraw from Parity.
-
-<br>
-
-### Can I just buy in Parity?
-Purchases can be made upfront using the overdraft and repaid by future sales. Selling to pay the overdraft back and then buying again ensures you get the most value from the network.
-
-<br>
-
-### What’s the advantage of buying?
-You access extra liquidity and free up pounds for other purposes or profit.
-
-<br>
-
-### Can I leave Parity without paying off my overdraft?
-If you leave overdrawn, the exit fee is equal to your overdraft and in pound sterling.
-
-<br>
-
-### Can I leave Parity with a positive balance?
-Yes, you have one year to use the remaining balance.
-
-<br>
-
-### Do I have to accept 100% of the value of the invoice in Parity?
-You can receive 100% in Parity or ask for a blended payment, say 50% in Parity and 50% GBP.
-
-<br>
-
-### Zero interest credit sounds too good to be true?
-It is only available in the local currency and cannot be withdrawn.
-
-<br>
-
-### How do you make money then?
-Parity is based on a flat monthly membership fee. See our [pricing](/pricing) page.
-
-<br>
-
-### How long can I be in my overdraft?
-As long as you are a member. There are no deadlines or hidden fees.
-
-<br>
-
-### Is Parity like Bitcoin?
-No, Parity is not like Bitcoin, it doesn’t change in value and you don’t need to buy it.
+### Is it like barter or Bitcoin? 
+Parity is neither of those. First, it is not like barter, because you have a balance in the local currency to spend with anyone with listings in the marketplace. Your own listings can be bought by anyone in Parity. It’s not a direct swap like barter. Secondly, it’s not like Bitcoin because you don’t need to buy into the currency first. You just join Parity and receive your balance to increase local spending power and boost your liquidity. 
