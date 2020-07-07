@@ -10,6 +10,7 @@ website = "https://littlemediaagency.com/"
 email = "info@littlemediaagency.com"
 tags = ["Social Media", "Social Media Training", "Social Media Marketing", "Social Media Advertising"]
 username = "little_media"
+location = "Central Birmingham"
 
 logo = "logo.png"
 
