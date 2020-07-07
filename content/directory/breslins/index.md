@@ -27,7 +27,7 @@ logo = "logo.jpg"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
-  image = ""
+  image = "raisingfinance.jpg"
 [[products]]
   title = "Business Development Session"
   description = "Free business planning session over a videocall to kickstart your planning process and deliver a concise professional pitch."
