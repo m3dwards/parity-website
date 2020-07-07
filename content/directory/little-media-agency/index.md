@@ -19,7 +19,7 @@ logo = "logo.png"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
-  image = "iron-house-1.jpg"
+  image = "consult.jpg"
 [[products]]
   title = "Social Media Training"
   description = "Discover tricks and tips and how to maximise your social media strategy and drive sales in two hour training tailored to your business. "
