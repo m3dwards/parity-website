@@ -1,5 +1,5 @@
 +++
-draft = "true"
+
 name = "Stratum Now"
 latitude = 52.486032
 longitude = -1.910021
