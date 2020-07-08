@@ -1,5 +1,5 @@
 +++
-draft = "true"
+
 name = "Change Kitchen CIC"
 latitude = 52.4288121
 longitude = -1.9229198
