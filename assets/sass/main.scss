@@ -366,3 +366,11 @@ img[src*='#left'] {float: left; padding: 10px;}
 .dashed-product {
     border-style: dashed;
 }
+
+.product-title {
+    display: inline-block;
+    width: 320px;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
