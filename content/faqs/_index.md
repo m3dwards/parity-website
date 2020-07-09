@@ -20,7 +20,7 @@ With our all of our accounts you start with a credit facility that you can immed
 
 <br>
 
-### What do I use this local currency overdraft for?
+### What do I use this local currency credit facility for?
 Want to…minimise cash out to local suppliers? Purchase new tools or services without spending cash? Treat your team to local perks without footing the bill in GBP? Parity does all of that and more. If a business you currently work with or want to work with is on the network, you can keep your cash in the bank while still purchasing from them using Parity. Save your cash for when you really need it.
 
 <br>
