@@ -34,12 +34,13 @@
                     
                     <p>Cash is king, save it for where you need it most.</p>
 
-                    <h3>Marketplace listings offered by companies in Parity:</h3>
-
                 </div>
             </div>
 
             <div class="row mb-5 product-container mx-auto">
+                
+                <h3>Marketplace listings offered by companies in Parity:</h3>
+                
                 {{ range where site.Pages "Type" "in" "directory" }}
                     {{ $product_path := .RelPermalink }}
                     {{ $company_name := .Params.Name }}
