@@ -31,7 +31,7 @@ Parity is easily integrated in your business accounts as another method of payme
 <br>
 
 ### Can I leave without paying off my credit facility?
-If you leave overdrawn, the exit fee is equal to your overdraft and is paid in pound sterling. However, as long as you are a member there is no deadline for repayment. You are only committed for the goods and services other business owners can find in the marketplace and buy from you in PRX.
+If you leave overdrawn, the exit fee is equal to your credit balance and will need to be settled. As long as you are a member there is no deadline for repayment. If you leave with a debit balance, you will have six months to spend the remaining balance before your account is closed.
 
 <br>
 
