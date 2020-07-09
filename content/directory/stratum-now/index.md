@@ -51,7 +51,7 @@ logo = "logo.jpg"
   image = "security.jpg"
 [[products]]
   title = "Security Awareness Training"
-  description = "Train and test your employees and IT systems for weaknesses continually and automatically. [See more](https://stratumnow.com/services/user-security-awareness-training-phishing-testing/).
+  description = "Train and test your employees and IT systems for weaknesses continually and automatically. [See more](https://stratumnow.com/services/user-security-awareness-training-phishing-testing/)."
   price_prx = "2 /mo (per employee)"
   price_gbp = ""
   category = "Business Tools"
