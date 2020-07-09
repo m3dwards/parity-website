@@ -15,8 +15,8 @@ location = "Jewellery Quarter"
 logo = "logo.jpg"
 
 [[products]]
-  title = "Office 365"
-  description = "Move your business to the cloud -- improve productivity, security, and save money. Free initial assessment."
+  title = "Office 365 - Free initial assessment"
+  description = "Move your business to the cloud -- improve productivity, security, and save money."
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Tools"
