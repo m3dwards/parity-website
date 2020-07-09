@@ -16,7 +16,7 @@ Parity is a zero-interest overdraft facility in an alternative currency called P
 <br>
 
 ### Zero-interest credit facility? How does it work? 
-With our free account you start off with a 500PRX credit facility that you can immediately spend in the network. You later sell in PRX to top it up. As long as you are a Parity member there is no interest, hidden costs or deadlines for repayment. Parity credit facility boosts your local spending power and supports cash flow. 
+With our all of our accounts you start with a credit facility that you can immediately spend in the network. You later sell in PRX to top it up. As long as you are a Parity member there is no interest, hidden costs or deadlines for repayment. Parity credit facility boosts your local spending power and supports cash flow. 
 
 <br>
 
