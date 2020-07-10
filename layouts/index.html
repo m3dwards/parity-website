@@ -39,82 +39,10 @@
 
             <div class="row mb-5 product-container mx-auto">
                 
-                <h3>Marketplace listings offered by companies in Parity:</h3>
+                <h3>Some of the company offers available in Parity:</h3>
                 
                 {{ range where site.Pages "Type" "in" "directory" }}
-                    {{ $product_path := .RelPermalink }}
-                    {{ $company_name := .Params.Name }}
-                    {{ $location := .Params.location }}
-
-                    {{ range .Params.products }}
-                        {{ if .homepage }}
-
-                            {{ partial "product_box" (dict "context" . "product_path" $product_path "company_name" $company_name "location" $location) }}
-                        {{ end }}
-                    {{ end}}
-                {{ end }}
-
-                <div class="product-box mb-4">
-                    <div class="dashed-product h-100">
-                        <div class="mx-auto text-center" style="width: 75%; margin-top: 7em;">
-                            <a href="/marketplace"><h3>See what else<br> is available in our local<br> marketplace<br>
-                                >
-                            </h3></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <hr>
-
-            <div class="row my-5" style="justify-content: center;">
-                <div class="d-inline-block">
-                    <h3 class="pt-2">Increase your local spending power</h3>
-                </div>
-                <div class="d-inline-block ml-4 text-center" style="">
-                    <a href="/sign-up" class="btn btn-dark d-block">Try Parity for Free</a>
-
-                    <a href="/how-it-works" class="pt-2 d-inline-block">Learn how it works</a>
-                </div>
-            </div>
-
-            <hr>
-
-            <div class="row my-5">
-                <div class="col text-center">
-                    <h2>Access a new market and sell more locally</h2>
-
-                    <p>Create listings on our local marketplace and generate new business.</p> 
-                        
-                    <p>Try it for free with your introductory offers and promotions.</p>
-                </div>
-            </div>
-
-            <div class="row my-5 product-container mx-auto">
-                <div class="product-box mb-4" style="min-height: 355px;">
-                    <div class="dashed-product h-100">
-                        <div class="mx-auto text-center" style="width: 75%; margin-top: 6em;">
-                            <a href="/marketplace">
-                                <h3>Post an offer on our local marketplace for free <br> + </h3>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="product-box mb-4" style="min-height: 355px;">
-                    <div class="h-100">
-                        <div class="mx-auto text-center" style="width: 75%; margin-top: 6em;">
-                            <h4>Business Benefits:</h4>
-                            <p>Meet new prospects</p>
-                            <p>Generate additional income</p>
-                            <p>Boost liquidity</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <hr>
-
-            <div class="row my-5" style="justify-content: center;">
+                    {{ $product_patmer;">
                 <div class="d-inline-block">
                     <h3 class="pt-2">Increase your local spending power</h3>
                 </div>
