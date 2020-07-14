@@ -2,7 +2,7 @@
 <!-- I wish to have no book demo -->
 {{ end }}
 {{ define "title" }}
-    {{ .Site.Title }}
+    {{ .Site.Title }} &ndash; {{ .Title }}
 {{ end }}
 {{ define "main" }}
     <div id="homepage">
@@ -17,9 +17,9 @@
 
                     <!-- <p><a href="#" class="js-video-button" data-video-id='zoOcDY0c5GE'>Explainer Video (58 secs)</a></p> -->
                     <!-- <script>$(".js-video-button").modalVideo();</script> -->
-                    
+
                     <p><a href="/marketplace" class="btn btn-dark">See Marketplace</a></p>
-                    
+
                     <p><a href="/how-it-works">Learn how it works</a></p>
 
                 </div>
@@ -32,8 +32,8 @@
                     <h2>Boost liquidity and buy without pounds</h2>
 
                     <p>Pay suppliers, buy expenses & staff perks.</p>
-                    
-                    <p>Zero interest credit in our local currency (⇌).</p> 
+
+                    <p>Zero interest credit in our local currency (⇌).</p>
 
                     <p><b>Cash is king, save it for when you need it.</b></p>
 
@@ -41,9 +41,9 @@
             </div>
 
             <div class="row mb-5 product-container mx-auto">
-                
+
                 <h3>Some of the company offers available in Parity:</h3>
-                
+
                 {{ range where site.Pages "Type" "in" "directory" }}
                     {{ $product_path := .RelPermalink }}
                     {{ $company_name := .Params.Name }}
@@ -87,7 +87,7 @@
                 <div class="col text-center">
                     <h2>Access a new market and sell more locally</h2>
 
-                    <p>Create listings on our local marketplace.</p> 
+                    <p>Create listings on our local marketplace.</p>
 
                     <p>Try it for free with your introductory offers.</p>
                 </div>
@@ -118,7 +118,7 @@
             <hr>
 
             <div class="row my-5" style="justify-content: center;">
-                
+
                 <div class="d-inline-block">
                     <h3 class="pt-2">Meet local customers and do more business</h3>
                 </div>
@@ -135,9 +135,9 @@
                 <div class="col-md-6 text-center my-auto">
                     <h2>Use your Parity balance at local suppliers to save cash. Sell in Parity to top back up your balance.</h2>
 
-                    <p>Make instant transactions with local businesses.</p> 
-                    
-                    <p>Available on desktop and mobile application.</p> 
+                    <p>Make instant transactions with local businesses.</p>
+
+                    <p>Available on desktop and mobile application.</p>
 
                 </div>
                 <div class="col-md-6 text-center">
