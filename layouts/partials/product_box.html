@@ -13,7 +13,7 @@
             <p class="mb-3"><a href="{{ .product_path }}">{{ .company_name }}</a> <em style="float: right;">{{ .location }}</em></p>
             <p style="height: 4.5rem; overflow: hidden" class="">{{ .context.description | markdownify }}</p>
             <p>
-                <img style="height: 1em; position: relative; top: -1px; padding-right: 5px;" src="/images/icons/parity-icon-grey.svg"><strong>{{ .context.price_prx }}</strong>
+                <span class="parity-currency"></span> <strong>{{ .context.price_prx }}</strong>
                 {{ if .context.price_gbp }}
                 + <strong>£{{ .context.price_gbp }}</strong>
                 {{ end }}

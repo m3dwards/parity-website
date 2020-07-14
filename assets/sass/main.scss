@@ -374,3 +374,18 @@ img[src*='#left'] {float: left; padding: 10px;}
     overflow: hidden !important;
     text-overflow: ellipsis;
 }
+
+.parity-currency, .parity-currency-pink {
+    height: 1em;
+    width: 1em;
+    position: relative;
+    top: 0.2em;
+    background-image: url('/images/icons/parity-icon-grey.svg');
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.parity-currency-pink {
+    background-image: url('/images/icons/parity-icon.svg');
+}
