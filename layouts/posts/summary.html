@@ -1,7 +1,7 @@
 
 <div class="">
     <h4>
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a><br> <small class="">Posted on {{ .Date.Format "Jan 2, 2006" }}</small>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a><br> <small class=""><span class="dark-grey">Posted on</span> {{ .Date.Format "Jan 2, 2006" }}</small>
     </h4>
 
     {{ $original := .Page.Resources.GetMatch (printf "*%s*" .Params.social_image) }}
