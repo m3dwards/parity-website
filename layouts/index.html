@@ -46,13 +46,14 @@
 
                 {{ range where site.Pages "Type" "in" "directory" }}
                     {{ $product_path := .RelPermalink }}
+                    {{ $product_link := "/marketplace" }}
                     {{ $company_name := .Params.Name }}
                     {{ $location := .Params.location }}
 
                     {{ range .Params.products }}
                         {{ if .homepage }}
 
-                            {{ partial "product_box" (dict "context" . "product_path" $product_path "company_name" $company_name "location" $location) }}
+                            {{ partial "product_box" (dict "context" . "product_path" $product_path "product_link" $product_link "company_name" $company_name "location" $location) }}
                         {{ end }}
                     {{ end}}
                 {{ end }}

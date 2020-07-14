@@ -6,11 +6,12 @@
             <h2>{{ .Params.Name }}</h2>
         </div>
         {{ $product_path := .RelPermalink }}
+        {{ $product_link := .RelPermalink }}
         {{ $company_name := .Params.Name }}
         {{ $location := .Params.location }}
 
         {{ range .Params.products }}
-            {{ partial "product_box" (dict "context" . "product_path" $product_path "company_name" $company_name "location" $location) }}
+            {{ partial "product_box" (dict "context" . "product_path" $product_path "product_link" $product_link "company_name" $company_name "location" $location) }}
         {{ end}}
     </div>
     <hr>
