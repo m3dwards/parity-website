@@ -8,4 +8,4 @@ description = "Posts about the development of Parity, our members and other rele
 
 +++
 
-# Blog
+# Our Blog
