@@ -20,7 +20,7 @@ logo = "logo.jpg"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Tools"
-  image = "Free-quote.jpg"
+  image = "stockphone.jpg"
 [[products]]
   title = "Free Site Audit"
   description = "Free site audit to identify the best telecoms option for you and your business."
