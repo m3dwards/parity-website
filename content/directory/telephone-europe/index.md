@@ -9,6 +9,7 @@ website = "https://telephone-europe.com/"
 email = "info@telephone-europe.com"
 tags = ["Telephone Systems", "Mobiles", "Broadband"]
 username = "telephone_europe"
+location = "Solihull"
 
 draft = false
 logo = "logo.jpg"
