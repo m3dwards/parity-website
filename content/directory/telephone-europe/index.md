@@ -14,8 +14,8 @@ draft = false
 logo = "logo.jpg"
 
 [[products]]
-  title = "Free Quotation and Telecoms Review"
-  description = "Free telecoms review and quotation to identify your best solution and pinpoint how much you will be able to save from switching."
+  title = "Free Telecoms Review"
+  description = "Free telecoms review to identify your best solution and pinpoint how much you will be able to save from switching."
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Tools"
