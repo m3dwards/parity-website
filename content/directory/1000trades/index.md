@@ -15,7 +15,7 @@ logo = "logo.jpg"
 
 [[products]]
   title = "Food Menu"
-  description = "Our eat in and takeaway food menu is available through Parity on a 50:50 basis. [See here](<a href='https://1000trades.org.uk/1kt/wp-content/uploads/2020/05/POSH-takeaway-menu-May-onwards.pdf'>) for what is available.
+  description = "Our eat in and takeaway food menu is available through Parity on a 50:50 basis. [See here](https://1000trades.org.uk/1kt/wp-content/uploads/2020/07/Trader-menu-post-lockdown.pdf) for what is available.
   price_prx = "6 (starting price)"
   price_gbp = "6 (starting price)"
   category = "Food & Beverage"
