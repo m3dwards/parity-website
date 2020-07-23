@@ -19,7 +19,7 @@ logo = "logo.jpg"
   price_prx = "6 (starting price)"
   price_gbp = "6 (starting price)"
   category = "Food & Beverage"
-  image = "1000Tall.jpeg"
+  image = "1000tradesfood.jpeg"
 [[products]]
   title = "Wine on tap"
   description = "<a href='https://1000trades.org.uk/1kt/wp-content/uploads/2020/03/1000-Trades-Wine-by-the-glass-MAR-2020-TEMP.pdf'>Menu</a> available to takeaway. 500ml and 1l re-usable bottles available."
