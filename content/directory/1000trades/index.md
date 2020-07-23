@@ -14,10 +14,10 @@ location = "Jewellery Quarter"
 logo = "logo.jpg"
 
 [[products]]
-  title = "Temporary Menu"
-  description = "<a href='https://1000trades.org.uk/1kt/wp-content/uploads/2020/05/POSH-takeaway-menu-May-onwards.pdf'>Takeaway Menu</a> available for collection and via Uber Eats, Tuesday to Saturday from 5 to 9pm. Please phone your order in."
-  price_prx = "various"
-  price_gbp = ""
+  title = "Food Menu"
+  description = "Our eat in and takeaway food menu is available through Parity on a 50:50 basis. [See here](<a href='https://1000trades.org.uk/1kt/wp-content/uploads/2020/05/POSH-takeaway-menu-May-onwards.pdf'>) for what is available.
+  price_prx = "6 (starting price)"
+  price_gbp = "6 (starting price)"
   category = "Food & Beverage"
   image = "1000Tall.jpeg"
 [[products]]
