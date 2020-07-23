@@ -19,7 +19,7 @@ logo = "logo.jpg"
   price_prx = "6 (starting price)"
   price_gbp = "6 (starting price)"
   category = "Food & Beverage"
-  image = "1000tradesfood.jpeg"
+  image = "1000tradesfood.jpg"
 [[products]]
   title = "Drinks"
   description = "The drinks from our bar are available 100% in Parity"
