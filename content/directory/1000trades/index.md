@@ -21,7 +21,7 @@ logo = "logo.jpg"
   category = "Food & Beverage"
   image = "1000tradesfood.jpg"
 [[products]]
-  title = "Drinks"
+  title = "Alcoholic & Soft Drinks"
   description = "The drinks from our bar are available 100% in Parity"
   price_prx = "3 (starting price)"
   price_gbp = ""
