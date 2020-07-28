@@ -54,7 +54,7 @@ logo = "logo.jpg"
   price_prx = "2.40 (starting price)"
   price_gbp = ""
   category = "Food & Beverage"
-  image = "1000tradescoffee.jpg"
+  image = "1000tradestea.jpg"
 
 
 +++
