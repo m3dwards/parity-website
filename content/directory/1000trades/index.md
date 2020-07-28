@@ -33,21 +33,21 @@ logo = "logo.jpg"
   price_prx = "62.50"
   price_gbp = "62.50"
   category = "Business Services"
-  image = "1000beer.jpeg"
+  image = "1000tradesfunction.jpeg"
 [[products]]
   title = "Function Room Hire - Half Day"
   description = "Our first floor function room is ideal for business, with fully flexible layout options and full audio video facilities including a 100 inch screen and projector."
   price_prx = "75"
   price_gbp = ""
   category = "Business Services"
-  image = "1000beer.jpeg"
+  image = "1000tradesfunction.jpeg"
 [[products]]
   title = "Function Room Hire - One Hour"
   description = "Our first floor function room is ideal for business, with fully flexible layout options and full audio video facilities including a 100 inch screen and projector."
   price_prx = "15"
   price_gbp = ""
   category = "Business Services"
-  image = "1000beer.jpeg"
+  image = "1000tradesfunction.jpeg"
 
 
 +++
