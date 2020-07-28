@@ -53,7 +53,7 @@ logo = "logo.jpg"
   description = "We serve an extensive selection of coffees from local roastery Quarter Horse and ten varieties of [loose leaf tea](https://www.instagram.com/p/B0NZ8ZljEDN/)."
   price_prx = "2.40 (starting price)"
   price_gbp = ""
-  category = "Business Services"
+  category = "Food & Beverage"
   image = "1000tradescoffee.jpg"
 
 
