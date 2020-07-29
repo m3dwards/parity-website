@@ -22,7 +22,7 @@ logo = "logo.jpg"
   image = "1000tradesfood.jpg"
 [[products]]
   title = "Alcoholic & Soft Drinks"
-  description = "The drinks from our bar are available 100% in Parity"
+  description = "We serve craft beers and [natural wines] (https://1000trades.org.uk/1kt/wp-content/uploads/2019/10/1000-Trades-Wine-by-the-glass-OCT-2019.pdf), alongside soft drinks that are all available 100% in Parity"
   price_prx = "3 (starting price)"
   price_gbp = ""
   category = "Food & Beverage"
