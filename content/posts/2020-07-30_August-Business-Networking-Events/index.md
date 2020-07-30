@@ -67,7 +67,7 @@ social_image_alt_text = "video call on a laptop"
 7:00am - 8.30am | £4.99  
 [Book](https://www.eventbrite.co.uk/e/bforb-open-house-networking-tickets-113088027334?aff=ebdssbonlinesearch)  
 
-####Great Birmingham Chamber of Commerce - Future Faces
+#### Great Birmingham Chamber of Commerce - Future Faces
 **Virtual Social Networking**
 12.30pm - 1.15pm | Member: Free - Non-Member: £10.00
 [Book](https://www.greaterbirminghamchambers.com/networking-events/events-calendar/listing/virtual-social-networking-200811/details)
@@ -116,19 +116,19 @@ social_image_alt_text = "video call on a laptop"
 10:00am - 12:00pm | FREE   
 [Book](https://www.blackcountrychamber.co.uk/events/19082020/third-week-wednesday-digital-networking/)
 
-####Saint Paul’s Networking Group 
+#### Saint Paul’s Networking Group 
 **Ladies Networking group**
 4:00pm - 6:00pm | FREE
 [Book](https://www.eventbrite.co.uk/e/spn-ladies-networking-group-tickets-113609021642?aff=ebdssbonlinesearch)  
 
 ## Tuesday 25th August  
 
-####Business for Breakfast
+#### Business for Breakfast
 **BforB Open House Networking** 
 7:00am - 8.30am | £4.99
 [Book](https://www.eventbrite.co.uk/e/bforb-open-house-networking-tickets-113088027334?aff=ebdssbonlinesearch)
 
-##Thursday 27th August 
+## Thursday 27th August 
 
 #### Business Over Breakfast   
 **Jewellery Quarter Club**   
