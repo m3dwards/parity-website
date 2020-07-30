@@ -5,7 +5,7 @@ date = "2020-07-30"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
-draft = "true"
+draft = 
 social_image = "video-call.jpg"
 social_image_alt_text = "video call on a laptop"
 +++
@@ -36,7 +36,7 @@ social_image_alt_text = "video call on a laptop"
 7.30am
 [Book](https://bnibirmingham.com/en-GB/chapterdetail?chapterId=9FHyDLkIsvccnW%2FfnnSaeQ%3D%3D&name=Alliance%20BNI%20%28Birmingham%29)
 
-![BNI logo](BNI-logo.jpg)
+![BNI logo](BNI-logo.png)
 
 ##Every Thursday 
 
@@ -54,7 +54,7 @@ social_image_alt_text = "video call on a laptop"
 
 ##Friday 7th August 
 
-![GBCC logo](GBCC-logo.jpg)
+![GBCC logo](GBCC-logo.png)
 
 ####Great Birmingham Chamber of Commerce
 **Virtual Social Networking**
@@ -87,7 +87,7 @@ social_image_alt_text = "video call on a laptop"
 
 ##Tuesday 18th August 
 
-![BoB logo](BoB-logo.jpg)
+![BoB logo](BoB-logo.png)
 
 ####Business Over Breakfast 
 **Birmingham Central Club**
