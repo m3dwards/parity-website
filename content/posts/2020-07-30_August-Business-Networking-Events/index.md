@@ -5,7 +5,7 @@ date = "2020-07-30"
 categories = ["Networking Events"]
 tags = []
 author = "Matteo Vanzini"
-draft = 
+draft = ""
 social_image = "video-call.jpg"
 social_image_alt_text = "video call on a laptop"
 +++
@@ -14,10 +14,10 @@ social_image_alt_text = "video call on a laptop"
 
 ##Tuesday 4th August 
 
-####Business Over Breakfast 
-**Birmingham Central Club**
-7.30am | FREE
-[Book](https://www.bobclubs.com/Club/Birmingham-Central)
+####Business Over Breakfast <br>
+**Birmingham Central Club** <br>
+7.30am | FREE <br>
+[Book](https://www.bobclubs.com/Club/Birmingham-Central)   
 [Zoom link](https://zoom.us/j/198666445?pwd=ZXNVZG03cnFMZGRpSXFaSEpibyttdz09) 
 
 ####Saint Paul’s Networking Group 
