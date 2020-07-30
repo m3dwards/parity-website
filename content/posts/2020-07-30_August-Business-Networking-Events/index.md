@@ -14,7 +14,7 @@ social_image_alt_text = "video call on a laptop"
 
 ## Tuesday 4th August 
 
-#### Business Over Breakfast   
+#### Business Over Breakfast
 **Birmingham Central Club**   
 7.30am | FREE   
 [Book](https://www.bobclubs.com/Club/Birmingham-Central) | [Zoom link](https://zoom.us/j/198666445?pwd=ZXNVZG03cnFMZGRpSXFaSEpibyttdz09) 
@@ -23,7 +23,7 @@ social_image_alt_text = "video call on a laptop"
 4:00pm - 5:00pm | FREE   
 [Book](https://www.eventbrite.co.uk/e/saint-pauls-networking-group-virtual-tickets-113608437896?aff=ebdssbonlinesearch)  
 
-## very Wednesday  
+## Every Wednesday  
 
 #### Business Network International   
 **St. Pauls BNI - Jewellery Quarter**   
