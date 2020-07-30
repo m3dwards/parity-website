@@ -1,6 +1,9 @@
 {{ define "title" }}
-{{ .Title }} &ndash; {{ .Site.Title }}
+    {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "book_demo" }}
+    <!-- I wish to have no book demo -->
 {{ end }}
 {{ define "main" }}
-{{ .Render "main" }}
+    {{ .Render "main" }}
 {{ end }}
