@@ -12,6 +12,8 @@ social_image_alt_text = "video call on a laptop"
 
 ![video call](video-call.jpg)
 
+# August Business Networking Events
+
 ## Tuesday 4th August 
 
 #### Business Over Breakfast
