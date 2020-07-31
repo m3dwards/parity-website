@@ -1,4 +1,5 @@
 +++
+
 name = "Odyssey New Media"
 latitude = 52.441204
 longitude = -1.9431914
@@ -8,7 +9,7 @@ telephone = "0121 439 5450"
 website = "https://www.odysseynewmedia.com"
 email = "rstoubos@odysseynewmedia.com"
 tags = ["Digital Agency", "SEO", "PPC", "Web Design"]
-username = "odyssey_media"
+username = ""
 location = "Selly Oak"
 
 logo = ""
