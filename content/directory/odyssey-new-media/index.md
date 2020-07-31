@@ -12,7 +12,7 @@ tags = ["Digital Agency", "SEO", "PPC", "Web Design"]
 username = ""
 location = "Selly Oak"
 
-logo = ""
+logo = "odyssey-logo.jpg"
 
 [[products]]
   title = "SEO Training"
