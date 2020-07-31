@@ -20,7 +20,7 @@ logo = "odyssey-logo.jpg"
   price_prx = "250"
   price_gbp = ""
   category = "Business Services"
-  image = "training.jpg"
+  image = "training-seo.jpg"
 [[products]]
   title = "PPC Training"
   description = "Learn essential PPC strategies and process so you can maximise your AdWords and other online search ad campaigns."
