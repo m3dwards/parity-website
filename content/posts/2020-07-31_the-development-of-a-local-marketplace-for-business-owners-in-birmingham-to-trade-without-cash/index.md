@@ -7,11 +7,11 @@ tags = []
 author = "Stuart Bowles"
 draft = false
 # 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
-social_image = ""
-social_image_alt_text = ""
+social_image = "marketplace.jpg"
+social_image_alt_text = "marketplace view on Parity website"
 +++
 
-![]()
+![marketplace](marketplace.jpg)
 
 # The development of a local marketplace for business-owners in Birmingham to trade without cash
 
