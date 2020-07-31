@@ -10,7 +10,7 @@ website = "https://www.odysseynewmedia.com"
 email = "rstoubos@odysseynewmedia.com"
 tags = ["Digital Agency", "SEO", "PPC", "Web Design"]
 username = "odyssey-media"
-location = "Selly Oak"
+location = "Birmingham"
 
 logo = "odyssey-logo.jpg"
 
