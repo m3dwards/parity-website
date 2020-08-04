@@ -13,9 +13,9 @@ social_image_alt_text = "marketplace view on Parity website"
 
 ![marketplace](marketplace.jpg)
 
-# The development of a local marketplace for business-owners in Birmingham to trade without cash
+## The development of a local marketplace for business-owners in Birmingham to trade without cash
 
-## Parity has been supported with a grant from the Greater Birmingham and Solihull Local Enterprise Partnership (GBSLEP)
+### Parity has been supported with a grant from the Greater Birmingham and Solihull Local Enterprise Partnership (GBSLEP)
 
 Parity Network offers business-owners a marketplace to trade without cash. It developed from a research project at the University of Birmingham that studied similar models in Italy and Switzerland. We have spent a significant amount of time adapting the model to meet the needs of businesses in Birmingham. It uses a local currency to allow businesses to make purchases and conduct sales without the need for pound sterling. In January we launched with a small number of businesses in the Jewellery Quarter, who started making business to business transactions within the local currency. Parity provided businesses a way of meeting new clients, receiving an additional income and making purchases within local businesses, including an independent pub. In March, our development attracted the attention of the GBSLEP, who saw the potential Parity had to support local businesses, especially as the lockdown was just starting to come into effect. I thought I’d spend a little time explaining how the GBSLEP has supported our development over the last three months.
 
