@@ -19,28 +19,28 @@ logo = "logo.jpg"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
-  image = ""
+  image = "compliance.jpg"
 [[products]]
   title = "Coaching Session – SME Business Owners"
   description = "A free 30 minute coaching session to experience the benefit of coaching for yourself."
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
-  image = ""
+  image = "coaching.jpg"
 [[products]]
   title = "CV Writing Service"
   description = "Professional CV-writing service to help you get hired faster."
   price_prx = "100"
   price_gbp = ""
   category = "Business Services"
-  image = ""
+  image = "cv-writing.jpg"
 [[products]]
   title = "HR Advice Telephone Consultation"
   description = "1 hour telephone consultation to discuss any people issues."
   price_prx = "100"
   price_gbp = ""
   category = "Business Services"
-  image = ""
+  image = "problems.jpg"
   
   
 +++
