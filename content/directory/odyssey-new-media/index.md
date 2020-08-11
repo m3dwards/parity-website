@@ -16,7 +16,7 @@ logo = "odyssey-logo.jpg"
 
 [[products]]
   title = "SEO Training"
-  description = "Learn essential SEO strategies and process so you can maximise your SEO strategy and boost your traffic and rankings on Google and other search engines."
+  description = "Learn essential SEO strategies so you can maximise your SEO processes and boost your traffic and rankings on search engines."
   price_prx = "250"
   price_gbp = ""
   category = "Business Services"
