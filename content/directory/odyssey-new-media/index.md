@@ -23,7 +23,7 @@ logo = "odyssey-logo.jpg"
   image = "training-seo.jpg"
 [[products]]
   title = "PPC Training"
-  description = "Learn essential Pay Per Click (PPC) strategies and process so you can maximise your AdWords and other online search ad campaigns."
+  description = "Learn essential Pay Per Click (PPC) strategies so you can maximise your AdWords and other online search ad campaigns."
   price_prx = "250"
   price_gbp = ""
   category = "Business Services"
