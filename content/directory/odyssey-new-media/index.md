@@ -16,14 +16,14 @@ logo = "odyssey-logo.jpg"
 
 [[products]]
   title = "SEO Training"
-  description = "Learn essential SEO strategies and process so you can maximise your SEO strategy and boots your traffic and rankings on Google and other search engines."
+  description = "Learn essential SEO strategies and process so you can maximise your SEO strategy and boost your traffic and rankings on Google and other search engines."
   price_prx = "250"
   price_gbp = ""
   category = "Business Services"
   image = "training-seo.jpg"
 [[products]]
   title = "PPC Training"
-  description = "Learn essential PPC strategies and process so you can maximise your AdWords and other online search ad campaigns."
+  description = "Learn essential Pay Per Click (PPC) strategies and process so you can maximise your AdWords and other online search ad campaigns."
   price_prx = "250"
   price_gbp = ""
   category = "Business Services"
