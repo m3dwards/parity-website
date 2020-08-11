@@ -37,7 +37,7 @@ logo = "odyssey-logo.jpg"
   image = "seo-management.jpg"
 [[products]]
   title = "PPC Management"
-  description = "Monthly Pay Per CLick Management including setup, campaign creation, campaign optimisation, bid management and monthly reporting."
+  description = "Monthly Pay Per Click Management including setup, campaign creation and optimisation, bid management and monthly reporting."
   price_prx = "225 /mo"
   price_gbp = "225 /mo"
   category = "Business Services"
