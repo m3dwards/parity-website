@@ -44,7 +44,7 @@ logo = "odyssey-logo.jpg"
   image = "ppc-management.jpg"
 [[products]]
   title = "FREE SEO Audit and Consultation"
-  description = "We will audit your website and show you where your SEO needs improving so you can you can boost your SEO strategy in 30 minutes."
+  description = "We will audit your website and show you where your SEO needs improving so you can you can boost your SEO in 30 minutes."
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
