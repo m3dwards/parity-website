@@ -21,7 +21,7 @@ logo = "logo.jpg"
   category = "Business Services"
   image = "compliance.jpg"
 [[products]]
-  title = "Coaching Session – SME Business Owners"
+  title = "Coaching Session – Directors"
   description = "A free 30 minute coaching session to experience the benefit of coaching for yourself."
   price_prx = "FREE"
   price_gbp = ""
