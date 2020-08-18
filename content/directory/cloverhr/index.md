@@ -36,7 +36,7 @@ logo = "logo.jpg"
   image = "cv-writing.jpg"
 [[products]]
   title = "HR Advice Telephone Consultation"
-  description = "1 hour telephone consultation to discuss any people issues."
+  description = "1 hour telephone [confidential consultation](https://www.cloverhr.co.uk/hr-services/hr-support-advice/) to discuss any people plans or issues that your business currently has."
   price_prx = "100"
   price_gbp = ""
   category = "Business Services"
