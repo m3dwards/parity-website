@@ -4,7 +4,7 @@ latitude = 52.457134
 longitude = -1.885182
 
 address = "The Transfer, The Old Print Works, 498-506 Moseley Road, Birmingham, B12 9AH"
-telephone = ""
+telephone = "0779 183 9025"
 website = "https://energyconfidence.co.uk/"
 email = "philip.beardmore@gmail.com"
 tags = ["Energy Efficiency", "Energy Saving"]
