@@ -11,7 +11,7 @@ tags = ["Energy Efficiency", "Energy Saving"]
 username = "energy-confidence"
 location = "Moseley"
 
-logo = "Energy-confidence-logo.png"
+logo = "Energy-confidence-logo-.png"
 
 [[products]]
   title = "Energy Saving workbook for business"
