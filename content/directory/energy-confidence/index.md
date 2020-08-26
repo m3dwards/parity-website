@@ -15,7 +15,7 @@ logo = "Energy-confidence-logo-.png"
 
 [[products]]
   title = "Energy Saving workbook for business"
-  description = "Increase profits and save the planet through energy saving. A [self-help workbook](https://energyconfidence.co.uk/product/orkbook-business) that you can use to make an action plan for your business."
+  description = "Increase profits and save the planet through energy saving. A [self-help workbook](https://energyconfidence.co.uk/product/orkbook-business) to make a business action plan."
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
