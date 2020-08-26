@@ -14,14 +14,14 @@ location = "Moseley"
 logo = "Energy-confidence-logo-.png"
 
 [[products]]
-  title = "Energy Saving workbook for business"
+  title = "Energy Saving Business Workbook"
   description = "Increase profits and save the planet through energy saving. A [self-help workbook](https://energyconfidence.co.uk/product/orkbook-business) to make a business action plan."
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services"
   image = "phil-4.jpg"
 [[products]]
-  title = "On site energy saving advice package"
+  title = "Onsite Energy Advice Package"
   description = "Increase business profits and save the planet through energy saving. [Expert coaching](https://energyconfidence.co.uk/product/on-site-advice-package-small-business-parity/) to help you with an energy action plan."
   price_prx = "349"
   price_gbp = ""
