@@ -394,13 +394,23 @@ img[src*='#left'] {float: left; padding: 10px;}
     color: #1f2533;
 }
 
-.gradient {
+.gradient:after {
     background-image:
         linear-gradient(
             to right,
-            red,
             #FF005A,
             #464646
         );
     opacity: 0.3;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    content: ' ';
+    transition: all 0.3s ease-in-out;
+}
+
+.product-box:hover .gradient:after {
+    opacity: 0;
 }
