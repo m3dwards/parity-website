@@ -395,7 +395,7 @@ img[src*='#left'] {float: left; padding: 10px;}
 }
 
 .light-gradient:after {
-    opacity: 0.1
+    opacity: 0.1 !important;
 }
 
 .gradient:after {
