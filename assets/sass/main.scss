@@ -393,3 +393,14 @@ img[src*='#left'] {float: left; padding: 10px;}
 .dark-grey {
     color: #1f2533;
 }
+
+.gradient {
+    background-image:
+        linear-gradient(
+            to right,
+            red,
+            #FF005A,
+            #464646
+        );
+    opacity: 0.3;
+}
