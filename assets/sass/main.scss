@@ -420,3 +420,12 @@ img[src*='#left'] {float: left; padding: 10px;}
 .product-box:hover .gradient:after {
     opacity: 0;
 }
+
+.greyscale {
+    filter: grayscale(100%);
+    transition: all 0.3s ease-in-out;
+}
+
+.product-box:hover .greyscale {
+    filter: none;
+}
