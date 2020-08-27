@@ -20,11 +20,6 @@ With all of our accounts you start with a credit facility that you can immediate
 
 <br>
 
-### What do I use this local currency for?
-Want to…minimise cash out to local suppliers? Purchase new tools or services without spending cash? Treat your team to local perks without footing the bill in pounds? Parity does all of that and more. If a business you currently work with or want to work with is on the network, you can keep your cash in the bank while still purchasing from them using Parity. Cash is king. Save it for when you really need it.
-
-<br>
-
 ### What about taxes? How do I use PRX in my business accounts? 
 Parity is easily integrated in your business accounts as another method of payment or line in your balance sheet. It’s like cash, but it’s not - so you can’t use PRX (⇌)for everything. Taxes have to be paid in GBP and that’s why we allow blended transactions, PRX (⇌) and GBP (£), so that your business can benefit from this extra liquidity without missing cash when needed. 
 
@@ -32,6 +27,11 @@ Parity is easily integrated in your business accounts as another method of payme
 
 ### Can I leave without paying off my credit facility?
 If you leave overdrawn, the exit fee is equal to your credit balance and will need to be settled. As long as you are a member there is no deadline for repayment. If you leave with a positive balance, you will have twelve months to spend the remaining balance before your account is closed.
+
+<br>
+
+### What do I use this local currency for?
+Want to…minimise cash out to local suppliers? Purchase new tools or services without spending cash? Treat your team to local perks without footing the bill in pounds? Parity does all of that and more. If a business you currently work with or want to work with is on the network, you can keep your cash in the bank while still purchasing from them using Parity. Cash is king. Save it for when you really need it.
 
 <br>
 
