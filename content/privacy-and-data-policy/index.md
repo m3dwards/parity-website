@@ -1,3 +1,13 @@
++++
+
+title = "Privacy & Data Policy"
+# 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
+social_image = "social.jpg"
+social_image_alt_text = "Picture of Birmingham with the words Privacy & Data policy overlayed"
+description = "Parity privacy & data policy"
+
++++
+
 # Privacy and data policy
 <style>ul {list-style: disc}</style>
 <p>Privacy and Data Policy</p>
