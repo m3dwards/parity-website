@@ -1,8 +1,9 @@
 +++
 
 title = "Sign Up"
-social_image = ""
-social_image_alt_text = ""
+# 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
+social_image = "social.jpg"
+social_image_alt_text = "Picture of Birmingham with the words sign up overlayed"
 description = "Sign up to Parity Network"
 
 +++
