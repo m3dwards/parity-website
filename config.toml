@@ -1,6 +1,8 @@
 baseURL = "https://parity.uk"
 languageCode = "en-gb"
 title = "Parity Network"
+[markup.goldmark.renderer]
+  unsafe= true
 [params]
   archive-paginate = 10
   marketplace_categories = ["Business Services", "Business Tools", "Premises & Office", "Food & Beverage"]
