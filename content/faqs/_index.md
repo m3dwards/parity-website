@@ -36,4 +36,4 @@ Want to…minimise cash out to local suppliers? Purchase new tools or services w
 <br>
 
 ### Is it like barter or Bitcoin? 
-Parity is neither of those. First, it is not like barter, because you have a balance in the local currency (<span class="parity-currency"></span>) to spend with anyone with listings in the marketplace. Your own listings can be bought by anyone in Parity. It’s not a direct swap like barter. Secondly, it’s not like Bitcoin because you don’t need to buy into the currency first. You just join Parity and receive your balance to increase local spending power and boost immediately your liquidity. 
+Parity is neither of those. First, it is not like barter, because you have a balance in the local currency (<span class="parity-currency"></span>) to spend with anyone with listings in the marketplace. Your own listings can be bought by anyone in Parity. It’s not a direct swap like barter. Secondly, it’s not like Bitcoin because you don’t need to buy into the currency first. You just join Parity and receive your zero interest overdraft to increase local spending power and boost immediately your liquidity.
