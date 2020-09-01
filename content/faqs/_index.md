@@ -11,17 +11,17 @@ description = "Frequently asked questions about being a parity member"
 # FAQs
 
 ### What is a ‘local currency’? 
-Parity is a zero-interest credit facility in an alternative currency called PRX (⇌). The currency is always equal in value to GBP, but you can only spend it with local vendors in the network. Parity boosts liquidity of its users and facilitates new trade opportunities in your local business community. 
+Parity is a zero-interest credit facility in an alternative currency called PRX (<span class="parity-currency"></span>). The currency is always equal in value to GBP, but you can only spend it with local vendors in the network. Parity boosts liquidity of its users and facilitates new trade opportunities in your local business community. 
 
 <br>
 
 ### Zero-interest credit facility? How does it work? 
-With all of our accounts you start with a credit facility that you can immediately spend in the network. You later sell in PRX (⇌) to top it up. As long as you are a Parity member there is no interest, hidden costs or deadlines for repayment. Parity credit facility boosts your local spending power and supports cash flow. 
+With all of our accounts you start with a credit facility that you can immediately spend in the network. You later sell in PRX (<span class="parity-currency"></span>) to top it up. As long as you are a Parity member there is no interest, hidden costs or deadlines for repayment. Parity credit facility boosts your local spending power and supports cash flow. 
 
 <br>
 
 ### What about taxes? How do I use PRX in my business accounts? 
-Parity is easily integrated in your business accounts as another method of payment or line in your balance sheet. It’s like cash, but it’s not - so you can’t use PRX (⇌)for everything. Taxes have to be paid in GBP and that’s why we allow blended transactions, PRX (⇌) and GBP (£), so that your business can benefit from this extra liquidity without missing cash when needed. 
+Parity is easily integrated in your business accounts as another method of payment or line in your balance sheet. It’s like cash, but it’s not - so you can’t use PRX (<span class="parity-currency"></span>) for everything. Taxes have to be paid in GBP and that’s why we allow blended transactions, PRX (<span class="parity-currency"></span>) and GBP (£), so that your business can benefit from this extra liquidity without missing cash when needed. 
 
 <br>
 
