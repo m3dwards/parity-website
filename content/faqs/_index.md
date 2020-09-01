@@ -30,7 +30,7 @@ If you leave overdrawn, the exit fee is equal to your credit balance and will ne
 
 <br>
 
-### What do I use this local currency for?
+### What do I use this local currency (<span class="parity-currency"></span>) for?
 Want to…minimise cash out to local suppliers? Purchase new tools or services without spending cash? Treat your team to local perks without footing the bill in pounds? Parity does all of that and more. If a business you currently work with or want to work with is on the network, you can keep your cash in the bank while still purchasing from them using Parity. Cash is king. Save it for when you really need it.
 
 <br>
