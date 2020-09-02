@@ -64,7 +64,7 @@
 
             <div class="row my-5" style="justify-content: center;">
 
-                <div class="d-inline-block">
+                <div class="d-inline-block text-center">
                     <h3 class="">Meet local customers and do more business</h3>
                 </div>
                 <div class="d-inline-block ml-4 text-center" style="">
@@ -91,7 +91,9 @@
 
             <div class="row mb-5 product-container mx-auto">
 
-                <h3>Some of the offers available our marketplace:</h3>
+                <div class="text-center">
+                    <h3>Some of the offers available our marketplace:</h3>
+                </div>
 
                 {{ range where site.Pages "Type" "in" "directory" }}
                     {{ $product_path := .RelPermalink }}
@@ -121,7 +123,7 @@
             <hr>
 
             <div class="row my-5" style="justify-content: center;">
-                <div class="d-inline-block">
+                <div class="d-inline-block text-center">
                     <h3 class="">Increase your local spending power</h3>
                 </div>
                 <div class="d-inline-block ml-4 text-center" style="">
@@ -131,7 +133,6 @@
                 </div>
             </div>
 
-            <hr class="d-md-none">
             <hr>
 
             <div class="row my-5" id="available-on-phone">
