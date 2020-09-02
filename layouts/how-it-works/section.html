@@ -5,5 +5,21 @@
     <!-- I wish to have no book demo -->
 {{ end }}
 {{ define "main" }}
-    {{ .Render "main" }}
+
+<div id="how-it-works" class="main-page">
+    <div id="feature" class="gradient light-gradient">
+    </div>
+    <div class="container">
+        {{ .Render "main" }}
+        <hr>
+        <div class="row my-5">
+            <div class="col text-center">
+                <h3>Want to see what is available?</h3>
+                <p><b>Cash is king, save it for when you need it.</b></p>
+                <p>Post free listings and generate new business.</p>
+                <a href="/marketplace" class="btn btn-dark">See Marketplace</a>
+            </div>
+        </div>
+    </div>
+</div>
 {{ end }}
