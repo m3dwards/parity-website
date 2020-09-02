@@ -20,11 +20,42 @@
 
         {{ $products = shuffle $products }}
 
-        {{ range $p_index, $product := $products }}
+        {{ range $p_index, $product := first 6 $products }}
                 {{ partial "product_box" $product }}
         {{ end }}
-
     </div>
+    {{ if gt (len $products) 6 }}
+    <div class="text-center">
+        <a href="#" id="button-show-{{md5 $element}}"><h4>Show more</h4></a>
+    </div>
+    <div class="row" style="justify-content: center; display: none;" id="extra-products-{{ md5 $element }}">
+        {{ range $p_index, $product := after 6 $products }}
+            {{ partial "product_box" $product }}
+        {{ end }}
+    </div>
+    <div class="text-center">
+        <a href="#" id="button-hide-{{md5 $element}}" style="display: none;"><h4>Show less</h4></a>
+        <script>
+            //DRY don't @ me!
+            $("#button-show-{{md5 $element}}").click(function() {
+                $("#extra-products-{{md5 $element}}").slideToggle();
+                $("#button-show-{{md5 $element}}").hide();
+                $("#button-hide-{{md5 $element}}").show();
+                return false;
+            });
+            $("#button-hide-{{md5 $element}}").click(function() {
+                $("#extra-products-{{md5 $element}}").slideToggle();
+                $("#button-hide-{{md5 $element}}").hide();
+                $("#button-show-{{md5 $element}}").focus();
+                $("#button-show-{{md5 $element}}").show();
+                $([document.documentElement, document.body]).animate({
+                    scrollTop: $("#button-show-{{md5 $element}}").offset().top - 200
+                }, 400);
+                return false;
+            });
+        </script>
+    </div>
+    {{ end }}
     {{ if eq $index 0 }}
         <hr>
         <div class="row my-5" id="">
