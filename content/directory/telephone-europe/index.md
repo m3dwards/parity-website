@@ -64,7 +64,7 @@ logo = "logo.jpg"
   category = "Business Tools"
   image = "VoIP Telephones.jpg"
 [[products]]
-  title = "Broadcast Emergency Announcements"
+  title = "Emergency Announcements"
   description = "Keep your office safe and secure with our lockdown system which connects directly to your telephone system."
   price_prx = "50% subject to requirements and volume"
   price_gbp = ""
