@@ -1,3 +1,4 @@
++++
 name = "Business Support Organisation"
 latitude = 52.5512462
 longitude = -2.0095192
@@ -9,3 +10,7 @@ email = "info@thebso.co.uk"
 tags = ["Business Support", "Business Networking"]
 username = "BSO"
 location = "Walsall"
+
+logo = "logo-bso.png"
+
++++
