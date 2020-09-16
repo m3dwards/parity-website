@@ -1,10 +1,10 @@
 +++
 draft = false
 name = "Little Media Agency"
-latitude = 52.477065
-longitude = -1.913281
+latitude = 52.480619
+longitude = -1.914098
 
-address = "8 Brindley Place, Birmingham, B1 2TZ"
+address = "Quay Place Studios, Nelson House, Edward Street, Birmingham, B1 2RA"
 telephone = "07852 657935"
 website = "https://littlemediaagency.com/"
 email = "info@littlemediaagency.com"
