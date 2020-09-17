@@ -29,7 +29,7 @@ Birmingham and the West Midlands have embraced the inclusivity challenge with th
 
 ##### *Infrastructure*
 
-![West Midlands Combined Authority logo](wmca-logo.png)
+![West Midlands Combined Authority logo](wmca-logo.jpg)
 
 The West Midlands Combined Authority (WMCA) is investing heavily in [improving infrastructure](https://www.wmca.org.uk/media/2230/infrastructure.pdf) to make sure economic prosperity is distributed across society and opportunities are accessible to all. 
 
