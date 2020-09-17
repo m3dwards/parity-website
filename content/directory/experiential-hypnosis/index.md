@@ -7,7 +7,7 @@ address = "St Pauls Square, Suite 2A, Blackthorn House, Jewellery Quarter, Birmi
 telephone = "07828 971 058"
 website = "https://executivehypnotist.com/"
 email = "	sales@experiential-hypnosis.com"
-tags = ["Business Support"]
+tags = ["Business Support", "Coaching"]
 username = "exp_hypnosis"
 location = "Jewellery Quarter"
 
