@@ -31,7 +31,8 @@ Birmingham and the West Midlands have embraced the inclusivity challenge with th
 
 The West Midlands Combined Authority (WMCA) is investing heavily in [improving infrastructure](https://www.wmca.org.uk/media/2230/infrastructure.pdf) to make sure economic prosperity is distributed across society and opportunities are accessible to all. 
 
-> *“connectivity through transport is a great example of how investment can improve communities’ access to opportunity and drive economic growth”* [Andy Street](https://blog.bham.ac.uk/cityredi/redi-updates-interview-andy-street-the-west-midlands-mayor-on-inclusive-growth/), WMCA mayor, July 2020.
+> “connectivity through transport is a great example of how investment can improve communities’ access to opportunity and drive economic growth”
+[Andy Street](https://blog.bham.ac.uk/cityredi/redi-updates-interview-andy-street-the-west-midlands-mayor-on-inclusive-growth/), WMCA mayor, July 2020.
 
 Infrastructure is a key element for regional development, SMEs competitiveness and inclusion. These investments are overseen by the [WMCA Inclusive Growth Unit](https://www.wmca.org.uk/what-we-do/public-service-reform/inclusive-growth-unit/) which makes sure the implications on local communities are taken into consideration and proposals are assessed within the [Inclusive Growth Framework](https://governance.wmca.org.uk/documents/s2060/Report.pdf) - [Doughnut Economics](https://www.kateraworth.com/doughnut/) model from Kate Raworth.
 
