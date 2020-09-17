@@ -18,28 +18,28 @@ logo = "logo.jpg"
   price_prx = "100% subject to requirements and volume"
   price_gbp = ""
   category = "Premises & Office" 
-  image = ""
+  image = "small-clear.jpg"
 [[products]]
   title = "Recycling"
   description = "Collection and disposal of metal, cardboard and plastic waste."
   price_prx = "100% subject to requirements and volume"
   price_gbp = ""
   category = "Premises & Office" 
-  image = ""
+  image = "recycling.jpg"
 [[products]]
   title = "House Clearance"
   description = "Collection and removal of any content or item from the property"
   price_prx = "50% subject to requirements and volume"
   price_gbp = ""
   category = "Premises & Office"
-  image = ""
+  image = "house-clear.jpg"
 [[products]]
   title = "Offica Clearance"
   description = "Collection and removal of any content or item from the property"
   price_prx = "50% subject to requirements and volume"
   price_gbp = ""
   category = "Premises & Office" 
-  image = ""
+  image = "office-clear.jpg"
 
   
 +++
