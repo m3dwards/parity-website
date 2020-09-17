@@ -27,7 +27,9 @@ The [definitions](https://blog.bham.ac.uk/cityredi/redi-updates-1-what-is-inclus
 
 Birmingham and the West Midlands have embraced the inclusivity challenge with the following initiatives:
 
-***Infrastructure***
+#### *Infrastructure*
+
+![West Midlands Combined Authority logo](wmca-logo.png)
 
 The West Midlands Combined Authority (WMCA) is investing heavily in [improving infrastructure](https://www.wmca.org.uk/media/2230/infrastructure.pdf) to make sure economic prosperity is distributed across society and opportunities are accessible to all. 
 
@@ -36,13 +38,17 @@ The West Midlands Combined Authority (WMCA) is investing heavily in [improving i
 
 Infrastructure is a key element for regional development, SMEs competitiveness and inclusion. These investments are overseen by the [WMCA Inclusive Growth Unit](https://www.wmca.org.uk/what-we-do/public-service-reform/inclusive-growth-unit/) which makes sure the implications on local communities are taken into consideration and proposals are assessed within the [Inclusive Growth Framework](https://governance.wmca.org.uk/documents/s2060/Report.pdf) - [Doughnut Economics](https://www.kateraworth.com/doughnut/) model from Kate Raworth.
 
-***Human capital***
+##### *Human capital*
+
+![Aston Business School](ABS.jpg)
 
 Birmingham is a young, multicultural city with a vibrant [economic fabric](https://www.birmingham.ac.uk/Documents/college-social-sciences/business/research/city-redi/Databooks/west-midlands-databook-2019.pdf). Entrepreneurial skills and business support are keys to success and recent projects at Aston Business School aimed to be more supportive of inclusive growth.
 
 [BSEEN](https://b-seen.biz/) (Birmingham Skills for Enterprise and Employability Network) offers students and graduates a great package of intensive start-up support. The [Aston Programme for Small Business Growth](https://www2.aston.ac.uk/aston-business-school/business/centre-for-growth/aston-programme-for-small-business-growth) aims to support SMEs growth and employment in the region. [CREME](https://www2.aston.ac.uk/aston-business-school/research/research-centres/CREME) (Centre for Research in Ethnic Minority Entrepreneurship) offers leading expertise on business support for ethnic minority entrepreneurs, and it’s currently involved in the following projects: [The Business Leaders Project](https://vimeo.com/254118123); [Productivity from Below](https://www.enterpriseresearch.ac.uk/productivity-addressing-productivity-challenges-microbusinesses/): Addressing the Productivity Challenges of Microbusinesses and [The Diverse Supply Chain](https://diversesupplychains.co.uk/).
 
-***Finance***
+###### *Finance*
+
+![ART Business Loans](ART.jpg)
 
 Researchers identify the lack of affordable credit available to SMEs at levels of £0-£150,000 and remark the [regional imbalance](https://www.accountingweb.co.uk/community/industry-insights/whats-driving-the-regional-imbalance-in-uk-sme-funding) in UK SME funding, besides the [struggle](https://www.ft.com/content/4f7ab34c-5a70-4cae-b04d-1c90ed1a230e) for certain demographics e.g. black entrepreneurs to access finance and find investors. 
 
