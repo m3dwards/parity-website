@@ -7,9 +7,11 @@ tags = []
 author = "Matteo Vanzini"
 draft = false
 # 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
-social_image = ""
-social_image_alt_text = ""
+social_image = "WMCA.jpg"
+social_image_alt_text = "Doughnut economics model used to by the West Midlands Combined Authority"
 +++
+
+![Doughnut economics model for WMCA](WMCA.jpg)
 
 ## Inclusive Economy
 
