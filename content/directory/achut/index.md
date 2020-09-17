@@ -13,20 +13,33 @@ username = "achut"
 logo = "logo.jpg"
 
 [[products]]
-  title = "Removal Service"
-  description = "Office / House clearance"
-  price_prx = "based on the labour involved, vehicles required and any disposal or recycling charges"
+  title = "Small Clearance"
+  description = "Collection of one item such as bed, desk, white goods etc. "
+  price_prx = "100% subject to requirements and volume"
   price_gbp = ""
-[[products]]
-  title = "Waste Removal" 
-  description = "Commercial waste collection across Birmingham"
-  price_prx = "based on the labour involved, vehicles required and any disposal or recycling charges"
-  price_gbp = ""
+  category = "Premises & Office" 
+  image = ""
 [[products]]
   title = "Recycling"
-  description = "Furniture / White goods recycling"
-  price_prx = "based on the labour involved, vehicles required and any disposal or recycling charges"
+  description = "Collection and disposal of metal, cardboard and plastic waste."
+  price_prx = "100% subject to requirements and volume"
   price_gbp = ""
-  
+  category = "Premises & Office" 
+  image = ""
+[[products]]
+  title = "House Clearance"
+  description = "Collection and removal of any content or item from the property"
+  price_prx = "50% subject to requirements and volume"
+  price_gbp = ""
+  category = "Premises & Office"
+  image = ""
+[[products]]
+  title = "Offica Clearance"
+  description = "Collection and removal of any content or item from the property"
+  price_prx = "50% subject to requirements and volume"
+  price_gbp = ""
+  category = "Premises & Office" 
+  image = ""
+
   
 +++
