@@ -10,4 +10,7 @@ email = "	sales@experiential-hypnosis.com"
 tags = ["Business Support"]
 username = "exp_hypnosis"
 location = "Jewellery Quarter"
+
+logo = "steve-woods-logo.png"
+
 +++
