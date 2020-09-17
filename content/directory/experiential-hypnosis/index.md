@@ -1,5 +1,5 @@
 +++
-name = "Business Support Organisation"
+name = "Experiential Hypnosis"
 latitude = 52.4
 longitude = -1.9065183
 
