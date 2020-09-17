@@ -37,10 +37,8 @@ img.shadow, img[src*='#shadow'], { filter: drop-shadow(5px 5px 5px #666666); }
 .narrow { font-family: 'Montserrat', sans-serif; }
 .nav-link { display: inline-block; }
 blockquote {
-    /* font-weight: 700; */
-    /* font-family: 'Montserrat', sans-serif; */
-    /* color: $main-pink; */
-    /* font-size: 22px; */
+    color: $main-pink;
+    font-size: 22px;
 }
 
 #faqs h3 { margin-bottom: 1rem; }
