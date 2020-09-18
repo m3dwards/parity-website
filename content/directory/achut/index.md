@@ -34,7 +34,7 @@ logo = "logo.jpg"
   category = "Premises & Office"
   image = "house-clear.jpg"
 [[products]]
-  title = "Offica Clearance"
+  title = "Office Clearance"
   description = "Collection and removal of any content or item from the property"
   price_prx = "50% subject to requirements and volume"
   price_gbp = ""
