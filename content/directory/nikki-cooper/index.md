@@ -11,6 +11,6 @@ tags = ["Photography"]
 username = "nikki_cooper"
 location = "Oldbury"
 
-logo = ""
+logo = "nc-logo.jpg"
 
 +++
