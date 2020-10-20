@@ -11,6 +11,6 @@ tags = ["Architecture", "Interior Design", "Visual Communication"]
 username = "avalon_design"
 location = "Moseley"
 
-logo = "avalon-logo.jpg"
+logo = "avalon-logo2.jpg"
 
 +++
