@@ -11,6 +11,6 @@ tags = ["IT Support", "Office 365", "VoIP", "IT Procurement"]
 username = "complex_it"
 location = "Jewellery Quarter"
 
-logo = ""
+logo = "complexit-logo.png"
 
 +++
