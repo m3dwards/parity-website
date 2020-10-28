@@ -1,5 +1,5 @@
 +++
-name = "Nikki Cooper"
+name = "Nikki Cooper Photographer"
 latitude = 52.4702743
 longitude = -1.9920674
 
