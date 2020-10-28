@@ -11,6 +11,6 @@ tags = ["Web Design", "Wordpress", "Website Hosting", "Drone Videography"]
 username = "artworks_unltd"
 location = "Birmingham"
 
-logo = ""
+logo = "art-unltd-logo.png"
 
 +++
