@@ -11,7 +11,7 @@ tags = ["Web Design", "Wordpress", "Website Hosting"]
 username = "artworks_unltd"
 location = "Birmingham"
 
-logo = "art-unltd-logo.png"
+logo = "AU-logo.jpg"
 
 [[products]]
   title = "Custom Website Design"
