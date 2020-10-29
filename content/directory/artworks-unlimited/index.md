@@ -19,13 +19,13 @@ logo = "art-unltd-logo.png"
   price_prx = "350"
   price_gbp = ""
   category = "Business Services"
-  image = ""
+  image = "parity-ad-design.jpg"
 [[products]]
   title = "WordPress Website Tuition"
   description = "One-to-one personal guidance on how to manage and edit your WordPress website. No technical knowledge needed. Easy and enjoyable learning. "
   price_prx = "17 /ph"
   price_gbp = ""
   category = "Business Services"
-  image = ""
+  image = "parity-wp-guide.jpg"
   
 +++
