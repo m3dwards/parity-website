@@ -33,7 +33,7 @@ logo = "avalon-logo2.jpg"
   price_prx = "Project-based pricing"
   price_gbp = ""
   category = "Premises & Office"
-  image = "interior-design.jpg"
+  image = "interior-desing.jpg"
 [[products]]
   title = "Brand Consultants"
   description = "Brand concept research, design and development, to roll out and launch with ongoing marketing and promotion."
