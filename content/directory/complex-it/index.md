@@ -1,5 +1,5 @@
 +++
-name = "Complex IT"
+name = "Compex IT"
 latitude = 52.4854088
 longitude = -1.9067244
 
