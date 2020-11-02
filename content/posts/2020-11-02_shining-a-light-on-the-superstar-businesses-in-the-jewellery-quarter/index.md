@@ -7,9 +7,11 @@ tags = []
 author = "Matteo Vanzini"
 draft = true
 # 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
-social_image = ""
-social_image_alt_text = ""
+social_image = "#birminghamis.jpg"
+social_image_alt_text = "#Birminghamis"
 +++
+
+![#Birminghamis](#birminghamis.jpg)
 
 ## Shining a light on the ‘superstar’ businesses in the Jewellery Quarter
 
@@ -33,6 +35,8 @@ These stories are from local independent businesses who have stepped up during t
 
 #### [1000 Trades](https://www.birmingham-jewellery-quarter.net/listing/1000-trades/)
 
+![1000 Trades outside sittings](1000trades.jpg)
+
 The neighbourhood bar and kitchen is located within one of the many listed buildings in the Jewellery Quarter.
 
 Located on Frederick Street, the 1000 Trades was ahead of the game upon the original easing of the lockdown restrictions. 
@@ -40,6 +44,8 @@ Located on Frederick Street, the 1000 Trades was ahead of the game upon the orig
 The team worked with Birmingham City Council to introduce outside seating around the area. This allowed the team to be able to offer social-distanced dining tables outdoors during the summer months, meaning they could cater to a higher number of people at one of their peak periods of the year.
 
 #### Barber Therapy
+
+![Barber Therapy studio](barber.jpg)
 
 Hairdressers and barbers have to be face to face with their clients to offer their services.
  
@@ -52,6 +58,8 @@ They were able to offer a completely secure and safe environment for customers, 
 The team also developed their own online booking system, to ensure appointments were scheduled to the minute, to make sure there were no crossovers where face-to-face contact was necessary.
 
 #### Roots Market
+
+[Roots Market dispensers](roots-market.jpg)
 
 A new business to the Jewellery Quarter, post-lockdown, is the Roots Market.
  
