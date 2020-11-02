@@ -7,11 +7,11 @@ tags = []
 author = "Matteo Vanzini"
 draft = false
 # 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
-social_image = "#birminghamis.jpg"
+social_image = "birminghamis.jpg"
 social_image_alt_text = "#Birminghamis"
 +++
 
-![#Birminghamis](#birminghamis.jpg)
+![#Birminghamis](birminghamis.jpg)
 
 ## Shining a light on the ‘superstar’ businesses in the Jewellery Quarter
 
