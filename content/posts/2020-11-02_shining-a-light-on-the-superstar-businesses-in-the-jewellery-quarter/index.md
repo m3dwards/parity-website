@@ -5,7 +5,7 @@ date = "2020-11-02"
 categories = ["Company News"]
 tags = []
 author = "Matteo Vanzini"
-draft = true
+draft = false
 # 1200x628 pixels and an aspect ratio of 1.91:1, less than 1MB otherwise will be rejected
 social_image = "#birminghamis.jpg"
 social_image_alt_text = "#Birminghamis"
@@ -59,7 +59,7 @@ The team also developed their own online booking system, to ensure appointments 
 
 #### Roots Market
 
-[Roots Market dispensers](roots-market.jpg)
+![Roots Market dispensers](roots-market.jpg)
 
 A new business to the Jewellery Quarter, post-lockdown, is the Roots Market.
  
