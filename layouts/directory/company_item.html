@@ -18,10 +18,12 @@
                         <p class="icontext">{{ .Params.address }}</p>
                     </li>
 
+                    {{ if .Params.website }}
                     <li class="mb-3">
                         <img class="icon" src="/images/icons/globe.svg" alt="Globe icon">
                         <span class="icontext"><a href="{{ .Params.website }}">{{ .Params.website }}</a></span>
                     </li>
+                    {{ end }}
 
                     <li class="mb-3">
                         <img class="icon" src="/images/icons/envelope-closed.svg" alt="Envelope icon">
