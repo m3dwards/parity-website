@@ -13,6 +13,6 @@ tags = ["Cleaning Services"]
 username = "sunny_day"
 location = "Birmingham"
 
-logo = ""
+logo = "sunny-day.jpg"
  
 +++
