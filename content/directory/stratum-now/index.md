@@ -63,6 +63,13 @@ logo = "logo.jpg"
   price_gbp = ""
   category = "Business Tools"
   image = "net-analysis.jpg"
+[[products]]
+  title = "Online Shop"
+  description = "Online shop front to sell your merch - click&collect or with delivery, PayPal integration, very low running costs."
+  price_prx = "100% subject to requirements"
+  price_gbp = ""
+  category = "Business Tools"
+  image = ""
 
 +++
 
