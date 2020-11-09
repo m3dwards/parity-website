@@ -65,7 +65,7 @@ logo = "logo.jpg"
   image = "net-analysis.jpg"
 [[products]]
   title = "Online Shop"
-  description = "Online shop front to sell your merch - click&collect or with delivery, PayPal integration, very low running costs."
+  description = "Online shop front to sell your merch - click&collect or with delivery, PayPal integration. One year, very low running costs."
   price_prx = "100% subject to requirements"
   price_gbp = ""
   category = "Business Tools"
