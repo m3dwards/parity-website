@@ -69,7 +69,7 @@ logo = "logo.jpg"
   price_prx = "100% subject to requirements"
   price_gbp = ""
   category = "Business Tools"
-  image = ""
+  image = "online-shop.jpg"
 
 +++
 
