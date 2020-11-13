@@ -27,5 +27,12 @@ logo = "AU-logo.jpg"
   price_gbp = ""
   category = "Business Services"
   image = "parity-wp-guide - Paul Shotan.jpg"
+[[products]]
+  title = "Website Hosting"
+  description = "Dedicated Server Web Hosting with free support, Emails, MySQL, Backups. Personal, local support always. £7 per month (£84 per annum) all inclusive."
+  price_prx = "42 /py"
+  price_gbp = "42 /py"
+  category = "Business Services"
+  image = "hosting.jpg"  
   
 +++
