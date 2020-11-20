@@ -11,6 +11,6 @@ tags = ["Social Media", "Marketing", "Facebook", "Instagram"]
 username = "isel_social"
 location = "Birmingham"
 
-logo = ""
+logo = "ISEL-logo.jpg"
 
 +++
