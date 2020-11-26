@@ -33,5 +33,5 @@ logo = "ISEL-logo.jpg"
   price_prx = "FREE"
   price_gbp = ""
   category = "Business Services" 
-  image = ""
+  image = "ISEL.jpg"
 +++
