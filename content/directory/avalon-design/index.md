@@ -14,13 +14,6 @@ location = "Moseley"
 logo = "avalon-logo2.jpg"
 
 [[products]]
-  title = "FREE Initial Consultation"
-  description = "Architecture | Interior Design | Branding."
-  price_prx = "FREE"
-  price_gbp = ""
-  category = "Premises & Office"
-  image = "avalon-logo2.jpg"
-[[products]]
   title = "Architecture"
   description = "Feasibility Studies, Planning Applications, Conservation Area Consent and Building Regulation Approval."
   price_prx = "Project-based pricing"
@@ -41,5 +34,12 @@ logo = "avalon-logo2.jpg"
   price_gbp = ""
   category = "Premises & Office"
   image = "branding.jpg"
+[[products]]
+  title = "FREE Initial Consultation"
+  description = "Architecture | Interior Design | Branding."
+  price_prx = "FREE"
+  price_gbp = ""
+  category = "Premises & Office"
+  image = "avalon-logo2.jpg"
   
 +++
