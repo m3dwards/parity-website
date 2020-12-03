@@ -43,7 +43,7 @@ logo = "Energy-confidence-logo-.png"
   image = "home.jpg"
 [[products]]
   title = "Green Homes Grant - Webinar"
-  description = "All your questions answered. **17 December 2020, 7pm**.  5 Parity - all proceeds to [Anawim](https://anawim.co.uk/) - Birmingham's Centre for Women."
+  description = "All your questions answered. [Book here](https://energyconfidence.co.uk/webinar/) - **17 December 2020, 7pm**. All proceeds from this webinar will go to [Anawim](https://anawim.co.uk/) - Birmingham's Centre for Women."
   price_prx = "5"
   price_gbp = ""
   category = "Premises & Office"
