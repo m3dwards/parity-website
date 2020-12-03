@@ -35,19 +35,19 @@ logo = "Energy-confidence-logo-.png"
   category = "Premises & Office"
   image = "phil-2.jpg"
 [[products]]
-  title = "[On-site energy advice package with thermal imaging](https://energyconfidence.co.uk/product/on-site-advice-with-thermal-imaging-home-office-parity/)]"
+  title = "[Energy advice with thermal imaging](https://energyconfidence.co.uk/product/on-site-advice-with-thermal-imaging-home-office-parity/)"
   description = "Save the planet and manage the running costs of your home office through energy saving. Expert coaching to help you with an energy saving action plan."
   price_prx = "349"
   price_gbp = ""
   category = "Premises & Office"
-  image = ""
+  image = "green-homes.jpg"
 [[products]]
   title = "Green Homes Grant - Webinar"
   description = "All your questions answered. **17 December 2020, 7pm**.  5 Parity - all proceeds to [Anawim](https://anawim.co.uk/) - Birmingham's Centre for Women."
   price_prx = "5"
   price_gbp = ""
   category = "Premises & Office"
-  image = ""
+  image = "home.jpg"
 [[products]]
   title = "Energy Saving Business Workbook"
   description = "Increase profits and save the planet through energy savings. A [self-help workbook](https://energyconfidence.co.uk/product/orkbook-business) to make a business action plan to save energy."
@@ -55,5 +55,4 @@ logo = "Energy-confidence-logo-.png"
   price_gbp = ""
   category = "Premises & Office"
   image = "phil-4.jpg"
-  
 +++
