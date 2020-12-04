@@ -14,7 +14,7 @@ location = "Moseley"
 logo = "Energy-confidence-logo-.png"
 
 [[products]]
-  title = "Onsite Energy Advice Package"
+  title = "Home Office Energy Advice Package"
   description = "Increase business profits and save the planet through energy saving. [Expert coaching](https://energyconfidence.co.uk/product/on-site-advice-package-small-business-parity/) to help you with an energy action plan."
   price_prx = "349"
   price_gbp = ""
