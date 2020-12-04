@@ -35,7 +35,7 @@ logo = "Energy-confidence-logo-.png"
   category = "Premises & Office"
   image = "phil-2.jpg"
 [[products]]
-  title = "Energy advice | thermal imaging"
+  title = "Energy Advice | Thermal Imaging"
   description = "[On-site energy advice](https://energyconfidence.co.uk/product/on-site-advice-with-thermal-imaging-home-office-parity/). Expert coaching to help you save the planet and manage the running costs of your premises through an energy saving action plan."
   price_prx = "349"
   price_gbp = ""
