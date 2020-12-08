@@ -8,7 +8,7 @@ telephone = "0779 183 9025"
 website = "https://energyconfidence.co.uk/"
 email = "philip.beardmore@gmail.com"
 tags = ["Energy Efficiency", "Energy Saving"]
-username = "energy-confidence"
+username = "energyconfidence"
 location = "Moseley"
 
 logo = "Energy-confidence-logo-.png"
