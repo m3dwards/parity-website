@@ -15,9 +15,9 @@ social_image_alt_text = "Screenshot of the Zoom call showing people attending"
 
 ## A local business community in Parity
 
-### Some thoughts about the virtual networking event we hosted last week.
+#### Some thoughts about the virtual networking event we hosted last week.
 
-For months we’ve been focusing on raising awareness about the project, reaching out to the local business community and expanding our network so that more products would be available in our [marketplace](https://parity.uk/marketplace/). However, we almost forgot our greatest asset is Parity's existing network - over 20 local business-owners who trust and support each other. We wanted to strengthen these relationships and facilitate more trade so that Parity can have a positive impact on each one of them. A virtual networking event was a good step in that direction.
+For months we’ve been focusing on raising awareness about the [project](https://parity.uk), reaching out to the local business community and expanding our network so that more products would be available in our [marketplace](https://parity.uk/marketplace/). However, we almost forgot our greatest asset is Parity's existing network - over 20 local business-owners who trust and support each other. We wanted to strengthen these relationships and facilitate more trade so that Parity can have a positive impact on each one of them. A virtual networking event was a good step in that direction.
 
 #### _“Strengthen personal relationships, trust and the sense of community that is so important for Parity to work”_
 
