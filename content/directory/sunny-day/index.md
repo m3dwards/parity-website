@@ -15,4 +15,11 @@ location = "Birmingham"
 
 logo = "sunny-day.jpg"
  
+[[products]]
+  title = "Cleaning Services"
+  description = "House and office cleaning. Cleaning products can be agreed separately."
+  price_prx = "20% based on requirements"
+  price_gbp = "80% based on requirements"
+  category = "Premises & Office"
+  image = "cleaner.jpg"
 +++
