@@ -1,6 +1,6 @@
 +++
 title = "Parity Network is closing its local currency"
-description = ""
+description = "Final thoughts from the development of our B2B currency in Birmingham"
 date = "2021-01-21"
 categories = ["Business Development"]
 tags = []
