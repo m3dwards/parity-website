@@ -11,12 +11,11 @@ social_image_alt_text = "Parity Team"
 +++
 
 ![Screenshot](group_photo.jpg)
-+++
 
 
 ## Parity Network is closing its local currency
 
-Over the past three years we have been working on developing an innovative digital currency targeted towards small businesses within Birmingham. The model was inspired by the successes of Sardex, Italy and WIR, Switzerland, where 10,000s of small businesses conduct £100millions-worth of transactions each year. It differed from the more popular cryptocurrencies as it allowed its users to access the currency through spending a zero interest credit facility, instead of buying it like with Bitcoin. We believed that the use of a zero interest credit facility within the digital currency would support the cashflow of small businesses in Birmingham, a group that is often underrepresented by the financial system. We are sad to say that as of 25th January 2021 we have decided to cease the operations of our digital currency.
+Over the past three years we have been working on developing an innovative digital currency targeted towards small businesses within Birmingham. The model was inspired by the successes of Sardex, Italy and WIR, Switzerland, where 10,000s of small businesses conduct £100millions-worth of transactions each year. It differed from the more popular cryptocurrencies as it allowed its users to access the currency through spending a zero interest credit facility, instead of buying it like with Bitcoin. We believed that the use of a zero interest credit facility within the digital currency would support the cashflow of small businesses in Birmingham, a group that is often underrepresented by the financial system. We are sad to say that as of 1st february 2021 we have decided to cease the operations of our digital currency.
 
 Our reasoning for this decision largely focuses on the traction that we were able to obtain among businesses in Birmingham. Although we managed to attract 25 businesses to our model by the end of 2020, our initial business plan was to be at 125 businesses at this stage. Although the covid-19 outbreak has not been helpful, we did struggle to convince enough business-owners about the benefits of participating within our digital currency. Although we engaged with thousands of local businesses within Birmingham, we found that a fraction of 1% were convinced by this alternative way of conducting transactions. Through undertaking this journey we have acquired a wide set of generic skills associated with running a small business. We have also helped the development of another digital currency in Wales called the Celyn, that we hope will be more successful than ourselves.
 
