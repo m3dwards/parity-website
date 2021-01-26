@@ -6,6 +6,11 @@ categories = ["Business Development"]
 tags = []
 author = "Stuart Bowles"
 draft = true
+social_image = "group_photo.jpg"
+social_image_alt_text = "Parity Team"
++++
+
+![Screenshot](group_photo.jpg)
 +++
 
 
