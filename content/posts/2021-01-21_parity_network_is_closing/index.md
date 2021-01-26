@@ -5,7 +5,7 @@ date = "2021-01-21"
 categories = ["Business Development"]
 tags = []
 author = "Stuart Bowles"
-draft = true
+draft = false
 social_image = "group_photo.jpg"
 social_image_alt_text = "Parity Team"
 +++
